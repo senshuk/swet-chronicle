@@ -31,6 +31,8 @@ Somewhere south of her, a man is walking through the same fog looking for his ow
 
 He does not remember where he left it. This is the problem, and Stacey — who has been awake long enough to have opinions — points out that by now it has almost certainly stopped lying down and started walking. He agrees that this is likely. He cannot narrow it down beyond *a bar, north of the driving school*, and there are several bars.
 
+<!--RECONFIG-->
+
 That is senpai, and the body belongs to Mateo Zúñiga, who was him until two days ago. Remember the name. He is going to use it again.
 
 He finds it in five minutes.
