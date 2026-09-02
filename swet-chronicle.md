@@ -482,8 +482,98 @@ Four hours later he will fall off that structure and die.
 Not because of load bearing.
 
 ---
-<!-- CH:10 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
-## X. The Trailer
+<!-- CH:10 | One at a Time | Aug 15-21 | frank,stacey,senpai | deaths,building -->
+## X. One at a Time
+
+Nobody in this record ever wins a fight.
+
+They win encounters — thousands of them, across eighteen days, one after another after another — but there is no moment anywhere in the archive where three armed people stand together and beat a crowd. It is not that kind of story and they are not those kind of people, and the skill logs say so in numbers before anybody says it out loud.
+
+Frank's best weapon is an axe, and he gets it to level five. That is the highest combat skill anybody in this county ever reaches. He is also the strongest of the three by a distance, and the most willing, and it is worth remembering while reading the rest of this that the man who does most of the fighting is the man who dies six times.
+
+Stacey runs an axe and a long blade, both to four, and she is the quickest and the most evasive: top of the group for nimbleness and for sprinting, and the only one of them who ever bothers with sneaking at all — and she only gets that to two.
+
+And senpai, the master carpenter, the man with ten levels of woodwork and a house he built out of nothing, ends the run with **axe two**.
+
+He is the worst fighter in Knox County. He said so himself on the second day and nobody argued:
+
+`my puto char gets exhausted after 2 swings of axe`
+
+---
+
+The dead are not fought here. They are processed, singly, by tired people with degrading tools.
+
+Frank gets a muscle strain from killing one of them on the sixteenth. On the twentieth, at twenty past three in the afternoon, he reports a personal best:
+
+`hit 2z with one swing`
+
+Two. He mentions it because it is remarkable. And the following morning, having thought about it overnight, he files the correction:
+
+`haven't been able to hit more than 1z at a time`
+
+That is the ceiling. Two, once, by accident, and otherwise one at a time for eighteen days. Nobody in this record ever fights a group and wins; what they do instead is take a group apart at the rate of one person per swing, and then rest, because they are all permanently exhausted from carrying things.
+
+`rafa so tired from carrying just one corpse`
+
+The tools do not hold up either. Frank cannot get his axe sharp — `i didn't do jack to my axe, still dull cmon` — and then it goes entirely:
+
+`poop my axe broke`
+
+He tries a machete and returns to the axe within eleven minutes on the grounds that the pick swings too slowly. There are, at all times, spare axes in the utility closet of the living room, because these people have learned that an axe is a consumable.
+
+And senpai, on the nineteenth, going out to clear a house:
+
+`almost went to battle without weapon equipped`
+
+---
+
+Nobody can shoot.
+
+They loot firearms constantly and comment on it — fire axes in the bedroom closets and a ton of guns in the kitchen, a pistol in a nightstand, a crate of them moved into storage, a shotgun taken from a police station — and across eighteen days and three people the highest marksmanship any of them attains is three. Stacey, who empties half the county into her trucks, ends on **aiming one**.
+
+The guns are inventory. They are looted, sorted, stored, and mentioned; they are almost never fired, because firing one is an announcement, and the one thing everybody in this group understands is what noise does.
+
+Which they understand because noise is their primary weapon. They shout — four hundred and eight times in the record, more than once an hour, every hour any of them is awake. They shout to pull a crowd off a body, off a trailer, off a truck. Stacey drives into a mass of them and uses a car horn to walk it somewhere else. Frank's entire bomb plan is a noise-based delivery system.
+
+Their combined stealth skill across three people and eighteen days is two.
+
+They do not hide from the dead. They call them, deliberately, to somewhere the dead are more convenient.
+
+---
+
+There is one more thing, and it explains the forge.
+
+On the twenty-first of August, Stacey's machete — her best weapon, the one she had switched to the previous afternoon — started coming apart in her hands.
+
+`my machete losing durability quickly`
+
+`ill keep machete in car as backup`
+
+`tried to repair machete several times. gave me xp, but no condition. almost broken still`
+
+You cannot fix a machete in Knox County. You can be given credit for trying, which is worse.
+
+The next day she began building a blacksmith's forge, and spent four days chasing it down a chain of prerequisites that reads like a curse, and when it finally paid out it produced machetes and long blades forged out of scrap stripped from dismantled cars — which is to say, without limit. Fifteen minutes at the anvil bought ten machetes, and she told the others to stop being precious with them.
+
+The forge is usually described in this account as a hobby that got out of hand. It was not. It started as a woman watching the only thing standing between her and the county wear out in her hand, and deciding that would not be allowed to happen again.
+
+---
+
+Which is as close as this record comes to stating what any of them actually wants.
+
+They never say it. In eighteen days nobody explains why they are doing this, and the only direct statement of ambition anybody makes is Frank's, and it is about delegating textile work. So the skills have to answer for them, and they do, because a skill level is just an accounting of where a person put their hours when nobody made them.
+
+Stacey maxed four: cooking, foraging, butchering, blacksmithing. Every one of them turns the world into supplies. She wanted the group to stop needing anything from outside.
+
+Senpai maxed one. Woodwork, ten, plus the masonry and maintenance that serve it. He wanted a building, and he was prepared to be the worst fighter in the county in order to have one.
+
+Frank maxed tailoring and carving — the two slowest, least urgent trades available to anyone — and put nine levels into mechanics on top. He wanted a workshop, and a supply chain, and somebody else to do the weaving.
+
+None of the three of them ever chose to be good at killing. Frank got to axe five because he was out in front and it kept happening to him.
+
+---
+<!-- CH:11 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
+## XI. The Trailer
 
 Past the gas station, on the right, there is a trailer.
 
@@ -526,8 +616,8 @@ There is a line from two days earlier that reads differently once you know what'
 Note the *tmrw*. Not *if I die* — **if I die tomorrow.** He was not asking a hypothetical. He was doing capacity planning.
 
 ---
-<!-- CH:11 | Coinflips | Aug 14-31 | stacey | building -->
-## XI. Coinflips
+<!-- CH:12 | Coinflips | Aug 14-31 | stacey | building -->
+## XII. Coinflips
 
 Nine minutes.
 
@@ -587,8 +677,8 @@ The last thing she does in the record is give directions to Brandenburg to two m
 
 The last thing anybody says to her is `swet`.
 ---
-<!-- CH:12 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
-## XII. Bomb Time
+<!-- CH:13 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
+## XIII. Bomb Time
 
 The shopping list starts on the twenty-first, and the politeness of it is what gets you.
 
@@ -661,8 +751,8 @@ Three days later, in the middle of an unrelated conversation:
 `didnt realize i been sleeping in room with 2 aerosol bombs in nightstand`
 
 ---
-<!-- CH:13 | The Keys | Aug 14-31 | frank,senpai,stacey | journal,driving -->
-## XIII. The Keys
+<!-- CH:14 | The Keys | Aug 14-31 | frank,senpai,stacey | journal,driving -->
+## XIV. The Keys
 
 There is no Knox County unless Frank gets up.
 
@@ -751,12 +841,12 @@ Nobody ever thanked him for that either.
 Stacey collects the bodies. Frank keeps the ground they fall on.
 
 ---
-<!-- CH:14 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
-## XIV. The Forge
+<!-- CH:15 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
+## XV. The Forge
 
-Nobody asked for a forge.
+The forge begins the day after Stacey's machete gives out, and she never once connects the two out loud.
 
-There was no forge shortage, no weapons crisis, no strategic gap a forge would close. Stacey simply decided, somewhere around the twenty-second of August, that the group was going to have a blacksmith's forge — and then spent four days pursuing it down a chain of prerequisites that reads like a curse laid on a village.
+She spent four days pursuing it down a chain of prerequisites that reads like a curse laid on a village.
 
 She lays it out herself, in six lines:
 
@@ -794,15 +884,15 @@ Far enough into the craft, the sledgehammer becomes possible — the most wanted
 
 `behold!`
 
-A little further on come machetes and longswords, as good as any ever carried, forged out of scrap stripped from dismantled cars — which is to say, without limit. Fifteen minutes at the anvil bought ten machetes, and she told the others to stop being precious about them, because they were effectively unlimited now.
+A little further on come the machetes and the long blades, and the weapon problem is over for good.
 
 Stacey started this run by pointing out where the painkillers were.
 
 She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher's hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.
 
 ---
-<!-- CH:15 | Looks Great Back Here | Aug 24-26 | senpai,frank,stacey | building,irvington -->
-## XV. Looks Great Back Here
+<!-- CH:16 | Looks Great Back Here | Aug 24-26 | senpai,frank,stacey | building,irvington -->
+## XVI. Looks Great Back Here
 
 Nothing goes wrong on the twenty-sixth of August, which makes it the only chapter in this account that has to be assembled out of a good day.
 
@@ -885,8 +975,8 @@ He asked, on the morning he started the second storey, whether it needed support
 There wasn't. The structure held. It is still standing at the end of the record, with snow on it.
 
 ---
-<!-- CH:16 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
-## XVI. No Wall
+<!-- CH:17 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
+## XVII. No Wall
 
 At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.
 
@@ -931,8 +1021,8 @@ Six minutes of downtime. Then senpai came back with a new man and announced him 
 `junji morimoto gonna finish that roof`
 
 ---
-<!-- CH:17 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
-## XVII. Sixty Seconds
+<!-- CH:18 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
+## XVIII. Sixty Seconds
 
 Junji Morimoto did not finish that roof.
 
@@ -1011,8 +1101,8 @@ Senpai's own summary of his architectural career, delivered the following mornin
 `many lives lost building 2nd floor`
 
 ---
-<!-- CH:18 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
-## XVIII. This Is Fine
+<!-- CH:19 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
+## XIX. This Is Fine
 
 On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.
 
@@ -1043,8 +1133,8 @@ Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
 `me trying to have breakfast`
 
 ---
-<!-- CH:19 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
-## XIX. Down the Road from the Safehouse
+<!-- CH:20 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
+## XX. Down the Road from the Safehouse
 
 The last death in the record is the only one anybody plans.
 
@@ -1087,8 +1177,8 @@ It took a while. He said so.
 Stacey, offering hospice care.
 
 ---
-<!-- CH:20 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
-## XX. Christmas Eve
+<!-- CH:21 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
+## XXI. Christmas Eve
 
 He is collected in the morning, as arranged.
 
@@ -1171,7 +1261,7 @@ And the last thing in the record at all comes three hours later, from a man who 
 `Swettt I'm still gonna get lost`
 
 ---
-<!-- CH:21 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:22 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE LEDGER
 
 Three people who arranged their days around meeting every evening in Knox County to argue about where the sledgehammers were. Frank kept the relay running off a second machine and restarted it whenever asked, at any hour, apologizing when he overslept.
@@ -1246,7 +1336,7 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 *Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*
 
 ---
-<!-- CH:22 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
+<!-- CH:23 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
 ## APPENDIX A — THE TALE OF YEARS
 
 Two chronologies run through this document and only one of them is fiction.
@@ -1287,7 +1377,7 @@ Two chronologies run through this document and only one of them is fiction.
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
 ---
-<!-- CH:23 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
+<!-- CH:24 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
 ## APPENDIX B — THE LINE OF SENPAI
 
 Frank's men all answered to one name and he never distinguished them. Stacey was one woman throughout. Senpai kept a house.
@@ -1320,7 +1410,7 @@ The consequence is the strangest object in this whole account: on 20 August, Raf
 **Stacey Stevenson**, alone of the three, was never replaced. Two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — one woman throughout, and still alive at the last line of the record. The other two houses go through fourteen men between them. Hers is not a line. It is a person.
 
 ---
-<!-- CH:24 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:25 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
 The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down, which is that **its central word is inflected by who is saying it rather than by what they mean.**
@@ -1374,7 +1464,7 @@ Three fixed utterances exist for drawing the dead: `HEY!`, `HEY YOU!`, and `OVER
 The heaviest concentration in the record is not aimed at the dead at all. On the morning of 28 August, all three shouted thirty-five times in two minutes — a tenth of the archive's total — inside their own house, trying to make a corpse answer.
 
 ---
-<!-- CH:25 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:26 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX D — OF THE TWO HOLDINGS
 
 ### The first: Rosewood
@@ -1398,7 +1488,7 @@ At the close of the record the second holding is the safest structure any of the
 Established 30 August somewhere beyond Ekron — the record fixes the coordinates but never the name — four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
 
 ---
-<!-- CH:26 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
+<!-- CH:27 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
 ## APPENDIX E — THE LAST BROADCASTS
 
 Eighteen stations were transmitting into Knox County when the line was drawn. Four radio, twelve television, one amateur band, and one military frequency that only ever broadcast numbers.
@@ -1445,7 +1535,7 @@ The second is Hitz FM. The music station's last transmission was *Danny Boy*, pl
 The record ends in snow, on Christmas Eve, with three people planning to drive north.
 
 ---
-<!-- CH:27 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:28 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Two things are drawn here and neither of them was drawn by hand.
