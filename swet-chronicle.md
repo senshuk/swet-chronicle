@@ -1264,12 +1264,22 @@ Established 30 August somewhere beyond Ekron — the record fixes the coordinate
 <!-- CH:25 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
-Nobody drew this. It is assembled from 1,296 recorded positions — every time any of the three entered or left a vehicle over eighteen days, recorded automatically, with coordinates attached, and joined in order.
+Two things are drawn here and neither of them was drawn by hand.
+
+Underneath is the county itself — every road, every river and lake, and the footprint of every standing building, taken from the survey the place keeps of itself. Nobody in this record ever saw it laid out like this. They had paper maps of two towns and an annotated scrap of a third, and they navigated the rest by remembering.
+
+On top of it are 1,296 recorded positions: every time any of the three entered or left a vehicle over eighteen days, logged automatically, with coordinates attached, joined in order.
+
+Put together they answer a question the chat logs never do, which is whether these people used the roads. Mostly they did. The tracks sit on the tarmac for hundreds of tiles at a stretch — and then, twice, they do not.
 
 The dense scribble at the right is Rosewood, five days of it. The long diagonal is the nineteenth of August, the only day the group had no address. The mass on the left is Irvington and eleven days of stripping the country around it. The thin line running north at the top left is the thirty-first: the last afternoon, the turn toward Brandenburg, drawn at speed by three people who had finally run out of smaller places to be careful in.
 
 The crosses are where people stopped.
 
+The two moments where the tracks leave the road system entirely are worth finding. One is the nineteenth, cutting the corner between the towns. The other is the last afternoon, running dead straight up the highway to the north, on a road Stacey had spent the day clearing wrecks off so the other two could take it at speed.
+
 <!--MAP-->
 
 Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roof. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** the first Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the second Marco, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
+
+*The county beneath the routes is redrawn from Project Zomboid's own world data, by The Indie Stone. The lines on top of it are ours.*
