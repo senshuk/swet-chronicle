@@ -1290,17 +1290,25 @@ It is called Sunderland Hills. It opened in 1910 as a tuberculosis hospital, gre
 
 And underneath it there is a tunnel.
 
-It was built to carry steam and supplies up the hill from the heating plant. But for about twenty years, between the twenties and the forties, the staff also used it to move the dead — down the slope, out of sight, into a waiting ambulance at the bottom — for one stated reason, which is the single most relevant sentence in this entire document:
+It was built to carry steam and supplies up the hill from the heating plant, and it had a cable car in it for hauling things through.
 
-*so that the patients would not know that anyone had died.*
+And there is a story about it, which everybody who has ever been sold a ticket to that building has been told, and which nobody has ever documented. The story is that for about twenty years, between the twenties and the forties, the staff used the tunnel for something else: they sent the dead down it — down the slope, out of sight, into a waiting ambulance at the bottom — so that the patients upstairs would not know how many were dying.
 
-They built a corridor to keep the record away from the living.
+It may not be true. It is an anecdote with no paperwork behind it, attached to a service tunnel, repeated for decades because it is the kind of thing people want a building like that to have done.
+
+Which makes it the most appropriate destination imaginable for this particular group of people. They are heading, at the end of eighteen days spent writing everything down, toward a building whose most famous feature is an undocumented rumour about concealing a death count.
 
 Stacey has read a flier about this place, and what she has concluded is that it would make a tremendous base.
 
 ---
 
 They do not appear to know what Brandenburg is. Brandenburg is one of the four places the army named when it drew the line on the sixth of July — Muldraugh, West Point, Fort Knox, and Brandenburg. It is not a town they are driving *to*. It is a corner of the original cordon, one of the spots where somebody decided this far and no further, and was wrong.
+
+It had also already been destroyed once that year. On the eighteenth of April a tornado came through the northeast of the town, killed three people, injured dozens and levelled houses; four in ten homes and three in ten businesses were damaged. Hundreds of residents were still in hotels and trailer parks in July, still waiting on federal money the Governor kept saying was on the way, with the damage patched over in bare wood. The county paper was still chasing that story on the first of July.
+
+The money never arrived. Five days later the army drew a line that put the town inside it.
+
+So the place these three are driving toward on the last afternoon in the record is a town that was flattened in the spring, abandoned by the state in the summer, and then sealed in — and the reason they are going is that there is a haunted hospital near it.
 
 Beyond it is Louisville, which is where the line failed and the infection got out into the world, and which is the place all three of them have been idly describing as the eventual destination — the big city, the last one, the one you go to when you have run out of smaller places to be careful in. Frank's stated ambition for Louisville has never been more specific than shooting things and blowing things up there.
 
