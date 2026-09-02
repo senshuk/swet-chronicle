@@ -154,8 +154,42 @@ That night, in the channel where they talk when they aren't in Kentucky, Frank d
 Frank takes it in, thanks her, and then, unable to help himself, sends them a picture of a man mid-swing, captioned *Felt Wrong Not To Swing.*
 
 ---
-<!-- CH:4 | The Dryer | Aug 16 | senpai,stacey | rosewood,death,roof -->
-## IV. The Dryer
+<!-- CH:4 | The Helicopter | Aug 15-16 | stacey,senpai,frank | rosewood -->
+## IV. The Helicopter
+
+On the afternoon of the fifteenth, something came over Rosewood and would not go away.
+
+Nobody ever established what it was. A news helicopter, most likely — somebody outside the cordon still flying, still filming, still working on the assumption that there was an audience for it. It could as easily have been military. It did not land, it did not speak, and it stayed up there for several hours.
+
+What a helicopter is, in a county where the dead navigate entirely by sound, is a noise that moves.
+
+Everything in Rosewood that could still walk went to look at it, and because the noise kept moving they kept following it — out of the houses Stacey had emptied one at a time, off the roads she had checked, through the streets around the safehouse, and into the yards of the places she had already crossed off. It took an afternoon to undo ten days of quiet work.
+
+`cleared spots are no longer clear`
+
+`even around base`
+
+Nobody aboard would have known they were down there. It is the only contact the outside world makes with these three in the entire record, and it consists of ruining their neighbourhood by accident, on the way to somewhere else.
+
+Then, in the same flat register she uses for weather and for corpses, Stacey noted that it was of course extremely foggy the following day.
+
+---
+
+The next morning senpai heard rotors again, or thought he did.
+
+`wat the i hear heli i think`
+
+`pls not again!`
+
+Both of them had understood it to be a one-time event, and Stacey confirmed with some feeling that it was supposed to be. Nothing came of it. Nothing ever came again.
+
+Ten days later, in a different town, in the middle of a conversation about firewood, Frank asked whether they were still exposed to that sort of thing or whether it had already happened to them. It had. One aircraft, on the second afternoon of the record, and then nothing overhead for the rest of any of their lives.
+
+Somebody looked once. They did not come back, they did not land, and by every account of what happened to Knox County afterward, there was nobody left outside for them to report it to.
+
+---
+<!-- CH:5 | The Dryer | Aug 16 | senpai,stacey | rosewood,death,roof -->
+## V. The Dryer
 
 It is the middle of the afternoon on the sixteenth of August and Stacey is downstairs, doing what she is always doing, which is deciding where things go.
 
@@ -204,8 +238,8 @@ Frank said nothing at all for four hours. Then, at ten to eleven that night, hav
 `lmao`, said Stacey, the next morning.
 
 ---
-<!-- CH:5 | Handrails | Aug 17 | frank,senpai,stacey | roof,aftermath -->
-## V. Handrails
+<!-- CH:6 | Handrails | Aug 17 | frank,senpai,stacey | roof,aftermath -->
+## VI. Handrails
 
 The day after, senpai asked the group what he ought to build next. He was new, he knew nothing yet, and the house still needed work.
 
@@ -223,9 +257,9 @@ Ten days later — after the move, after the forge, after the bombs, after every
 
 There is one more thing from that week worth setting down, because it explains a great deal about how these three approach a problem.
 
-Frank had chosen his handicaps the way a man loads a pack for a long walk, trading what he could afford to carry against what he wanted in return. He smoked. He read quickly. He saw well in the dark. All three were deliberate, and one of them he regretted within a week — he spent it complaining that Kentucky in the nineteen-nineties contained no cigarettes anywhere, which struck him as historically implausible, since he expected a cigarette in every desk. He gave the habit up in the end, at a price he thought worth paying, and spent the rest of the run seeing less in the dark than he used to.
+All three of them had been built on purpose, each trading away something they could afford to lose for something they wanted more. Frank traded for quick reading and good eyes in the dark, and both of them cost him. Stacey traded in the opposite direction entirely.
 
-Stacey took **slow reader**.
+She took **slow reader**.
 
 `i took slow reader as HAX`
 
@@ -240,8 +274,8 @@ She reads slowly on purpose, having decided the deficiency bought her more than 
 Frank adjusted it twice anyway and got it wrong both times, overshooting on the second attempt into something he described as *too fast*.
 
 ---
-<!-- CH:6 | Write Often | Aug 17 | senpai,stacey,frank | journal -->
-## VI. Write Often
+<!-- CH:7 | Write Often | Aug 17 | senpai,stacey,frank | journal -->
+## VII. Write Often
 
 On August 17 the relay would not let senpai back in.
 
@@ -296,8 +330,8 @@ Nobody asked him to. It confers no bonus. It weighs something.
 He never took it out again. When Rafa died, it was still in there.
 
 ---
-<!-- CH:7 | The Convoy | Aug 19 | frank,senpai,stacey | irvington,driving,move -->
-## VII. The Convoy
+<!-- CH:8 | The Convoy | Aug 19 | frank,senpai,stacey | irvington,driving,move -->
+## VIII. The Convoy
 
 By the nineteenth they had drunk Rosewood dry and it was time to leave.
 
@@ -350,8 +384,8 @@ Senpai looked at that house the way a man looks at a fixer-upper. Over the next 
 It would kill him twice.
 
 ---
-<!-- CH:8 | Three Trades | Aug 20-24 | stacey,senpai,frank | build,skills,irvington -->
-## VIII. Three Trades
+<!-- CH:9 | Three Trades | Aug 20-24 | stacey,senpai,frank | build,skills,irvington -->
+## IX. Three Trades
 
 You can read all three of them out of what they each became good at, which should not work, and does.
 
@@ -434,8 +468,8 @@ Four hours later he will fall off that structure and die.
 Not because of load bearing.
 
 ---
-<!-- CH:9 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
-## IX. The Trailer
+<!-- CH:10 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
+## X. The Trailer
 
 Past the gas station, on the right, there is a trailer.
 
@@ -478,8 +512,8 @@ There is a line from two days earlier that reads differently once you know what'
 Note the *tmrw*. Not *if I die* — **if I die tomorrow.** He was not asking a hypothetical. He was doing capacity planning.
 
 ---
-<!-- CH:10 | Coinflips | Aug 14-31 | stacey | building -->
-## X. Coinflips
+<!-- CH:11 | Coinflips | Aug 14-31 | stacey | building -->
+## XI. Coinflips
 
 Nine minutes.
 
@@ -497,7 +531,7 @@ That is the interval, on the morning of the twenty-first, between Stacey asking 
 
 Her name is Stacey Stevenson, and it is the only name in Knox County that never had to be written down a second time.
 
-Eight men wore senpai's numerals in thirty-seven days. Frank went through six and never bothered to tell them apart. She began on the fourteenth of August and she is still there at the last line of the record, one woman, two thousand seven hundred and thirteen hours, the whole run without an interruption.
+Eight men wore senpai's numerals in eighteen days. Frank went through six and never bothered to tell them apart. She began on the fourteenth of August and she is still there at the last line of the record, one woman, two thousand seven hundred and thirteen hours, the whole run without an interruption.
 
 A county like this keeps track of people by how they end. It has an hour and a cause for all thirteen of them, and the reason it has so little to say about her is that she has never once given it anything to write down.
 
@@ -539,8 +573,8 @@ The last thing she does in the record is give directions to Brandenburg to two m
 
 The last thing anybody says to her is `swet`.
 ---
-<!-- CH:11 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
-## XI. Bomb Time
+<!-- CH:12 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
+## XII. Bomb Time
 
 The shopping list starts on the twenty-first, and the politeness of it is what gets you.
 
@@ -613,8 +647,78 @@ Three days later, in the middle of an unrelated conversation:
 `didnt realize i been sleeping in room with 2 aerosol bombs in nightstand`
 
 ---
-<!-- CH:12 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
-## XII. The Forge
+<!-- CH:13 | The Keys | Aug 14-31 | frank,senpai,stacey | journal,driving -->
+## XIII. The Keys
+
+There is no Knox County unless Frank gets up.
+
+He runs the relay off a second machine, at his own cost, and the county exists only for as long as it is running. He restarts it whenever a setting needs changing, at any hour, on request, without being asked twice. And on the mornings when he overslept — twice by his own admission, both times before ten — the first thing he did on waking was apologize to two people who had not complained.
+
+`sry slept in, server up`
+
+Three words of apology and two of remedy, and then the world was open again.
+
+He also knows the shape of it better than either of them, because he is the one holding it open. There is a limit, for instance, on how far apart the three of them are permitted to be: put two of them at opposite ends of the county and the ground in between is more than the place can hold in mind at once. He found the ceiling, raised it as far as it would go, and then mentioned it in passing, the way you would point out a low bridge. Nobody remarked on it.
+
+But it is true, and it is his. These three are allowed to separate only so far before the county between them starts to fail — and the man who sets that distance, and pays for it, is the one who cannot keep hold of his own possessions.
+
+---
+
+Because Frank loses things. Not occasionally. As a way of being in the world.
+
+The nineteenth of August is the worst of it, and it is not a coincidence that the nineteenth is moving day. Between one in the afternoon and four he put his journal in a leather van and lost the van, lost his flashlight by means he never established, put the journal in a bookcase in an office and left the office, and lost his glasses. Four possessions in three hours, one of them twice, on the day they packed everything they owned into four trucks and a hitch trailer and drove it to the far edge of the map.
+
+The following morning, without preamble: `i lost my jacket cmon`.
+
+On the twenty-fifth he lost his keyring, and asked after it twice in ninety minutes in the same careful register he uses for everything — *if you see my keyring pls let know* — and never saw it again. On the twenty-eighth he lost the journal a third time, and this time it was found for him at once, which was worse.
+
+`where my journal`
+
+`in your room`
+
+`with zombie`
+
+There is a dead man standing over Frank's diary in Frank's bedroom, and the conversation goes on around it for twenty minutes before anybody does anything.
+
+---
+
+He died twice in fourteen minutes on his first afternoon in the county, and the conclusion he drew from it was not that he was new.
+
+It was that the keys were the problem. That being the man who holds the county open is what bends the county against him — and he proposed, seriously and out loud, to hand them to somebody else and see whether his luck improved.
+
+Nobody took him up on it. He never raised it again. He kept the relay for the whole of the run and died four more times, and there is no version of these eighteen days in which he gives it up, because giving it up would have meant no longer being the reason the other two could get in.
+
+---
+
+He had built himself deliberately, the way a man loads a pack for a long walk, trading what he could afford to carry against what he wanted in return. He chose to read quickly. He chose to see well in the dark. And he chose to smoke, on the entirely reasonable assumption that rural Kentucky in 1993 would have a cigarette in every desk drawer.
+
+It did not. He spent a week aggrieved about it on historical grounds, and then tried simply not smoking, to see whether the need would lapse if he ignored it for long enough. It would not. So he got rid of it the only way this county permits, which is to trade something else away: he gave up his night vision to be free of the habit, and spent the rest of his life seeing less than he used to in a county where the power had been off for a fortnight.
+
+`way too dark`
+
+He said it once, on the day he did it, and never mentioned it again.
+
+---
+
+And on the twenty-fourth, in the middle of a run during which he was hungry very nearly all of the time, he reported that he had been neglecting his exercises and was finding it difficult to lose weight.
+
+`literally starving to death most of the time and haven't lost a pound in days`
+
+Frank is starving. Frank is also dieting. Frank has noticed that the two are not cooperating and has decided the problem is the exercises.
+
+---
+
+Six deaths: a scratch behind a Gigamart, a bite, a bedroom with an unknown number of them in it, three in a trailer, his own bomb in his own hand, and a car door he missed by one pixel. He laid every single one of them at the door of the machinery he was responsible for, and in eighteen days he never once suggested that anybody else should have to hold it.
+
+Twice the world stayed shut because Frank was asleep. Both times it opened again within minutes, apology first.
+
+Nobody ever thanked him for that either.
+
+Stacey collects the bodies. Frank keeps the ground they fall on.
+
+---
+<!-- CH:14 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
+## XIV. The Forge
 
 Nobody asked for a forge.
 
@@ -663,8 +767,8 @@ Stacey started this run by pointing out where the painkillers were.
 She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher's hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.
 
 ---
-<!-- CH:13 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
-## XIII. No Wall
+<!-- CH:15 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
+## XV. No Wall
 
 At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.
 
@@ -707,8 +811,8 @@ Six minutes of downtime. Then senpai came back with a new man and announced him 
 `junji morimoto gonna finish that roof`
 
 ---
-<!-- CH:14 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
-## XIV. Sixty Seconds
+<!-- CH:16 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
+## XVI. Sixty Seconds
 
 Junji Morimoto did not finish that roof.
 
@@ -771,8 +875,8 @@ And the following day, the final indignity:
 He needed weather to see his own building.
 
 ---
-<!-- CH:15 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
-## XV. This Is Fine
+<!-- CH:17 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
+## XVII. This Is Fine
 
 On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.
 
@@ -803,8 +907,8 @@ Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
 `me trying to have breakfast`
 
 ---
-<!-- CH:16 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
-## XVI. Down the Road from the Safehouse
+<!-- CH:18 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
+## XVIII. Down the Road from the Safehouse
 
 The last death in the record is the only one anybody plans.
 
@@ -847,8 +951,8 @@ It took a while. He said so.
 Stacey, offering hospice care.
 
 ---
-<!-- CH:17 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
-## XVII. Christmas Eve
+<!-- CH:19 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
+## XIX. Christmas Eve
 
 He is collected in the morning, as arranged.
 
@@ -908,16 +1012,6 @@ Both true. Both plans. The same plan.
 
 ---
 
-The last thing that happens in the record is Stacey giving driving directions, at length, to two men she knows perfectly well will not follow them. The road is clear, she says, up until the city sign — after that she doesn't know. Go slow. The highway splits into two lanes with trees down the middle, and there are dead groups on the tarmac that might flip a car.
-
-`def will hit at least 3 of the trees`
-
-And the last thing in the record at all comes three hours later, from a man who has died six times, blown himself up, lost his glasses, lost his keyring, lost his journal, crashed five cars in one night, and laid every one of his own deaths at the door of the machinery he was responsible for:
-
-`Swettt I'm still gonna get lost`
-
----
-
 The sentence opened by telling them there was no hope of survival, and it was right, and it will go on being right: Teodor Dragomir, walking around that house tonight with a dead man's notebook in his bag and a dead man's machete on his belt, will also die, and so will the one after him, and the record will keep a name and an hour for each of them. It has simply not got round to his yet.
 
 But the sentence only ever promised its own first half. It said *this is how you died*. It never said anything about what you'd be doing at the time.
@@ -929,7 +1023,17 @@ They are not going to use the tunnel. Nobody in this record has ever once moved 
 Thirteen people died in eighteen days and not one of them went down the chute.
 
 ---
-<!-- CH:18 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
+
+The last thing that happens in the record is Stacey giving driving directions, at length, to two men she knows perfectly well will not follow them. The road is clear, she says, up until the city sign — after that she doesn't know. Go slow. The highway splits into two lanes with trees down the middle, and there are dead groups on the tarmac that might flip a car.
+
+`def will hit at least 3 of the trees`
+
+And the last thing in the record at all comes three hours later, from a man who has died six times, blown himself up, lost his glasses, lost his keyring, lost his journal three separate times, crashed five cars in one night, and laid every one of his own deaths at the door of the machinery he was responsible for:
+
+`Swettt I'm still gonna get lost`
+
+---
+<!-- CH:20 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE LEDGER
 
 Three people who arranged their days around meeting every evening in Knox County to argue about where the sledgehammers were. Frank kept the relay running off a second machine and restarted it whenever asked, at any hour, apologizing when he overslept.
@@ -1004,7 +1108,7 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 *Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*
 
 ---
-<!-- CH:19 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
+<!-- CH:21 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
 ## APPENDIX A — THE TALE OF YEARS
 
 Two chronologies run through this document and only one of them is fiction.
@@ -1044,7 +1148,7 @@ Two chronologies run through this document and only one of them is fiction.
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
 ---
-<!-- CH:20 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
+<!-- CH:22 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
 ## APPENDIX B — THE LINE OF SENPAI
 
 Frank's men all answered to one name and he never distinguished them. Stacey was one woman throughout. Senpai kept a house.
@@ -1077,7 +1181,7 @@ The consequence is the strangest object in this whole account: on 20 August, Raf
 **Stacey Stevenson**, alone of the three, was never replaced. Two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — one woman throughout, and still alive at the last line of the record. The other two houses go through fourteen men between them. Hers is not a line. It is a person.
 
 ---
-<!-- CH:21 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:23 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
 The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down, which is that **its central word is inflected by who is saying it rather than by what they mean.**
@@ -1129,7 +1233,7 @@ Three fixed utterances exist for drawing the dead: `HEY!`, `HEY YOU!`, and `OVER
 The heaviest concentration in the record is not aimed at the dead at all. On the morning of 28 August, all three shouted thirty-five times in two minutes — a tenth of the archive's total — inside their own house, trying to make a corpse answer.
 
 ---
-<!-- CH:22 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:24 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX D — OF THE TWO HOLDINGS
 
 ### The first: Rosewood
@@ -1153,7 +1257,7 @@ At the close of the record the second holding is the safest structure any of the
 Established 30 August somewhere beyond Ekron — the record fixes the coordinates but never the name — four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
 
 ---
-<!-- CH:23 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:25 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Nobody drew this. It is assembled from 1,296 recorded positions — every time any of the three entered or left a vehicle over eighteen days, recorded automatically, with coordinates attached, and joined in order.
