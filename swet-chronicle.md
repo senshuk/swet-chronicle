@@ -31,7 +31,7 @@ Somewhere south of her, a man is walking through the same fog looking for his ow
 
 He does not remember where he left it. This is the problem, and Stacey — who has been awake long enough to have opinions — points out that by now it has almost certainly stopped lying down and started walking. He agrees that this is likely. He cannot narrow it down beyond *a bar, north of the driving school*, and there are several bars.
 
-That is senpai, and the body belongs to Mateo, who was him until two days ago.
+That is senpai, and the body belongs to Mateo Zúñiga, who was him until two days ago.
 
 He finds it in five minutes.
 
@@ -69,7 +69,7 @@ Outside, in the fog, something walks past the window and does not come in.
 <!-- CH:2 | What Dragoş Found | Aug 14-15 | stacey,senpai | rosewood,death -->
 ## II. What Dragoș Found
 
-Before Mateo there was Dragoș.
+Before Mateo there was Dragoș Muresan.
 
 Dragoș died at a farmhouse on the edge of town, before the record begins, and nobody went to get him. His body stayed out in the field for days, standing up eventually, the way they do, walking a slow circle in the grass between the pig pens.
 
@@ -267,7 +267,7 @@ Stacey looked at it for about ninety seconds and worked all of that out.
 
 From that hour the journal was a religion.
 
-Not a mechanic — a *bit*, sustained for two solid weeks by three men who never once acknowledged they were doing it. The new man was called Rafa, and Rafa wrote in his journal before every dangerous act, and then before every mildly dangerous act, and then simply constantly: before climbing onto the roof, every twelve hours as a standing rule, and — eventually — every single time he got into a vehicle.
+Not a mechanic — a *bit*, sustained for two solid weeks by three men who never once acknowledged they were doing it. The new man was called Rafael Morales — Rafa to everyone, including the ledger — and Rafa wrote in his journal before every dangerous act, and then before every mildly dangerous act, and then simply constantly: before climbing onto the roof, every twelve hours as a standing rule, and — eventually — every single time he got into a vehicle.
 
 Asked why a car warranted an entry, he explained his reasoning.
 
@@ -495,7 +495,7 @@ That is the interval, on the morning of the twenty-first, between Stacey asking 
 
 *Got.* One word. Frank thanked her twice — his hand was shaking on the keys, or his connection was, the record does not distinguish — and asked her to turn his truck off, which she also did.
 
-This is the tenth chapter of this account and it is the first one that is about her, which is itself the finding. She is in every chapter. She is the subject of none of them. The reason is structural and slightly shameful: the chapters are shaped around deaths, and she does not die, so the shape has nowhere to put her.
+Her name is Stacey Stevenson and it is the only name in this account that never needed replacing. This is the tenth chapter and the first one that is about her, which is itself the finding. She is in every chapter. She is the subject of none of them. The reason is structural and slightly shameful: the chapters are shaped around deaths, and she does not die, so the shape has nowhere to put her.
 
 ---
 
@@ -750,6 +750,8 @@ Sixty seconds.
 
 Marco Bernal-Casillas existed for one minute. He was a DIY expert. He was going to fix up everything. He woke in Rosewood — a town they had abandoned nine days earlier, an hour of highway from every friend he had — into a room with ten of them, and the complete surviving record of his life is a name, a mission statement, and the word *nvm*.
 
+The name got used again. Three days later a second man was made to the same specification, on the reasonable grounds that the first had never been given a chance to be wrong, and that one lasted three hundred and sixty-nine hours and built the roof over the forge. But that is the last chapter, and this one is sixty seconds long.
+
 Senpai's own summary of his architectural career, delivered the following morning without a trace of self-pity:
 
 `many lives lost building 2nd floor`
@@ -802,7 +804,9 @@ Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
 
 The last death in the record is the only one anybody plans.
 
-It happens near the community college on the afternoon of August 31. He had nearly been caught there twice already that day and had said so out loud — two bites at the ankle that somehow left no damage state — and then he went back in, because there was a library on the second floor and the library had books they still needed.
+The man it happens to is called Marco Bernal-Casillas, and he is the second of that name. The first lasted sixty seconds in a room in Rosewood and never got to be anything. The second had three hundred and sixty-nine hours, learned to smith, put a roof over the forge, and was the best carpenter the house ever had. The name got a second attempt, which is more than the county usually allows.
+
+It ends near the community college on the afternoon of August 31. He had nearly been caught there twice already that day and had said so out loud — two bites at the ankle that somehow left no damage state — and then he went back in, because there was a library on the second floor and the library had books they still needed.
 
 `got bit`
 
@@ -846,7 +850,7 @@ He is collected in the morning, as arranged.
 
 The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which nobody can explain.
 
-There is a new man in the house by then. He woke up inside it rather than somewhere out in the county, which is luck and not arrangement, and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too, which is how a man who has never in his life driven a nail knows how to frame a wall.
+There is a new man in the house by then. He woke up inside it rather than somewhere out in the county, which is luck and not arrangement, and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too — every hour Marco Bernal-Casillas ever put into carpentry, written down by a man who knew he had two days left and spent part of them on the paperwork — which is how somebody who has never in his life driven a nail knows how to frame a wall.
 
 His name is Teodor Dragomir. He is the eighth, and he is the only one of the eight the record gives no ending.
 
@@ -952,18 +956,18 @@ Stacey is not living in the same county as these men.
 | 1 | Aug 15, 10:40 | frank | 36 hrs | Bitten, eleven minutes after joining |
 | 2 | Aug 15, 10:53 | frank | 3 hrs | Unknown; blamed his own hand on the relay |
 | 3 | Aug 15, 13:54 | frank | 0 hrs | Spawned into a room full of them |
-| 4 | Aug 16, 15:18 | senpai (**Mateo**) | 270 hrs | Fell off a roof, naked, missed the stairs by one tile |
+| 4 | Aug 16, 15:18 | senpai (**Mateo Zúñiga**) | 270 hrs | Fell off a roof, naked, missed the stairs by one tile |
 | 5 | Aug 18, 06:17 | frank | 167 hrs | Police station. Pushed a standing one, hit a fallen one |
 | 6 | Aug 21, 10:26 | frank | 490 hrs | Three of them in a trailer. One-shotted |
 | 7 | Aug 25, 12:41 | frank | 719 hrs | **Held his own pipe bomb.** Survived it. Then missed the car door |
-| 8 | Aug 27, 13:48 | senpai (**Rafa**) | 885 hrs | Hugged a wall that wasn't there. Nine planks on his back |
+| 8 | Aug 27, 13:48 | senpai (**Rafael Morales**) | 885 hrs | Hugged a wall that wasn't there. Nine planks on his back |
 | 9 | Aug 27, 18:25 | senpai (**Junji Morimoto**) | 58 hrs | Alt-tabbed. Body never recovered |
 | 10 | Aug 28, 06:51 | senpai (**Marco Bernal-Casillas**) | 0 hrs | Sixty seconds. `nvm` |
-| 11 | Aug 31, 14:38 | senpai | 369 hrs | Bitten. Died doing burpees, on schedule, at announced coordinates |
+| 11 | Aug 31, 14:38 | senpai (**Marco Bernal-Casillas**, the second) | 369 hrs | Bitten. Died doing burpees, on schedule, at announced coordinates |
 
 Roof deaths: 2. Self-inflicted explosive deaths: 1. Deaths caused by holding the keys: 0, whatever Frank says.
 
-Two more predate the record: **Dragoș**, who wandered into the best farm in Rosewood and died there without noticing, and **Mateo**, in a bar north of the driving school. There may also have been a **Cătălin** — several of these accounts were written up second-hand by something that had not been present, and at some point the names drifted. By the group's own documents Mateo dies twice, in two different places. It will never be resolved.
+Two more predate the record: **Dragoș Muresan**, who wandered into the best farm in Rosewood and died there without noticing, and **Mateo Zúñiga**, in a bar north of the driving school. There may also have been a **Cătălin Popescu** — several of these accounts were written up second-hand by something that had not been present, and at some point the names drifted. By the group's own documents Mateo dies twice, in two different places. It will never be resolved.
 
 ### Artifacts recovered
 
@@ -1028,10 +1032,10 @@ Two chronologies run through this document and only one of them is fiction.
 | **Aug 25** | **Bomb time.** Frank holds the detonator and the bomb, survives the blast, and dies at a car door. |
 | **Aug 26** | The second bombing run. The explosion makes no sound and produces no light. |
 | **Aug 27** | The sledgehammer, at last. Then Rafa hugs a wall that is not there, and Junji Morimoto dies alone in an empty house. |
-| **Aug 28** | Marco Bernal-Casillas exists for sixty seconds. The dead begin waking at the safehouse, five days later than they might have. |
+| **Aug 28** | The first Marco Bernal-Casillas exists for sixty seconds. The dead begin waking at the safehouse, five days later than they might have. |
 | **Aug 29** | A microwave burns down part of the kitchen. The wall is rebuilt in brick and hidden behind crates within the hour. Blacksmithing is maxed. |
 | **Aug 30** | Snow at fifty degrees Fahrenheit, confirmed as a bug. |
-| **Aug 31** | **The turn north.** A forward camp beyond Ekron. Senpai is bitten at the community college, drives home, files his gear, and dies on schedule in a field. That evening Teodor Dragomir wakes in the safehouse and inherits the line. By the county's calendar it is Christmas Eve. |
+| **Aug 31** | **The turn north.** A forward camp beyond Ekron. Senpai is bitten at the community college, drives home, files his gear, and dies on schedule in a field. That evening Teodor Dragomir wakes in the safehouse and inherits the line, and the record ends with him standing. By the county's calendar it is Christmas Eve. |
 
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
@@ -1039,27 +1043,31 @@ At the close of the record the survivors have been in Knox County for roughly a 
 <!-- CH:20 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
 ## APPENDIX B — THE LINE OF SENPAI
 
-Six men answered to Frank's name and he named none of them. Stacey was one woman throughout. Senpai kept a house.
+Frank's men all answered to one name and he never distinguished them. Stacey was one woman throughout. Senpai kept a house.
 
 Each of the following inherited the last one's skills out of a notebook, and each of them, on taking the field, was several days of carpentry better than the man he was replacing. This is the only form of descent available in Knox County.
 
 | | Name | Ended | Held | Fell to |
 |---|---|---|---|---|
-| I | **Dragoș** | before the record | — | Unrecorded. Died at a farmhouse on the edge of Rosewood without noticing it was the best land in the county. His corpse was put down by Stacey on 15 August. |
-| II | **Mateo** | before the record | — | A bar north of the driving school. Recovered in five minutes. His ID card was carried by his successor for the rest of that successor's life. |
-| — | *Cătălin* | disputed | — | Named once, in a second-hand account circulated on 15 August, as the reigning carpenter. Never mentioned by a human. May be the man who fell on the 16th; may never have existed. |
-| III | **the roofer** | 16 Aug | 270 hrs | A one-tile miss on a staircase, carrying lumber, wearing nothing, three minutes after concluding that tumble dryers are useless. Called Mateo by everyone including himself. |
-| IV | **Rafa** | 27 Aug | **885 hrs** | The longest reign. Wrote in his journal before entering vehicles on the grounds that a deer might have his number. Died hugging a wall that had not been built yet, with nine planks on his back. |
+| I | **Dragoș Muresan** | before the record | — | Unrecorded. Died at a farmhouse on the edge of Rosewood without noticing it was the best land in the county. His corpse was put down by Stacey on 15 August. |
+| II | **Mateo Zúñiga** | before the record | — | A bar north of the driving school. Recovered in five minutes. His ID card was carried by his successor for the rest of that successor's life. |
+| — | *Cătălin Popescu* | disputed | — | Named once, in a second-hand account circulated on 15 August, as the reigning carpenter. Never mentioned by a human. May be the man who fell on the 16th; may never have existed. The surname survives in full, which is more than the record can say for two of the men it is certain about. |
+| III | **the roofer** | 16 Aug | 270 hrs | A one-tile miss on a staircase, carrying lumber, wearing nothing, three minutes after concluding that tumble dryers are useless. Called Mateo by everyone including himself, which is why the record has Mateo Zúñiga dying twice in two different places. |
+| IV | **Rafael Morales** | 27 Aug | **885 hrs** | The longest reign. Wrote in his journal before entering vehicles on the grounds that a deer might have his number. Died hugging a wall that had not been built yet, with nine planks on his back. |
 | V | **Junji Morimoto** | 27 Aug | 58 hrs | Named at 1:54 p.m. with the words *gonna finish that roof*. Did not finish the roof. Killed by inattention. Left standing in a doorway while nobody was watching. Body never located. |
-| VI | **Marco Bernal-Casillas** | 28 Aug | **0 hrs** | A DIY expert, chosen deliberately to push masonry and max maintenance. Spawned into a room containing ten of them in a town abandoned nine days earlier. Reigned for sixty seconds. |
-| VII | **the last one** | 31 Aug | 369 hrs | Bitten at the community college reaching for a library. Drove home, emptied his pockets into the lockers, wrote in the journal, drove back out, and did burpees until he stopped. |
+| VI | **Marco Bernal-Casillas** | 28 Aug | **0 hrs** | A DIY expert, chosen deliberately to push masonry and max maintenance. Woke into a room containing ten of them, in a town abandoned nine days earlier. Reigned for sixty seconds. |
+| VII | **Marco Bernal-Casillas** *(the second)* | 31 Aug | 369 hrs | The same name again, made the same way, on the grounds that the build had never been given a fair trial. Bitten at the community college reaching for a library. Drove home, emptied his pockets into the lockers, wrote in the journal, drove back out, and did burpees until he stopped. |
 | VIII | **Teodor Dragomir** | — | *still standing* | Woke in the safehouse on the evening of the 31st, some hours after the burpees, and came into the whole line's carpentry out of a notebook he had not written. The record ends before he does. |
 
 Eight men, or seven, or nine. The record does not agree with itself, and the reason it does not agree with itself is that the group let its obituaries be written by something that had not been there, and never went back to check.
 
-**On the bookends.** The line opens with a man called Dragoș and closes — seven successions, thirteen deaths and thirty-seven days later — with a man called Dragomir. Both descend from the same Slavic root, *drag*, meaning dear, or beloved. Nobody involved chose either name; they were handed out at random by the same indifferent process that decided which of these men could cook and which of them was afraid of nothing at all. The county has a sense of humour about its bookends. Nobody in the county noticed.
+**On the two Marcos.** Numerals VI and VII bear the same name, and that is not an error in the record. The first Marco Bernal-Casillas was assembled with care — a DIY expert, masonry pushed, maintenance maxed, a man built for the second storey — and then the county put him in a room with ten of them and gave him sixty seconds. The build had never been tried. So it was tried again, under the same name, and this time it held for three hundred and sixty-nine hours, learned to smith, framed the roof over the forge, and died on a schedule of its own choosing in a field it named in advance. The second Marco is the only man in the line who got to prove what the first one was for.
 
-**The other houses.** The six who carried Frank's name were unnamed and interchangeable, which is its own kind of statement: he treated a man as a kit rather than a person, replaced without ceremony, and spoke of each new one purely in terms of what he could now do. Stacey, alone of the three, was never replaced: two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — and is still alive at the last line of the record.
+**On the bookends.** The line opens with a man called Dragoș Muresan and closes — seven successions, thirteen deaths and thirty-seven days later — with a man called Teodor Dragomir. Both descend from the same Slavic root, *drag*, meaning dear, or beloved. Nobody involved chose either name; they were handed out at random by the same indifferent process that decided which of these men could cook and which of them was afraid of nothing at all. The county has a sense of humour about its bookends. Nobody in the county noticed.
+
+**The other houses.** Frank's six were one man, over and over: **Jean-Luc Picarnitas**, the same name written back down every time, never a numeral after it, never a word to mark that this was the fourth of him. That is its own kind of statement. He treated a man as a kit rather than a person — replaced without ceremony, described on arrival purely in terms of what he could now do — and he did not consider the succession worth recording, because to him nothing had succeeded anything. There was just Jean-Luc, and Jean-Luc was fine.
+
+**Stacey Stevenson**, alone of the three, was never replaced. Two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — one woman throughout, and still alive at the last line of the record. The other two houses go through fourteen men between them. Hers is not a line. It is a person.
 
 ---
 <!-- CH:21 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
@@ -1149,4 +1157,4 @@ The crosses are where people stopped.
 
 <!--MAP-->
 
-Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roofer. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the last one, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
+Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roofer. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** the first Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the second Marco, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
