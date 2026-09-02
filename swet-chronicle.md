@@ -59,6 +59,10 @@ Stacey has set an alarm for ten to six. She has, in fact, memorized the whole sc
 
 That casual aside dates the entire run. If the broadcasts end on the seventeenth, then day one was the ninth of July — the canonical first day of the Knox Event, the morning the world in this game officially begins. She did not look that up. She just knew when the television stopped.
 
+The television is not the only thing still talking. Somewhere on the dial, the Automated Emergency Broadcast System is running too, and what it mostly does is read out the weather. Frank tunes into it on his first afternoon and relays the forecast to the others like a man checking whether to bring a coat: thunderstorm tomorrow morning. Nobody built that system to survive its operators. It simply has no instruction telling it to stop, so it goes on issuing small-craft advisories over a quarantined county, on schedule, indefinitely.
+
+Between them, the TV and the radio are the entire remaining output of human civilization in Knox County: nine days of cookery programming and an indefinite run of weather.
+
 Outside, in the fog, something walks past the window and does not come in.
 
 ---
@@ -351,6 +355,16 @@ Four minutes later, she does not die, and the mushrooms go in the fridge for eve
 
 At Cooking 7 the game unlocks the ability to cook with rotten food, and Stacey — who has been composting spoiled produce for a week against precisely this eventuality — begins running a small restaurant out of a corpse-strewn farmhouse, turning a bin of rot into a salad she describes as coming out fresh.
 
+She also works out where the good books come from, which is the grimmest supply line in the game and which she describes as a shopping tip.
+
+Out on the edges of a town you will occasionally find a loose mass of fifteen or twenty of them standing together for no apparent reason. Somewhere in that group, she explains, there is usually one carrying a backpack — and that backpack will be full. Tools, ammunition, food, and above all the rare skill books, the long blade manuals nobody has been able to find on a shelf anywhere in Knox County.
+
+They are not a random spawn. They are a survivor and the thing that caught up with him. The mass standing around him is the reason he stopped. Every good haul in this record — every scarce book that let somebody get better at something — came off a person who had got further than they had, and then didn't.
+
+Stacey checks every horde she passes for the one with the bag.
+
+---
+
 There is one line of hers I have not been able to shake. It concerns two pigs at a farm down the road, and it is reported with exactly the same evenness as everything else.
 
 `butchered two pigs from farm nearby`
@@ -629,6 +643,10 @@ Three men, in a house they had built with their own hands, spent the next severa
 
 `well, wheres the dang body!?`
 
+The shouting was, strictly speaking, pointless, and Stacey was the one who worked out why. They had been calling for a zombie. But a player who dies without being bitten does not come back — the game leaves the body lying there intact, so that whoever finds it can strip it properly. Junji had died of something, and whatever it was, it hadn't been an infection.
+
+Which means he had never been going to answer. He had been on the floor of that house the whole time, exactly where he fell, not moving, while three men stood in the rooms around him yelling into the dark.
+
 They never found him.
 
 The explanation exists only because senpai confessed it three hours after the fact, alongside a screenshot, in the tone of a man reporting he'd left the oven on.
@@ -717,7 +735,11 @@ It happens near the community college on the afternoon of August 31. He had near
 
 `gonna head to safehouse and put stuff in locker`
 
-There is no cure for a bite. Everyone knows this. So he did the arithmetic.
+There is no cure for a bite. Everyone knows this. A bite is the hundred-percent one, and it does not take you quickly — it takes about three days, and it announces itself in stages, queasy first, then nauseous, then the fever, and then you are simply somebody else's problem to put down.
+
+Which means a bitten man is not dying so much as scheduled. He has roughly seventy-two hours, and he knows the exact hour they end, and he can spend them however he likes.
+
+So he did the arithmetic.
 
 He drove home. The drive was not good — he was bleeding, he was panicking, and by his own count he hit five trees and utility poles between the college and the house. He got there. He emptied his pockets into the lockers he had built with his own hands two days earlier: the machete, the guns, the maps, the books from the college library, all of it filed where the next man would find it. He wrote in the journal.
 
@@ -757,6 +779,20 @@ Which is a problem, and Stacey — who saw it coming a week out — is the one w
 
 They settle on Brandenburg, to the north, because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
 
+It is called Sunderland Hills, and the developers have been open about what it is — a fictionalized Waverly Hills, the real tuberculosis hospital outside Louisville that has spent the last several decades being sold to tourists as the most haunted building in the eastern United States. The genuine article opened in 1910, grew to hold four hundred patients, and killed a great many of them, because in 1910 there was nothing much to be done for tuberculosis except put people somewhere with good air and wait.
+
+And underneath it there is a tunnel.
+
+It was built to carry steam and supplies up the hill from the heating plant. But for about twenty years, between the twenties and the forties, the staff also used it to move the dead — down the slope, out of sight, into a waiting ambulance at the bottom — for one stated reason, which the game's version reproduces faithfully and which is the single most relevant sentence in this entire document:
+
+*so that the patients would not know that anyone had died.*
+
+They built a corridor to keep the record away from the living.
+
+Stacey has read a flier about this place, and what she has concluded is that it would make a tremendous base.
+
+---
+
 They do not appear to know what Brandenburg is. Brandenburg is one of the four places the army named when it drew the line on the sixth of July — Muldraugh, West Point, Fort Knox, and Brandenburg. It is not a town they are driving *to*. It is a corner of the original cordon, one of the spots where somebody decided this far and no further, and was wrong.
 
 Beyond it is Louisville, which is where the line failed and the infection got out into the world, and which is the place all three of them have been idly describing as the eventual destination — the big city, the last one, the one you go to when you have run out of smaller places to be careful in. Frank's stated ambition for Louisville has never been more specific than shooting things and blowing things up there.
@@ -791,7 +827,11 @@ The game opened by telling them there was no hope of survival, and it was right,
 
 But the game only ever promised the first half of the sentence. It said *this is how you died*. It never said anything about what you'd be doing at the time.
 
-Eighteen days in, the answer is: arguing about whether Santa wears green, hiding a scorch mark behind a mini fridge, carrying a dead man's ID card in your pocket for thirty-seven days, doing burpees in a field to leave your friends a slightly better book — and planning, on Christmas Eve, with real enthusiasm, to drive north into the place the army gave up on, in order to sleep in a haunted building.
+Eighteen days in, the answer is: arguing about whether Santa wears green, hiding a scorch mark behind a mini fridge, carrying a dead man's ID card in your pocket for thirty-seven days, doing burpees in a field to leave your friends a slightly better book — and planning, on Christmas Eve, with real enthusiasm, to drive north into the place the army gave up on, in order to move into a building with a tunnel under it for taking the bodies out quietly.
+
+They are not going to use the tunnel. Nobody in this record has ever once moved a body quietly. They shout across the whole house looking for one, they announce the coordinates of their own in advance, they photograph the aftermath and post it, and they keep a written account of every skill the dead man had so the next one doesn't have to start over.
+
+Thirteen people died in eighteen days and not one of them went down the chute.
 
 ---
 <!-- CH:16 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
