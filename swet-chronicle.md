@@ -688,6 +688,14 @@ He also acquires things, and cannot always account for them.
 
 `how i have animal brain in my inventory`
 
+`i had them from butchering`
+
+`used for tanning iirc`
+
+Stacey had been putting animal brains in Frank's backpack. Not secretly — it does not seem to have occurred to her that it needed mentioning. And when he finally notices and asks, she does not say *I put them there*; she explains what they are for, which is tanning, which is leather, which is the large bellows, which is the advanced forge she spent four days chasing down a chain of prerequisites to build.
+
+Frank had been carrying a component of the forge around in his bag for days without knowing it. He never asks a follow-up question. Ninety seconds later he is shouting at the dead again.
+
 And on the twentieth he found the single greatest object in Knox County, which he reported at ten past five in the morning:
 
 `lol canoe paddle double bladed weapon`
