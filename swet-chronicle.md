@@ -684,11 +684,11 @@ The nineteenth of August is the worst of it, and it is not a coincidence that th
 
 The following morning, without preamble: `i lost my jacket cmon`.
 
-Frank also does his exercises, which in Knox County means standing in one spot for a long stretch, not moving, with your bag on.
+Frank also does his exercises. Burpees, in the living room, over and over, while the other two get on with their day.
 
 `how i have animal brain in my inventory`
 
-Senpai had put them there while he stood in the living room doing repetitions.
+Senpai had been loading his bag between repetitions.
 
 Stacey — innocent, and unaware that anybody is looking for a culprit — helpfully explains that brains are used for tanning. Nobody answers the question Frank actually asked. He never asks it again.
 
