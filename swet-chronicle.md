@@ -31,7 +31,7 @@ Somewhere south of her, a man is walking through the same fog looking for his ow
 
 He does not remember where he left it. This is the problem, and Stacey — who has been awake long enough to have opinions — points out that by now it has almost certainly stopped lying down and started walking. He agrees that this is likely. He cannot narrow it down beyond *a bar, north of the driving school*, and there are several bars.
 
-That is senpai, and the body belongs to Mateo Zúñiga, who was him until two days ago.
+That is senpai, and the body belongs to Mateo Zúñiga, who was him until two days ago. Remember the name. He is going to use it again.
 
 He finds it in five minutes.
 
@@ -289,7 +289,7 @@ There is a zombie in Frank's bedroom standing over Frank's diary. Nobody address
 
 One more thing about Rafa, and then we'll move.
 
-Somewhere in his first days he walked out to the field where Mateo had come down — where the body still lay, or lay near enough — and he took the ID card off it, and put it in his pocket, and carried it for the rest of his life. Eight hundred and eighty-five hours. Thirty-seven days.
+Somewhere in his first days he walked out to where the second Mateo had come down — where the body still lay, or lay near enough — and he took the ID card off it, and put it in his pocket, and carried it for the rest of his life. Eight hundred and eighty-five hours. Thirty-seven days.
 
 Nobody asked him to. It confers no bonus. It weighs something.
 
@@ -956,7 +956,7 @@ Stacey is not living in the same county as these men.
 | 1 | Aug 15, 10:40 | frank | 36 hrs | Bitten, eleven minutes after joining |
 | 2 | Aug 15, 10:53 | frank | 3 hrs | Unknown; blamed his own hand on the relay |
 | 3 | Aug 15, 13:54 | frank | 0 hrs | Spawned into a room full of them |
-| 4 | Aug 16, 15:18 | senpai (**Mateo Zúñiga**) | 270 hrs | Fell off a roof, naked, missed the stairs by one tile |
+| 4 | Aug 16, 15:18 | senpai (**Mateo Zúñiga**, the second) | 270 hrs | Fell off a roof, naked, missed the stairs by one tile |
 | 5 | Aug 18, 06:17 | frank | 167 hrs | Police station. Pushed a standing one, hit a fallen one |
 | 6 | Aug 21, 10:26 | frank | 490 hrs | Three of them in a trailer. One-shotted |
 | 7 | Aug 25, 12:41 | frank | 719 hrs | **Held his own pipe bomb.** Survived it. Then missed the car door |
@@ -967,7 +967,7 @@ Stacey is not living in the same county as these men.
 
 Roof deaths: 2. Self-inflicted explosive deaths: 1. Deaths caused by holding the keys: 0, whatever Frank says.
 
-Two more predate the record: **Dragoș Muresan**, who wandered into the best farm in Rosewood and died there without noticing, and **Mateo Zúñiga**, in a bar north of the driving school. There may also have been a **Cătălin Popescu** — several of these accounts were written up second-hand by something that had not been present, and at some point the names drifted. By the group's own documents Mateo dies twice, in two different places. It will never be resolved.
+Two more predate the record: **Dragoș Muresan**, who wandered into the best farm in Rosewood and died there without noticing, and **Mateo Zúñiga**, in a bar north of the driving school. The group's own documents have Mateo dying twice, in two different places, which for a long time looked like the records drifting. It is not drift. He simply used the name again.
 
 ### Artifacts recovered
 
@@ -979,7 +979,7 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 
 **Cherry Love.** A zombie killed near the community college on August 31. Senpai fled without her ID and drove back thirty-eight minutes later specifically to get it.
 
-**Mateo's ID card.** Carried by Rafa for eight hundred and eighty-five hours. Still in his pocket when he hit the ground.
+**Mateo's ID card.** Taken off the second man of that name and carried by Rafael Morales for eight hundred and eighty-five hours. Still in his pocket when he hit the ground.
 
 **180 fresh eggs.** Found at the tree line they had been logging beside for a week. Eggs and mushrooms together teach a cook more than anything else in the county; Frank learned more from one batch than from a week of stew, and concluded that his mother must be the finest cook alive.
 
@@ -1020,9 +1020,9 @@ Two chronologies run through this document and only one of them is fiction.
 
 | | |
 |---|---|
-| **Aug 14** | The record opens in Rosewood. Mateo's body is recovered from a bar north of the driving school in five minutes. |
+| **Aug 14** | The record opens in Rosewood. The first Mateo's body is recovered from a bar north of the driving school in five minutes. Two replacement names are announced that afternoon and neither is used. |
 | **Aug 15** | Frank arrives at 10:26 and is dead by 10:40. Two more follow the same afternoon. The power fails. A helicopter passes over and every cleared building stops being cleared. |
-| **Aug 16** | Mateo falls from the roof, naked, having proven the dryer useless. Sleep stops being required, by Frank's hand. |
+| **Aug 16** | The second Mateo falls from the roof, naked, having proven the dryer useless. Sleep stops being required, by Frank's hand. |
 | **Aug 17** | The Skill Journal appears. It is adopted within the hour and becomes the group's religion. Handrails are proposed. |
 | **Aug 18** | Frank dies in the Rosewood police station and warns the others about a naked corpse. |
 | **Aug 19** | **The move.** Four trucks and a trailer go west and a little south. For one day the group has no address. |
@@ -1050,16 +1050,19 @@ Each of the following inherited the last one's skills out of a notebook, and eac
 | | Name | Ended | Held | Fell to |
 |---|---|---|---|---|
 | I | **Dragoș Muresan** | before the record | — | Unrecorded. Died at a farmhouse on the edge of Rosewood without noticing it was the best land in the county. His corpse was put down by Stacey on 15 August. |
-| II | **Mateo Zúñiga** | before the record | — | A bar north of the driving school. Recovered in five minutes. His ID card was carried by his successor for the rest of that successor's life. |
-| — | *Cătălin Popescu* | disputed | — | Named once, in a second-hand account circulated on 15 August, as the reigning carpenter. Never mentioned by a human. May be the man who fell on the 16th; may never have existed. The surname survives in full, which is more than the record can say for two of the men it is certain about. |
-| III | **the roofer** | 16 Aug | 270 hrs | A one-tile miss on a staircase, carrying lumber, wearing nothing, three minutes after concluding that tumble dryers are useless. Called Mateo by everyone including himself, which is why the record has Mateo Zúñiga dying twice in two different places. |
+| II | **Mateo Zúñiga** | before the record | — | A bar north of the driving school, two days before the record opens. His body was the first thing anyone did on 14 August; it took five minutes to find. His successor took his name. |
+| III | **Mateo Zúñiga** *(the second)* | 16 Aug | 270 hrs | The name again, two hours and two rejected alternatives after the first one's body was recovered. A one-tile miss on a staircase, carrying lumber, wearing nothing, three minutes after concluding that tumble dryers are useless. |
 | IV | **Rafael Morales** | 27 Aug | **885 hrs** | The longest reign. Wrote in his journal before entering vehicles on the grounds that a deer might have his number. Died hugging a wall that had not been built yet, with nine planks on his back. |
 | V | **Junji Morimoto** | 27 Aug | 58 hrs | Named at 1:54 p.m. with the words *gonna finish that roof*. Did not finish the roof. Killed by inattention. Left standing in a doorway while nobody was watching. Body never located. |
 | VI | **Marco Bernal-Casillas** | 28 Aug | **0 hrs** | A DIY expert, chosen deliberately to push masonry and max maintenance. Woke into a room containing ten of them, in a town abandoned nine days earlier. Reigned for sixty seconds. |
 | VII | **Marco Bernal-Casillas** *(the second)* | 31 Aug | 369 hrs | The same name again, made the same way, on the grounds that the build had never been given a fair trial. Bitten at the community college reaching for a library. Drove home, emptied his pockets into the lockers, wrote in the journal, drove back out, and did burpees until he stopped. |
 | VIII | **Teodor Dragomir** | — | *still standing* | Woke in the safehouse on the evening of the 31st, some hours after the burpees, and came into the whole line's carpentry out of a notebook he had not written. The record ends before he does. |
 
-Eight men, or seven, or nine. The record does not agree with itself, and the reason it does not agree with itself is that the group let its obituaries be written by something that had not been there, and never went back to check.
+Eight bearers and six names between them. For a long time the record did not agree with itself about that, because the group let its obituaries be written up second-hand by something that had not been present, and nobody went back to check. What looked like drift in the names turns out to be the plainest fact in the line: twice, on losing a man, senpai gave the next one the dead man's name back.
+
+**On the two Mateos.** The line repeats exactly two names, and it repeats them at both ends. On the morning of 14 August, with the first Mateo Zúñiga two days cold in a bar north of the driving school, senpai went looking for a replacement name and found one inside sixty seconds — *Bastien Moreau it is* — and did not use it. Ninety minutes later he announced a different one instead, Cătălin Popescu, and wrote up that afternoon's work under it in the group's journal, and did not use that either. What actually took the field, and framed the extension, and proved the dryer useless, and fell off the roof on the sixteenth wearing nothing at all, was Mateo Zúñiga. He had spent two hours and two rejected candidates arriving back at the name of the man he was replacing.
+
+The consequence is the strangest object in this whole account: on 20 August, Rafael Morales walked out to where the second Mateo fell, took the identification card off the body, and carried it for eight hundred and eighty-five hours — thirty-seven days, every hour of the longest reign in the line — as a reminder. A dead man's card, bearing a dead man's name, which was also the name of a different dead man, carried by a third man who was neither.
 
 **On the two Marcos.** Numerals VI and VII bear the same name, and that is not an error in the record. The first Marco Bernal-Casillas was assembled with care — a DIY expert, masonry pushed, maintenance maxed, a man built for the second storey — and then the county put him in a room with ten of them and gave him sixty seconds. The build had never been tried. So it was tried again, under the same name, and this time it held for three hundred and sixty-nine hours, learned to smith, framed the roof over the forge, and died on a schedule of its own choosing in a field it named in advance. The second Marco is the only man in the line who got to prove what the first one was for.
 
@@ -1157,4 +1160,4 @@ The crosses are where people stopped.
 
 <!--MAP-->
 
-Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roofer. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** the first Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the second Marco, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
+Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roof. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** the first Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the second Marco, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
