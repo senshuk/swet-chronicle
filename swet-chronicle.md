@@ -684,25 +684,13 @@ The nineteenth of August is the worst of it, and it is not a coincidence that th
 
 The following morning, without preamble: `i lost my jacket cmon`.
 
-He also acquires things, and cannot always account for them.
+Frank also does his exercises, which in Knox County means standing in one spot for a long stretch, not moving, with your bag on.
 
 `how i have animal brain in my inventory`
 
-`i had them from butchering`
+Senpai had put them there while he stood in the yard doing repetitions.
 
-`used for tanning iirc`
-
-Somebody had put animal brains in Frank's backpack.
-
-Frank asks the room. Stacey answers — helpfully, and beside the point — that she had brains from butchering and that they are used for tanning. She is explaining what the object is. She is not the one who put it in his bag, and it does not appear to occur to anybody that this is the question on the table.
-
-The record is circumstantial but it is not shy. Nine minutes earlier, senpai had been at a workbench trying to craft, held up by a requirement the recipe had not disclosed:
-
-`ai says i need leather strips even tho it doesnt show in the recipe`
-
-Leather strips are tanned. Tanning takes brains. The one man in Knox County who had spent that morning thinking hard about tanning materials was standing in the same building as Frank's backpack, and six minutes after the brains surfaced he announced he was going to lunch.
-
-Frank never asks a follow-up question. Ninety seconds later he is shouting at the dead again, carrying an unexplained quantity of brain, and the matter is closed for the remaining ten days of the record.
+Stacey — innocent, and unaware that anybody is looking for a culprit — helpfully explains that brains are used for tanning. Nobody answers the question Frank actually asked. He never asks it again.
 
 And on the twentieth he found the single greatest object in Knox County, which he reported at ten past five in the morning:
 
