@@ -39,9 +39,11 @@ He finds it in five minutes.
 
 Nobody remarks on this. Nobody asks what happened or whether he's all right. Stacey has already moved on to the contents of the kitchen, where there is a medical bag, and she wants him to know he can take from it without equipping it first.
 
-This is how they talk. It is less a dialect than a compression algorithm, and it contains three dialects inside it. *Swet* means good, yes, understood, thank you, received — and it is conjugated by identity. Stacey types it with one T. Senpai types it with two. The third man, when he arrives, will type it with three, because Frank has never in his life been merely satisfied.
+This is how they talk. It is less a dialect than a compression algorithm. *Swet* means good, yes, understood, thank you, received, I have your message, and all three of them write it the same way when they mean it plainly.
 
-You can identify any speaker in the entire record by counting the T's. It is more reliable than the names attached to them.
+What differs is how far each of them is prepared to go past plain. Senpai adds a second T when he is pleased, and he is pleased constantly — a hundred and thirty-three times in eighteen days. The third man, when he arrives, will add a third, because Frank has never in his life been merely satisfied. And Stacey, in a hundred and fifty-six uses of the word, extends it exactly twice.
+
+So the flat form tells you nothing; it is common ground. It is the emphasis that is owned.
 
 ---
 
@@ -1190,19 +1192,21 @@ The three survivors share a language which is not English and is not quite short
 
 **swet** — good; yes; understood; thank you; acknowledged; received; I have your message. It accounts for 633 of the 18,930 words spoken on the wire, or roughly one word in thirty.
 
-Its form is fixed per person and does not vary with mood, urgency, or content:
+The word has a flat form and an emphatic one, and the flat form is shared. Counted across all 633 uses:
 
-| Speaker | Form | Note |
-|---|---|---|
-| stacey | `swet` | One T. Invariant. |
-| senpai | `swett` | Two T's. |
-| frank | `swettt` | Three T's. Frank has never in his life been merely satisfied. |
+| Speaker | `swet` | `swett` | `swettt` | `swetttt` |
+|---|---|---|---|---|
+| stacey | 154 | 2 | — | — |
+| senpai | 166 | **133** | 12 | 1 |
+| frank | 81 | 16 | **66** | 2 |
 
-Because the variation tracks the speaker and not the sense, **any line in the record can be attributed by counting the T's**, without reference to the name attached to it. This is more reliable than the names themselves, which are occasionally wrong.
+A plain **swet** identifies nobody — it is the common register, and all three live in it. Attribution is carried entirely by the extensions. Eighty-eight per cent of the doubled form is senpai. Eighty-four per cent of the tripled form is Frank. Nobody else triples it more than a handful of times in eighteen days.
 
-It is not, strictly, a feature of a language. It is three people with habits so fixed that the habit does the work a signature would. But it holds for eighteen days across six thousand messages, which is more than can be said for most signatures.
+And Stacey does not extend it at all. Two exceptions in a hundred and fifty-six opportunities — a rate of one and three-tenths per cent — in a woman who wrote more on the wire than either of the other two put together.
 
-The system strains exactly three times in eighteen days, all under greeting-pressure — a four-T form appears twice from Frank and once from senpai, in each case during a pile-up of simultaneous logins. There are no recorded five-T forms.
+So the language has a neutral register everybody shares and an emphatic register each of them owns privately, and the only person who declines to hold one is the only person who never dies. She has the largest vocabulary in the county, the most words spoken, the most instruction given, and the flattest delivery of any of them. She says *swet* and means it, and does not say it harder.
+
+The system strains exactly three times in eighteen days — a four-T form, twice from Frank and once from senpai, in each case during a pile-up of simultaneous arrivals. There are no five-T forms.
 
 ### Selected vocabulary
 
