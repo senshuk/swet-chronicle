@@ -846,6 +846,10 @@ He is collected in the morning, as arranged.
 
 The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which nobody can explain.
 
+There is a new man in the house by then. He woke up inside it rather than somewhere out in the county, which is luck and not arrangement, and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too, which is how a man who has never in his life driven a nail knows how to frame a wall.
+
+His name is Teodor Dragomir. He is the eighth, and he is the only one of the eight the record gives no ending.
+
 Stacey is wearing a Santa jacket she has objections to. It is better than leather for the cold, which she concedes, but it is green.
 
 `what kind of santa wear GREEN?`
@@ -906,7 +910,7 @@ And the last thing in the record at all comes three hours later, from a man who 
 
 ---
 
-The sentence opened by telling them there was no hope of survival, and it was right, and it will go on being right: whoever is walking around in that house tonight will also die, and so will the one after him, and the record will keep a name and an hour for each of them.
+The sentence opened by telling them there was no hope of survival, and it was right, and it will go on being right: Teodor Dragomir, walking around that house tonight with a dead man's notebook in his bag and a dead man's machete on his belt, will also die, and so will the one after him, and the record will keep a name and an hour for each of them. It has simply not got round to his yet.
 
 But the sentence only ever promised its own first half. It said *this is how you died*. It never said anything about what you'd be doing at the time.
 
@@ -1027,7 +1031,7 @@ Two chronologies run through this document and only one of them is fiction.
 | **Aug 28** | Marco Bernal-Casillas exists for sixty seconds. The dead begin waking at the safehouse, five days later than they might have. |
 | **Aug 29** | A microwave burns down part of the kitchen. The wall is rebuilt in brick and hidden behind crates within the hour. Blacksmithing is maxed. |
 | **Aug 30** | Snow at fifty degrees Fahrenheit, confirmed as a bug. |
-| **Aug 31** | **The turn north.** A forward camp beyond Ekron. Senpai is bitten at the community college, drives home, files his gear, and dies on schedule in a field. By the county's calendar it is Christmas Eve. |
+| **Aug 31** | **The turn north.** A forward camp beyond Ekron. Senpai is bitten at the community college, drives home, files his gear, and dies on schedule in a field. That evening Teodor Dragomir wakes in the safehouse and inherits the line. By the county's calendar it is Christmas Eve. |
 
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
@@ -1049,8 +1053,11 @@ Each of the following inherited the last one's skills out of a notebook, and eac
 | V | **Junji Morimoto** | 27 Aug | 58 hrs | Named at 1:54 p.m. with the words *gonna finish that roof*. Did not finish the roof. Killed by inattention. Left standing in a doorway while nobody was watching. Body never located. |
 | VI | **Marco Bernal-Casillas** | 28 Aug | **0 hrs** | A DIY expert, chosen deliberately to push masonry and max maintenance. Spawned into a room containing ten of them in a town abandoned nine days earlier. Reigned for sixty seconds. |
 | VII | **the last one** | 31 Aug | 369 hrs | Bitten at the community college reaching for a library. Drove home, emptied his pockets into the lockers, wrote in the journal, drove back out, and did burpees until he stopped. |
+| VIII | **Teodor Dragomir** | — | *still standing* | Woke in the safehouse on the evening of the 31st, some hours after the burpees, and came into the whole line's carpentry out of a notebook he had not written. The record ends before he does. |
 
-Seven men, or six, or eight. The record does not agree with itself, and the reason it does not agree with itself is that the group let its obituaries be written by something that had not been there, and never went back to check.
+Eight men, or seven, or nine. The record does not agree with itself, and the reason it does not agree with itself is that the group let its obituaries be written by something that had not been there, and never went back to check.
+
+**On the bookends.** The line opens with a man called Dragoș and closes — seven successions, thirteen deaths and thirty-seven days later — with a man called Dragomir. Both descend from the same Slavic root, *drag*, meaning dear, or beloved. Nobody involved chose either name; they were handed out at random by the same indifferent process that decided which of these men could cook and which of them was afraid of nothing at all. The county has a sense of humour about its bookends. Nobody in the county noticed.
 
 **The other houses.** The six who carried Frank's name were unnamed and interchangeable, which is its own kind of statement: he treated a man as a kit rather than a person, replaced without ceremony, and spoke of each new one purely in terms of what he could now do. Stacey, alone of the three, was never replaced: two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — and is still alive at the last line of the record.
 
