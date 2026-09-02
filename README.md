@@ -23,7 +23,7 @@ Or read [`swet-chronicle.md`](swet-chronicle.md) here on GitHub.
 | Longest single life | **2,713 hrs** | 885 hrs | 719 hrs |
 | Maxed skills | Cooking, Foraging, Butchering, Blacksmithing | Carpentry | Tailoring, Carving |
 
-Fifteen chapters, four appendices and a map, assembled from nineteen days of
+Seventeen chapters, four appendices and a map, assembled from nineteen days of
 dedicated-server logs and the group's own chat. Every quoted line is verbatim.
 
 The appendices are Tolkien's apparatus applied to a video game: a Tale of Years

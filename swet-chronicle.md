@@ -19,6 +19,8 @@ None of the three people in this record are told any of that. They are inside th
 
 ---
 
+A word about what follows. Everything here was said or done by three people between the fourteenth and the thirty-first of August, and every bit of it was set down at the time by machines with no opinion about any of it — what they said to one another, where each of them was standing, what they were carrying, and the hour each of them stopped. Nothing has been invented. I have read the whole of it more times than is reasonable, and where I say *I*, that is who is talking.
+
 The first thing that happens in the record is that a woman shouts into fog at nobody.
 
 `OVER HERE!`
@@ -155,9 +157,13 @@ Frank takes it in, thanks her, and then, unable to help himself, sends them a pi
 <!-- CH:4 | The Dryer | Aug 16 | senpai,stacey | rosewood,death,roof -->
 ## IV. The Dryer
 
-On the afternoon of August 16, Stacey looked up from her inventory and saw, through the wall of the house, her friend walking into a rain barrel. Then walking into it again. Then again.
+It is the middle of the afternoon on the sixteenth of August and Stacey is downstairs, doing what she is always doing, which is deciding where things go.
 
-She asked what he was doing. He said he was building a roof, which was plausible — he was the carpenter and he was always building a roof. But there was a detail she could not get past, and after a moment she asked about that instead.
+Through the wall of the house — you can see the others through walls, the way you can always see the people you are responsible for — she notices her friend walking into a rain barrel.
+
+He stops. He walks into it again. He does it a third time.
+
+She asks what he is doing, and the answer is plausible: he is building a roof. He is the carpenter; he is always building a roof; the house has needed one since they took it. She would have let it go entirely except for the detail she cannot get past, which she raises after a moment in five characters.
 
 `y naked`
 
@@ -165,17 +171,23 @@ She asked what he was doing. He said he was building a roof, which was plausible
 
 He was naked because he was running an experiment.
 
-He had put every article of clothing he owned into a tumble dryer, in a house with no power, running off a generator he had wired himself, in order to establish empirically whether machine drying beat wringing garments out by hand. And rather than stand there watching a dial he had gone up onto the roof to keep working, because there was no sense wasting the time.
+Consider the setup. There is no power in Knox County and has not been for a day. There is a generator behind the house, which he wired himself. He has routed that power to a tumble dryer. He has put every article of clothing he owns into it — every stitch, so the sample would be clean — and set it going, in order to establish once and for all whether the machine beat wringing things out by hand.
 
-Three minutes later the data came in. The dryer, he announced, was completely useless.
+And then, rather than stand in an empty room watching a dial turn, he went up a ladder onto the roof and carried on working, because the experiment would run whether he watched it or not and there was no sense wasting the daylight.
 
-Three minutes after that, in the middle of a conversation about where the empty water bottles had got to:
+So: a naked man on a roof in a dead county, hammering, while below him a machine nobody built for this dries his only clothes on borrowed power, and his friend watches him bump into the rainwater barrel and decides not to ask a second time.
+
+Three minutes later the finding came in. The dryer, he announced, was completely useless.
+
+He had time to say so. He had time for Stacey to answer. He had time, three minutes later, to be halfway through a conversation about where the empty water bottles had got to — which is the conversation he was having when he stepped somewhere there was nothing, and reported it with the mild surprise of a man noticing a hole in his sock.
 
 `wat the i fell lol`
 
+Then, a beat later, the correction:
+
 `terminal dmg`
 
-Two hundred and seventy hours. Eleven days of survival by the county's clock, ended by gravity, on a roof, with no clothes on, in the immediate aftermath of a successful appliance benchmark.
+Two hundred and seventy hours. Eleven days of survival by the county's clock, ended by gravity, on a roof, with no clothes on, three minutes after proving that tumble dryers are not worth the electricity.
 
 Stacey ran to him. It is the only place in the whole archive where you can see her move fast: she heard a groan, found him on the ground, and got there with the medical kit too late.
 
@@ -341,7 +353,7 @@ It would kill him twice.
 <!-- CH:8 | Three Trades | Aug 20-24 | stacey,senpai,frank | build,skills,irvington -->
 ## VIII. Three Trades
 
-You can read all three of them out of the skill logs, which shouldn't work, and does.
+You can read all three of them out of what they each became good at, which should not work, and does.
 
 ### Stacey
 
@@ -466,8 +478,65 @@ There is a line from two days earlier that reads differently once you know what'
 Note the *tmrw*. Not *if I die* — **if I die tomorrow.** He was not asking a hypothetical. He was doing capacity planning.
 
 ---
-<!-- CH:10 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
-## X. Bomb Time
+<!-- CH:10 | Coinflips | Aug 14-31 | stacey | building -->
+## X. Coinflips
+
+Nine minutes.
+
+That is the interval, on the morning of the twenty-first, between Stacey asking whether Frank wants his belongings back and Stacey reporting that she has them. In between she drove to a trailer past the gas station, found it surrounded, drew the mass of them off with the horn, went in over a body that had been alive a quarter of an hour earlier, took everything off it, and drove away.
+
+`need help getting stuff back?`
+
+`so many z`
+
+`ja trying to rally them up`
+
+`got`
+
+*Got.* One word. Frank thanked her twice — his hand was shaking on the keys, or his connection was, the record does not distinguish — and asked her to turn his truck off, which she also did.
+
+This is the tenth chapter of this account and it is the first one that is about her, which is itself the finding. She is in every chapter. She is the subject of none of them. The reason is structural and slightly shameful: the chapters are shaped around deaths, and she does not die, so the shape has nowhere to put her.
+
+---
+
+Here is what she does instead.
+
+She goes and gets them. All of them. She put an axe through Dragoș in a field outside Rosewood on the fifteenth and mentioned it afterward as a note about the local property. She recovered Frank from the trailer on the twenty-first and from the crater on the twenty-fifth. When senpai was bitten at the community college on the last afternoon and announced the coordinates where he intended to die, the reason those coordinates were useful — the entire reason a dying man bothered to give them — is that everyone understood Stacey would be along in the morning to collect what was left.
+
+Nobody ever discusses this. There is no moment in eighteen days where anyone says *thank you for doing the bodies*. It is simply understood, the way it is understood that she knows where the painkillers are.
+
+---
+
+And she is not safe. That is the part the record makes plain and the group never says out loud.
+
+On the fourteenth something reaches her in a kitchen before she sees it. On the sixteenth she goes down into a bunker under a shed, cannot see, comes back up, and finds that one of them has followed her to the top of the stairs:
+
+`thought i got all, but one more snuck up. almost bitten`
+
+`space was so tight`
+
+Two near-deaths in a single morning, and her verdict on the whole affair is `its cool tho`, followed immediately by an offer to take senpai over and show him the bunker. On the eighteenth she mentions, in passing, in a conversation about something else, that she should have been bitten twice the previous day and simply wasn't.
+
+Then, on the seventeenth, late, she says the truest thing anybody says about survival in this county and does not appear to notice she has said it:
+
+`almost died so many times`
+
+`just kept winning coinflips`
+
+That is the whole account. Two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days, unbroken, the longest continuous life in the record by a factor of three — and her own explanation is that the coin kept coming down her way.
+
+It is not true. It is at least not only true. The coin came down her way because she reads slowly on purpose and refuses to have it fixed; because she checks mailboxes for magazines nobody else thinks to check; because she keeps two fanny packs and a spare pair of glasses for a man who keeps losing his; because she backs up while she swings and will not fight at all when she is tired; because she scouted the road to Irvington herself, twice, at what she called sunday driver mode, and then went back out with a blowtorch and cut every wreck off it before she let anybody else drive it.
+
+But she thinks it was the coin. She has watched two men die on roofs and one die holding his own bomb, and she has drawn from this the conclusion that she has been lucky.
+
+---
+
+The last thing she does in the record is give directions to Brandenburg to two men she knows perfectly well will not follow them, and the second-to-last thing she does is tell a man bleeding out in a field to walk through more bushes so it goes faster.
+
+The last thing anybody says to her is `swet`.
+---
+<!-- CH:11 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
+## XI. Bomb Time
 
 The shopping list starts on the twenty-first, and the politeness of it is what gets you.
 
@@ -540,8 +609,8 @@ Three days later, in the middle of an unrelated conversation:
 `didnt realize i been sleeping in room with 2 aerosol bombs in nightstand`
 
 ---
-<!-- CH:11 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
-## XI. The Forge
+<!-- CH:12 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
+## XII. The Forge
 
 Nobody asked for a forge.
 
@@ -590,8 +659,8 @@ Stacey started this run by pointing out where the painkillers were.
 She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher's hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.
 
 ---
-<!-- CH:12 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
-## XII. No Wall
+<!-- CH:13 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
+## XIII. No Wall
 
 At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.
 
@@ -634,8 +703,8 @@ Six minutes of downtime. Then senpai came back with a new man and announced him 
 `junji morimoto gonna finish that roof`
 
 ---
-<!-- CH:13 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
-## XIII. Sixty Seconds
+<!-- CH:14 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
+## XIV. Sixty Seconds
 
 Junji Morimoto did not finish that roof.
 
@@ -696,8 +765,8 @@ And the following day, the final indignity:
 He needed weather to see his own building.
 
 ---
-<!-- CH:14 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
-## XIV. This Is Fine
+<!-- CH:15 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
+## XV. This Is Fine
 
 On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.
 
@@ -728,10 +797,10 @@ Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
 `me trying to have breakfast`
 
 ---
-<!-- CH:15 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,death,ending -->
-## XV. Christmas Eve
+<!-- CH:16 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
+## XVI. Down the Road from the Safehouse
 
-The last death in the archive is the only one anybody plans.
+The last death in the record is the only one anybody plans.
 
 It happens near the community college on the afternoon of August 31. He had nearly been caught there twice already that day and had said so out loud — two bites at the ankle that somehow left no damage state — and then he went back in, because there was a library on the second floor and the library had books they still needed.
 
@@ -770,8 +839,12 @@ It took a while. He said so.
 Stacey, offering hospice care.
 
 ---
+<!-- CH:17 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
+## XVII. Christmas Eve
 
-The record ends that evening. By the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which nobody can explain.
+He is collected in the morning, as arranged.
+
+The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which nobody can explain.
 
 Stacey is wearing a Santa jacket she has objections to. It is better than leather for the cold, which she concedes, but it is green.
 
@@ -785,7 +858,7 @@ And so, on the last afternoon in the record, they finally turn north.
 
 The position logs make the decision visible before anybody announces it. For eleven days the centre of all recorded movement sits within a few hundred tiles of the Irvington house, drifting west a little as they strip the country around it. Then, on the thirty-first, it jumps — more than three thousand tiles north and better than fifteen hundred west, to a patch of road at roughly (1566, 11291) where all three of them spend the day together.
 
-They had established a forward camp out there the day before: a house outside Ekron, safe-ish, chosen for no better reason than that it was standing. From it the highway runs north in a dead-straight line — you can see it in the data as a column of recorded positions holding at x≈830 for four thousand tiles — and at the top of that line is Brandenburg.
+They had established a forward camp out there the day before — a house somewhere beyond Ekron, as near as the record allows anyone to place it, described at the time only as safe-ish and chosen for no better reason than that it was standing. From it the highway runs north in a dead-straight line — you can see it in the data as a column of recorded positions holding at x≈830 for four thousand tiles — and at the top of that line is Brandenburg.
 
 They settle on Brandenburg because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
 
@@ -844,7 +917,7 @@ They are not going to use the tunnel. Nobody in this record has ever once moved 
 Thirteen people died in eighteen days and not one of them went down the chute.
 
 ---
-<!-- CH:16 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:18 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE LEDGER
 
 Three people who arranged their days around meeting every evening in Knox County to argue about where the sledgehammers were. Frank kept the relay running off a second machine and restarted it whenever asked, at any hour, apologizing when he overslept.
@@ -919,7 +992,7 @@ Two more predate the record: **Dragoș**, who wandered into the best farm in Ros
 *Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*
 
 ---
-<!-- CH:17 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
+<!-- CH:19 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
 ## APPENDIX A — THE TALE OF YEARS
 
 Two chronologies run through this document and only one of them is fiction.
@@ -935,7 +1008,7 @@ Two chronologies run through this document and only one of them is fiction.
 | **17 July** | The infection is reported in Cincinnati and Columbus; then Newcastle, London, Seoul, Okinawa. The same day, Life and Living broadcasts for the last time. |
 | **18 July →** | The remaining transmissions degrade into static. The Automated Emergency Broadcast System continues issuing weather. |
 
-### The chronicle's reckoning — eighteen sessions
+### The record's reckoning — eighteen days
 
 | | |
 |---|---|
@@ -959,7 +1032,7 @@ Two chronologies run through this document and only one of them is fiction.
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
 ---
-<!-- CH:18 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
+<!-- CH:20 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
 ## APPENDIX B — THE LINE OF SENPAI
 
 Six men answered to Frank's name and he named none of them. Stacey was one woman throughout. Senpai kept a house.
@@ -982,10 +1055,10 @@ Seven men, or six, or eight. The record does not agree with itself, and the reas
 **The other houses.** The six who carried Frank's name were unnamed and interchangeable, which is its own kind of statement: he treated a man as a kit rather than a person, replaced without ceremony, and spoke of each new one purely in terms of what he could now do. Stacey, alone of the three, was never replaced: two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — and is still alive at the last line of the record.
 
 ---
-<!-- CH:19 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:21 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
-The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature genuinely rare among human languages: **it inflects for speaker identity rather than for meaning.**
+The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down, which is that **its central word is inflected by who is saying it rather than by what they mean.**
 
 ### The root
 
@@ -999,7 +1072,9 @@ Its form is fixed per person and does not vary with mood, urgency, or content:
 | senpai | `swett` | Two T's. |
 | frank | `swettt` | Three T's. Frank has never in his life been merely satisfied. |
 
-Because the inflection is personal rather than semantic, **any line in the record can be attributed by counting the T's**, without reference to the name attached to it. This is more reliable than the names themselves, which are occasionally wrong.
+Because the variation tracks the speaker and not the sense, **any line in the record can be attributed by counting the T's**, without reference to the name attached to it. This is more reliable than the names themselves, which are occasionally wrong.
+
+It is not, strictly, a feature of a language. It is three people with habits so fixed that the habit does the work a signature would. But it holds for eighteen days across six thousand messages, which is more than can be said for most signatures.
 
 The system strains exactly three times in eighteen days, all under greeting-pressure — a four-T form appears twice from Frank and once from senpai, in each case during a pile-up of simultaneous logins. There are no recorded five-T forms.
 
@@ -1032,7 +1107,7 @@ Three fixed utterances exist for drawing the dead: `HEY!`, `HEY YOU!`, and `OVER
 The heaviest concentration in the record is not aimed at the dead at all. On the morning of 28 August, all three shouted thirty-five times in two minutes — a tenth of the archive's total — inside their own house, trying to make a corpse answer.
 
 ---
-<!-- CH:20 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:22 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX D — OF THE TWO HOLDINGS
 
 ### The first: Rosewood
@@ -1053,10 +1128,10 @@ At the close of the record the second holding is the safest structure any of the
 
 ### The third: the forward camp
 
-Established 30 August beyond Ekron, four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
+Established 30 August somewhere beyond Ekron — the record fixes the coordinates but never the name — four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
 
 ---
-<!-- CH:21 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:23 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Nobody drew this. It is assembled from 1,296 recorded positions — every time any of the three entered or left a vehicle over eighteen days, recorded automatically, with coordinates attached, and joined in order.
