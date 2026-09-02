@@ -684,6 +684,22 @@ The nineteenth of August is the worst of it, and it is not a coincidence that th
 
 The following morning, without preamble: `i lost my jacket cmon`.
 
+He also acquires things, and cannot always account for them.
+
+`how i have animal brain in my inventory`
+
+And on the twentieth he found the single greatest object in Knox County, which he reported at ten past five in the morning:
+
+`lol canoe paddle double bladed weapon`
+
+A double-bladed canoe paddle. Senpai said he would bring it home. An hour later Frank raised it again, unprompted, in a list of things he had lost — *double bladed canoe paddle too* — so it had already gone. And at twenty to twelve that morning senpai asked the question that goes unanswered for the remaining eleven days of the record:
+
+`has anyone tried the canoe paddle`
+
+Nobody had. Nobody ever does. It is mentioned four times on the twentieth of August and never again, and no man in this account is recorded as having swung it at anything.
+
+---
+
 On the twenty-fifth he lost his keyring, and asked after it twice in ninety minutes in the same careful register he uses for everything — *if you see my keyring pls let know* — and never saw it again. On the twenty-eighth he lost the journal a third time, and this time it was found for him at once, which was worse.
 
 `where my journal`
@@ -922,6 +938,14 @@ Senpai wanted to know whether Junji had turned. Stacey asked where he'd died. Se
 
 They could not find him.
 
+And then the house itself weighed in. Frank had spent the morning setting up the safehouse claim — the thing that would stop this happening again — and the claim would not go through, because the house reported that it was occupied.
+
+`says building occupied`
+
+`could also b mystery z wandering`
+
+So there was something in there with them. In the building they had gutted, extended, roofed, wired, plumbed and put a second storey on. Somewhere in it, in a room none of the three of them could name, was a person, and the paperwork would not clear until they produced him.
+
 Three men, in a house they had built with their own hands, spent the next several minutes shouting into it — `HEY!`, `OVER HERE!`, `HEY YOU!` — thirty-five times in two minutes, nearly a tenth of every shout in the entire eighteen-day archive, trying to bait a corpse into revealing itself.
 
 `well, wheres the dang body!?`
@@ -930,7 +954,7 @@ The shouting was, strictly speaking, pointless, and Stacey was the one who worke
 
 Which means he had never been going to answer. He had been on the floor of that house the whole time, exactly where he fell, not moving, while three men stood in the rooms around him yelling into the dark.
 
-They never found him.
+They never found him. They claimed the house anyway, eventually, and three days later a man woke up safe inside it for the first time in the entire record — which is the only good thing to come out of that morning, and it cost two men to buy.
 
 The explanation exists only because senpai confessed it three hours after the fact, in the tone of a man reporting he'd left the oven on. He had walked away and left the man standing there.
 
@@ -959,6 +983,24 @@ Sixty seconds.
 Marco Bernal-Casillas existed for one minute. He was a DIY expert. He was going to fix up everything. He woke in Rosewood — a town they had abandoned nine days earlier, an hour of highway from every friend he had — into a room with ten of them, and the complete surviving record of his life is a name, a mission statement, and the word *nvm*.
 
 The name got used again. Three days later a second man was made to the same specification, on the reasonable grounds that the first had never been given the chance to be wrong, and that one lasted three hundred and sixty-nine hours, learned to smith, and put the roof over the forge. Sixty seconds bought him that. It is the only thing the first Marco ever accomplished, and he did not live long enough to know he had done it.
+
+---
+
+Nineteen minutes after Marco Bernal-Casillas died for want of being anywhere near his friends, Frank was going through the settings.
+
+`i think there's option to be able to spawn at safehouse, if yes, want me to enable?`
+
+There was. There had been all along.
+
+`swettt spawn safehouse option was on, we could have been spawning at base this whole time lol`
+
+For fourteen days these men had been waking up wherever the county felt like putting them. In a bedroom with an unknown number of them in it. In a town abandoned nine days earlier, an hour of highway from every friend they had. Frank had asked about it in writing on the nineteenth — *is there a way to spawn near you guys if i die tmrw* — and nobody had checked, and the answer was yes, and it had been yes since the first morning.
+
+Marco had been dead for less than twenty minutes when they found out.
+
+Nobody says anything about this. There is no moment of reckoning. Frank explains how to claim a safehouse by right-clicking the floor, senpai says `o`, and they go back to the roof.
+
+---
 
 Senpai's own summary of his architectural career, delivered the following morning without a trace of self-pity:
 
