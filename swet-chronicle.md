@@ -1274,6 +1274,8 @@ Then, waiting to die in a field:
 
 He is bleeding out in a field outside Irvington on Christmas Eve, and he is doing burpees.
 
+<!--RECON7-->
+
 Nobody taught him this. There is no conversation anywhere in the record where somebody explains to him how to die usefully. He worked it out over eighteen days of doing it badly — off a roof with no clothes on, off another roof with nine planks on his back, standing in a doorway while nobody was watching, and once in a room in a town nobody had any reason to be in. Seven men went into working out how to do this properly. The eighth is going to inherit the result.
 
 It took a while. He said so.
