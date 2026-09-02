@@ -371,6 +371,8 @@ Stacey had scouted the route three days earlier, driving the full ten real-world
 
 Frank spent those days repairing vehicles and produced a shortlist. Senpai packed. Stacey loaded four trucks and a hitch trailer until the seats and glove boxes were full.
 
+<!--RECON3-->
+
 And then, before they set off, Frank offered a prediction about himself.
 
 `i'll still find a way to crash`
