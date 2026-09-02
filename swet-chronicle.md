@@ -688,7 +688,7 @@ Frank also does his exercises, which in Knox County means standing in one spot f
 
 `how i have animal brain in my inventory`
 
-Senpai had put them there while he stood in the yard doing repetitions.
+Senpai had put them there while he stood in the living room doing repetitions.
 
 Stacey — innocent, and unaware that anybody is looking for a culprit — helpfully explains that brains are used for tanning. Nobody answers the question Frank actually asked. He never asks it again.
 
