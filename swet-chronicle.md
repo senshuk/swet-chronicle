@@ -572,8 +572,62 @@ Frank maxed tailoring and carving — the two slowest, least urgent trades avail
 None of the three of them ever chose to be good at killing. Frank got to axe five because he was out in front and it kept happening to him.
 
 ---
-<!-- CH:11 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
-## XI. The Trailer
+<!-- CH:11 | A Survivor Red Truck | Aug 20-30 | frank,stacey,senpai | absence -->
+## XI. A Survivor Red Truck
+
+The word *survivor* appears twice in eighteen days of talk between these three people, and both times it is an adjective attached to a thing.
+
+On the twentieth of August, Frank reports:
+
+`found a survivor house up the road`
+
+He does not mean a house with a survivor in it. He means a house that somebody had been living in properly — barricaded, stocked, worked on — and then stopped. He identifies it, and in the same breath he inventories it: schematics, and the double-bladed canoe paddle.
+
+And on the thirtieth, ten days later:
+
+`was this a survivor red truck`
+
+`dont think so`
+
+`buncha good stuff in trunk`
+
+That is the entire exchange. It is the only time in the whole record that anybody asks a question about another living human being, and the question is whether a vehicle belonged to one, and the answer is probably not, and nobody follows up, because the trunk is full.
+
+---
+
+Here is what makes that strange rather than merely bleak.
+
+Knox County was full of people, and the record can prove it. There were eighteen stations transmitting into it. There was a man on an amateur band shouting that the Army knew exactly what this was. There was a talk station that signed off saying *we want to be with our families*, and a woman at a television studio who announced she had been bitten and told whoever wanted the building that they knew where it was. There was Zach, three days into holding an Air National Guard base near Nashville, promising to broadcast every night.
+
+And the county itself is signposted with the places people were put. On the map these three carried there is a Knox Boundary Camp, and a detention centre at Brandenburg, and Camps Arthur, Camus and Fitzgerald — the apparatus of a cordon, drawn and named and staffed by somebody.
+
+Not one of those places is ever visited. Not one of those broadcasts is ever mentioned. Nobody in this record ever asks whether anyone else made it.
+
+Never. Not in eighteen days, not in six thousand messages, not once when the radio was still running and not once after it stopped. There is no speculation about other survivors, no plan to look for any, no hope of finding any, and — worth noting, since this is the part every other account of a collapse is built on — no fear of any either. Nobody ever suggests that another living person might be dangerous, because the possibility of another living person does not come up.
+
+---
+
+The people are not absent from the record. They are just only ever present as inventory.
+
+Stacey works out early that a loose mass of fifteen or twenty of them standing together in open country usually has a backpack in the middle of it, and that the backpack is worth the trip, because it will hold the long blade manuals that are on no shelf anywhere in the county. She reports this as a shopping tip. It is a shopping tip. It is also the plainest description of another human being anybody offers in eighteen days: somebody who got further than we have, and then didn't, and whose bag is still on.
+
+Every skill book that made any of these three better at anything came off a body. Every good haul is somebody's estate. The survivor house is a dead man's house, the survivor truck is a dead man's truck, and the schematics that taught senpai something were carried out of a building by a man who had been collecting them for exactly the same reason and ran out of time.
+
+They are living, comfortably and productively, inside the accumulated property of the people who failed first.
+
+---
+
+None of this appears to trouble anybody. There is no scene in which one of them stands in a stranger's kitchen and thinks about the stranger.
+
+And it would be easy to read that as callousness, except that it is very obviously not. These are the same three people who drive across a county to collect each other's bodies, who file their gear for the next man, who keep a spare pair of glasses in a trailer for a friend who keeps losing his. The care is total and it is also strictly bounded. It extends to two other people and stops.
+
+Which may be the most honest thing in this entire account. Eighteen days into the end of the world, the group has not extended its circle by one person. It has not looked for anyone. It has not wondered. It has three names on it, and the rest of Kentucky is weather, material, and traffic.
+
+The last afternoon in the record has them planning to move into a building at the top of the county where four hundred people once died of tuberculosis. They are going because Stacey read a flier and thinks it would make a tremendous base.
+
+---
+<!-- CH:12 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
+## XII. The Trailer
 
 Past the gas station, on the right, there is a trailer.
 
@@ -616,8 +670,8 @@ There is a line from two days earlier that reads differently once you know what'
 Note the *tmrw*. Not *if I die* — **if I die tomorrow.** He was not asking a hypothetical. He was doing capacity planning.
 
 ---
-<!-- CH:12 | Coinflips | Aug 14-31 | stacey | building -->
-## XII. Coinflips
+<!-- CH:13 | Coinflips | Aug 14-31 | stacey | building -->
+## XIII. Coinflips
 
 Nine minutes.
 
@@ -685,8 +739,8 @@ The last thing she does in the record is give directions to Brandenburg to two m
 
 The last thing anybody says to her is `swet`.
 ---
-<!-- CH:13 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
-## XIII. Bomb Time
+<!-- CH:14 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
+## XIV. Bomb Time
 
 The shopping list starts on the twenty-first, and the politeness of it is what gets you.
 
@@ -759,8 +813,8 @@ Three days later, in the middle of an unrelated conversation:
 `didnt realize i been sleeping in room with 2 aerosol bombs in nightstand`
 
 ---
-<!-- CH:14 | The Keys | Aug 14-31 | frank,senpai,stacey | journal,driving -->
-## XIV. The Keys
+<!-- CH:15 | The Keys | Aug 14-31 | frank,senpai,stacey | journal,driving -->
+## XV. The Keys
 
 There is no Knox County unless Frank gets up.
 
@@ -855,8 +909,8 @@ Nobody ever thanked him for that either.
 Stacey collects the bodies. Frank keeps the ground they fall on.
 
 ---
-<!-- CH:15 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
-## XV. The Forge
+<!-- CH:16 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
+## XVI. The Forge
 
 The forge begins the day after Stacey's machete gives out, and she never once connects the two out loud.
 
@@ -905,8 +959,8 @@ Stacey started this run by pointing out where the painkillers were.
 She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher's hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.
 
 ---
-<!-- CH:16 | Looks Great Back Here | Aug 24-26 | senpai,frank,stacey | building,irvington -->
-## XVI. Looks Great Back Here
+<!-- CH:17 | Looks Great Back Here | Aug 24-26 | senpai,frank,stacey | building,irvington -->
+## XVII. Looks Great Back Here
 
 Nothing goes wrong on the twenty-sixth of August, which makes it the only chapter in this account that has to be assembled out of a good day.
 
@@ -989,8 +1043,8 @@ He asked, on the morning he started the second storey, whether it needed support
 There wasn't. The structure held. It is still standing at the end of the record, with snow on it.
 
 ---
-<!-- CH:17 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
-## XVII. No Wall
+<!-- CH:18 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
+## XVIII. No Wall
 
 At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.
 
@@ -1035,8 +1089,8 @@ Six minutes of downtime. Then senpai came back with a new man and announced him 
 `junji morimoto gonna finish that roof`
 
 ---
-<!-- CH:18 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
-## XVIII. Sixty Seconds
+<!-- CH:19 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
+## XIX. Sixty Seconds
 
 Junji Morimoto did not finish that roof.
 
@@ -1060,9 +1114,11 @@ Three men, in a house they had built with their own hands, spent the next severa
 
 The shouting was, strictly speaking, pointless, and Stacey was the one who worked out why. They had been calling for a zombie. But a man who dies without being bitten does not get up again. The body stays where it fell, intact, so that whoever finds it can take what he was carrying. Junji had died of something, and whatever it was, it hadn't been an infection.
 
-Which means he had never been going to answer. He had been on the floor of that house the whole time, exactly where he fell, not moving, while three men stood in the rooms around him yelling into the dark.
+He had never been going to answer. He was on the floor of that house the whole time, exactly where he fell, while three men stood in the rooms around him and shouted.
 
-They never found him. They claimed the house anyway, eventually, and three days later a man woke up safe inside it for the first time in the entire record — which is the only good thing to come out of that morning, and it cost two men to buy.
+They never found him.
+
+They claimed the house anyway. Three days later a man woke up safe inside it, for the first time in the record.
 
 The explanation exists only because senpai confessed it three hours after the fact, in the tone of a man reporting he'd left the oven on. He had walked away and left the man standing there.
 
@@ -1115,8 +1171,8 @@ Senpai's own summary of his architectural career, delivered the following mornin
 `many lives lost building 2nd floor`
 
 ---
-<!-- CH:19 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
-## XIX. This Is Fine
+<!-- CH:20 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
+## XX. This Is Fine
 
 On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.
 
@@ -1147,8 +1203,8 @@ Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
 `me trying to have breakfast`
 
 ---
-<!-- CH:20 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
-## XX. Down the Road from the Safehouse
+<!-- CH:21 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
+## XXI. Down the Road from the Safehouse
 
 The last death in the record is the only one anybody plans.
 
@@ -1184,7 +1240,7 @@ Then, waiting to die in a field:
 
 `doing burpees while bleeding out`
 
-He is doing calisthenics. He is bleeding out in a field outside Irvington on Christmas Eve and he is doing burpees, because the work still counts for something, and the notebook in his bag will carry every hour of it forward to whoever comes next.
+He is bleeding out in a field outside Irvington on Christmas Eve, and he is doing burpees.
 
 Nobody taught him this. There is no conversation anywhere in the record where somebody explains to him how to die usefully. He worked it out over eighteen days of doing it badly — off a roof with no clothes on, off another roof with nine planks on his back, standing in a doorway while nobody was watching, and once in a room in a town nobody had any reason to be in. Seven men went into working out how to do this properly. The eighth is going to inherit the result.
 
@@ -1197,8 +1253,8 @@ It took a while. He said so.
 Stacey, offering hospice care.
 
 ---
-<!-- CH:21 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
-## XXI. Christmas Eve
+<!-- CH:22 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
+## XXII. Christmas Eve
 
 He is collected in the morning, as arranged.
 
@@ -1266,7 +1322,7 @@ But the sentence only ever promised its own first half. It said *this is how you
 
 Eighteen days in, the answer is: arguing about whether Santa wears green, hiding a scorch mark behind a mini fridge, carrying a dead man's ID card in your pocket for thirty-seven days, doing burpees in a field to leave your friends a slightly better book — and planning, on Christmas Eve, with real enthusiasm, to drive north into the place the army gave up on, in order to move into a building with a tunnel under it for taking the bodies out quietly.
 
-They are not going to use the tunnel. Nobody in this record has ever once moved a body quietly. They shout across the whole house looking for one, they announce the coordinates of their own in advance, they photograph the aftermath and post it, and they keep a written account of every skill the dead man had so the next one doesn't have to start over.
+They are not going to use the tunnel. Nobody in this record has ever moved a body quietly. They shout across a whole house looking for one. They announce the coordinates of their own in advance.
 
 Thirteen people died in eighteen days and not one of them went down the chute.
 
@@ -1281,7 +1337,7 @@ And the last thing in the record at all comes three hours later, from a man who 
 `Swettt I'm still gonna get lost`
 
 ---
-<!-- CH:22 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:23 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE LEDGER
 
 Three people who arranged their days around meeting every evening in Knox County to argue about where the sledgehammers were. Frank kept the relay running off a second machine and restarted it whenever asked, at any hour, apologizing when he overslept.
@@ -1356,7 +1412,7 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 *Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*
 
 ---
-<!-- CH:23 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
+<!-- CH:24 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
 ## APPENDIX A — THE TALE OF YEARS
 
 Two chronologies run through this document and only one of them is fiction.
@@ -1397,7 +1453,7 @@ Two chronologies run through this document and only one of them is fiction.
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
 ---
-<!-- CH:24 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
+<!-- CH:25 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
 ## APPENDIX B — THE LINE OF SENPAI
 
 Frank's men all answered to one name and he never distinguished them. Stacey was one woman throughout. Senpai kept a house.
@@ -1430,7 +1486,7 @@ The consequence is the strangest object in this whole account: on 20 August, Raf
 **Stacey Stevenson**, alone of the three, was never replaced. Two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — one woman throughout, and still alive at the last line of the record. The other two houses go through fourteen men between them. Hers is not a line. It is a person.
 
 ---
-<!-- CH:25 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:26 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
 The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down, which is that **its central word is inflected by who is saying it rather than by what they mean.**
@@ -1484,7 +1540,7 @@ Three fixed utterances exist for drawing the dead: `HEY!`, `HEY YOU!`, and `OVER
 The heaviest concentration in the record is not aimed at the dead at all. On the morning of 28 August, all three shouted thirty-five times in two minutes — a tenth of the archive's total — inside their own house, trying to make a corpse answer.
 
 ---
-<!-- CH:26 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:27 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX D — OF THE TWO HOLDINGS
 
 ### The first: Rosewood
@@ -1508,7 +1564,7 @@ At the close of the record the second holding is the safest structure any of the
 Established 30 August somewhere beyond Ekron — the record fixes the coordinates but never the name — four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
 
 ---
-<!-- CH:27 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
+<!-- CH:28 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
 ## APPENDIX E — THE LAST BROADCASTS
 
 Eighteen stations were transmitting into Knox County when the line was drawn. Four radio, twelve television, one amateur band, and one military frequency that only ever broadcast numbers.
@@ -1555,7 +1611,7 @@ The second is Hitz FM. The music station's last transmission was *Danny Boy*, pl
 The record ends in snow, on Christmas Eve, with three people planning to drive north.
 
 ---
-<!-- CH:28 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:29 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Two things are drawn here and neither of them was drawn by hand.
