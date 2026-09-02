@@ -770,6 +770,8 @@ Senpai declined the invitation. Senpai had assessed the situation correctly and 
 
 So it was Stacey who went to fetch them. She found a mass near the storage units, got their attention, and drove. Frank was in position in a field with the trigger in his hand and reported, as they came into view, that they were faster than he'd expected.
 
+<!--RECON4-->
+
 Then two minutes of nothing. Then:
 
 `hm not working`
