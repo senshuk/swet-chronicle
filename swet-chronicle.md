@@ -1238,6 +1238,14 @@ And then he drove back out, because a body inside the base is a body you have to
 
 `k`
 
+He knew the hay building. They had looted it on the twenty-fifth — *looted them from hay place* — and it is a real business with a real address, out on the highway east of the town, and it advertised itself like this:
+
+<!--HAYFIG-->
+
+*Great feed makes Great animals.* *The feed and comfort that high quality animals need to thrive before slaughter.* *Great animals, make Great Meat.*
+
+He did not pick the field for that reason. He picked it because it was outside the base, close enough to drive to while bleeding, and easy to describe to somebody who would be coming for the body in the morning.
+
 *k.* A man announces the coordinates of his own death and Stacey says *k*, because Stacey is going to have to come and collect the body in the morning and it is genuinely useful to know where it will be.
 
 Then, waiting to die in a field:
