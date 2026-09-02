@@ -495,11 +495,15 @@ That is the interval, on the morning of the twenty-first, between Stacey asking 
 
 *Got.* One word. Frank thanked her twice — his hand was shaking on the keys, or his connection was, the record does not distinguish — and asked her to turn his truck off, which she also did.
 
-Her name is Stacey Stevenson and it is the only name in this account that never needed replacing. This is the tenth chapter and the first one that is about her, which is itself the finding. She is in every chapter. She is the subject of none of them. The reason is structural and slightly shameful: the chapters are shaped around deaths, and she does not die, so the shape has nowhere to put her.
+Her name is Stacey Stevenson, and it is the only name in Knox County that never had to be written down a second time.
+
+Eight men wore senpai's numerals in thirty-seven days. Frank went through six and never bothered to tell them apart. She began on the fourteenth of August and she is still there at the last line of the record, one woman, two thousand seven hundred and thirteen hours, the whole run without an interruption.
+
+A county like this keeps track of people by how they end. It has an hour and a cause for all thirteen of them, and the reason it has so little to say about her is that she has never once given it anything to write down.
 
 ---
 
-Here is what she does instead.
+So it has to be assembled out of what she did instead.
 
 She goes and gets them. All of them. She put an axe through Dragoș in a field outside Rosewood on the fifteenth and mentioned it afterward as a note about the local property. She recovered Frank from the trailer on the twenty-first and from the crater on the twenty-fifth. When senpai was bitten at the community college on the last afternoon and announced the coordinates where he intended to die, the reason those coordinates were useful — the entire reason a dying man bothered to give them — is that everyone understood Stacey would be along in the morning to collect what was left.
 
@@ -750,7 +754,7 @@ Sixty seconds.
 
 Marco Bernal-Casillas existed for one minute. He was a DIY expert. He was going to fix up everything. He woke in Rosewood — a town they had abandoned nine days earlier, an hour of highway from every friend he had — into a room with ten of them, and the complete surviving record of his life is a name, a mission statement, and the word *nvm*.
 
-The name got used again. Three days later a second man was made to the same specification, on the reasonable grounds that the first had never been given a chance to be wrong, and that one lasted three hundred and sixty-nine hours and built the roof over the forge. But that is the last chapter, and this one is sixty seconds long.
+The name got used again. Three days later a second man was made to the same specification, on the reasonable grounds that the first had never been given the chance to be wrong, and that one lasted three hundred and sixty-nine hours, learned to smith, and put the roof over the forge. Sixty seconds bought him that. It is the only thing the first Marco ever accomplished, and he did not live long enough to know he had done it.
 
 Senpai's own summary of his architectural career, delivered the following morning without a trace of self-pity:
 
