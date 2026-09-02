@@ -57,9 +57,9 @@ Senpai cannot sleep. Not *chooses not to* — cannot. He takes painkillers and l
 
 So they lie in adjacent beds in a dead woman's house, two grown men unable to sleep, waiting for six in the morning — because at six in the morning a television station that no longer employs anybody will broadcast a home-improvement program, and if they watch it they will get better at carpentry.
 
-The channel is called Life and Living, and it is the most quietly horrifying object in the county. Somewhere outside the cordon, before everything stopped, a broadcaster queued up twelve days of instructional daytime television and went home. There are three programmes and they rotate. *The Cook Show*, which is sponsored by a knife company. *Woodcraft*, which is a home-improvement hour. And *Exposure Survival*, presented by a man called Dean who opens every episode by announcing that he is going back to nature.
+The channel is called Life and Living. Nothing else in the county is horrifying so quietly. Somewhere outside the cordon, before everything stopped, a broadcaster queued up twelve days of instructional daytime television and went home. There are three programmes and they rotate. *The Cook Show*, which is sponsored by a knife company. *Woodcraft*, which is a home-improvement hour. And *Exposure Survival*, presented by a man called Dean who opens every episode by announcing that he is going back to nature.
 
-They play at midnight, six in the morning, noon and six in the evening. The timetable runs from the ninth of July to the twentieth — but the last programme anyone can learn anything from goes out at six in the morning on the eighteenth, and it is a Cook Show about whether pancakes are better than waffles. After that the slots still open on schedule and there is nothing in them.
+They play at midnight, six in the morning, noon and six in the evening. The timetable runs from the ninth of July to the twentieth — but the last programme anyone can learn anything from goes out at six in the morning on the eighteenth: a Cook Show about whether pancakes are better than waffles. After that the slots still open on schedule and there is nothing in them.
 
 The people who made those programmes stopped existing somewhere in the first week. The tapes kept rolling on schedule into a county with nobody left to watch them, teaching cookery and carpentry and how to live off the land to an empty state, four times a day, for twelve days.
 
@@ -105,7 +105,7 @@ Dragoș had wandered. That was all he did. He was the first one, before anybody 
 
 He died there without ever knowing what he was standing on. It took his friends killing his corpse to find out.
 
-Somebody went and marked it. On the shared chart the three of them kept between them — six marks in eighteen days, and that is the whole of it — there is a paw print six hundred tiles south of the Rosewood safehouse, sitting on the farm. It is the only mark on the map that commemorates anything. The first man they lost walked in a straight line into the best land in the county, and the only permanent record any of them made of him is a drawing of an animal's foot on the field where they had to put him down.
+Somebody went and marked it. On the shared chart the three of them kept between them — six marks in eighteen days, and that is the whole of it — there is a paw print six hundred tiles south of the Rosewood safehouse, sitting on the farm. Five of the six marks are places to go back to. This one is not. The first man they lost walked in a straight line into the best land in the county, and the only permanent record any of them made of him is a drawing of an animal's foot on the field where they had to put him down.
 
 And when senpai described the moment it happened, what he chose to report was not the loss of eleven days' progress. It was that the thing had made him jump.
 
@@ -147,7 +147,7 @@ Frank corrects the record.
 
 *Ow.* That is the eulogy. The entire eulogy. Eleven minutes into Frank's time in Knox County his friend types the word *ow*, and they move on.
 
-He comes back. He is dead again in thirteen minutes — three hours by the county's clock, not one full morning — and it is here that he arrives at the theory that will define him for the next sixteen days.
+He comes back. He is dead again in thirteen minutes — three hours by the county's clock, not one full morning. Somewhere in there he arrives at the theory that will define him for the next sixteen days.
 
 `i'm dead again anyway`
 
@@ -207,7 +207,7 @@ Somebody looked once. They did not come back, they did not land, and by every ac
 <!-- CH:5 | The Dryer | Aug 16 | senpai,stacey | rosewood,death,roof -->
 ## V. The Dryer
 
-It is the middle of the afternoon on the sixteenth of August and Stacey is downstairs, doing what she is always doing, which is deciding where things go.
+It is the middle of the afternoon on the sixteenth of August and Stacey is downstairs, doing what she is always doing: deciding where things go.
 
 Through the wall of the house — you can see the others through walls, the way you can always see the people you are responsible for — she notices her friend walking into a rain barrel.
 
@@ -231,7 +231,7 @@ So: a naked man on a roof in a dead county, hammering, while below him a machine
 
 Three minutes later the finding came in. The dryer, he announced, was completely useless.
 
-He had time to say so. He had time for Stacey to answer. He had time, three minutes later, to be halfway through a conversation about where the empty water bottles had got to — which is the conversation he was having when he stepped somewhere there was nothing, and reported it with the mild surprise of a man noticing a hole in his sock.
+He had time to say so. He had time for Stacey to answer. He had time, three minutes later, to be halfway through a conversation about where the empty water bottles had got to. He was still having it when he stepped somewhere there was nothing, and reported it with the mild surprise of a man noticing a hole in his sock.
 
 `wat the i fell lol`
 
@@ -297,7 +297,7 @@ Frank adjusted it twice anyway and got it wrong both times, overshooting on the 
 
 On August 17 the relay would not let senpai back in.
 
-He investigated the way he investigates everything, which is thoroughly and out loud, and what he turned up was a set of instructions for a thing called a Skill Journal. He read them out:
+He investigated the way he investigates everything, thoroughly and out loud, and what he turned up was a set of instructions for a thing called a Skill Journal. He read them out:
 
 > *Made from a notebook, glue, leather strips and thread. Recording sets down everything you presently know — what you can build, what you have read, how many of them you have put down. Recovering reads it back to whoever comes after you. Anything learned since the last entry is lost with you. Write often.*
 
@@ -411,6 +411,8 @@ It would kill him twice.
 <!-- CH:9 | Three Trades | Aug 20-24 | stacey,senpai,frank | build,skills,irvington -->
 ## IX. Three Trades
 
+They moved into the Irvington house on the nineteenth of August and they were still in it on the thirty-first. What sits between those two dates is not really a sequence of days. It is a set of habits — how they fought, what they made, who did which work, what they said to each other while doing it — and the habits are what the next several chapters are for. The dates go quiet here. They start again on the twenty-seventh of August, on a roof.
+
 You can read all three of them out of what they each became good at, which should not work, and does.
 
 ### Stacey
@@ -431,7 +433,7 @@ Four minutes later, she does not die, and the mushrooms go in the fridge for eve
 
 By the end she can cook with produce that has turned, and Stacey — who has been composting spoiled produce for a week against precisely this eventuality — begins running a small restaurant out of a corpse-strewn farmhouse, turning a bin of rot into a salad she describes as coming out fresh.
 
-She also works out where the good books come from, which is the grimmest supply line in the county and which she describes as a shopping tip.
+She also works out where the good books come from. It is the grimmest supply line in the county and she describes it as a shopping tip.
 
 Out on the edges of a town you will occasionally find a loose mass of fifteen or twenty of them standing together for no apparent reason. Somewhere in that group, she explains, there is usually one carrying a backpack — and that backpack will be full. Tools, ammunition, food, and above all the rare skill books, the long blade manuals nobody has been able to find on a shelf anywhere in Knox County.
 
@@ -441,7 +443,7 @@ Stacey checks every horde she passes for the one with the bag.
 
 ---
 
-There is one line of hers I have not been able to shake. It concerns two pigs at a farm down the road, and it is reported with exactly the same evenness as everything else.
+There is one line of hers I have not been able to shake. It concerns two pigs at a farm down the road, reported with exactly the same evenness as everything else.
 
 `butchered two pigs from farm nearby`
 
@@ -455,9 +457,9 @@ Senpai's entire response was a picture of a man with a secret store of bacon hid
 
 He ends as fine a carpenter as the county has, and with a house that has a floor he built.
 
-He is the builder, and he has the disease builders get. He wants a workshop. Then a kiln, so he needs clay. Then a forge extension off the garage, so he needs masonry. Then a roof over the storage area, so he needs logs — dozens of logs, then dozens more. And then, under the roof, he wants *better lighting*, which is what sends him to City Hall to loot a set of antique lamps.
+He is the builder, and he has the disease builders get. He wants a workshop. Then a kiln, so he needs clay. Then a forge extension off the garage, so he needs masonry. Then a roof over the storage area, so he needs logs — dozens of logs, then dozens more. And then, under the roof, he wants *better lighting*. That sends him to City Hall for a set of antique lamps.
 
-On the twenty-fourth he posts a colour-coded site plan: red for the loading and parking zone, dark blue for the warehouse, the remainder given over to crafting, with the whole thing possibly going multi-level. Frank reviews it like a zoning board and raises one objection, which is that he would prefer not to have to stack the vehicles.
+On the twenty-fourth he posts a colour-coded site plan: red for the loading and parking zone, dark blue for the warehouse, the remainder given over to crafting, with the whole thing possibly going multi-level. Frank reviews it like a zoning board and raises one objection: he would prefer not to have to stack the vehicles.
 
 Somewhere in the middle of all this Stacey names the condition out loud — *it never ends, this crafting rabbit hole* — and senpai agrees, and neither of them stops.
 
@@ -499,7 +501,7 @@ Nobody in this record ever wins a fight.
 
 They win encounters — thousands of them, across eighteen days, one after another after another — but there is no moment anywhere in the archive where three armed people stand together and beat a crowd. It is not that kind of story and they are not those kind of people, and the skill logs say so in numbers before anybody says it out loud.
 
-Frank's best weapon is an axe, and he gets it to level five. That is the highest combat skill anybody in this county ever reaches. He is also the strongest of the three by a distance, and the most willing, and it is worth remembering while reading the rest of this that the man who does most of the fighting is the man who dies six times.
+Frank's best weapon is an axe, and he gets it to level five. That is the highest combat skill anybody in this county ever reaches. He is also the strongest of the three by a distance, and the most willing. Worth remembering through the rest of this: the man who does most of the fighting is the man who dies six times.
 
 Stacey runs an axe and a long blade, both to four, and she is the quickest and the most evasive: top of the group for nimbleness and for sprinting, and the only one of them who ever bothers with sneaking at all — and she only gets that to two.
 
@@ -563,7 +565,7 @@ On the twenty-first of August, Stacey's machete — her best weapon, the one she
 
 You cannot fix a machete in Knox County. You can be given credit for trying, which is worse.
 
-The next day she began building a blacksmith's forge, and spent four days chasing it down a chain of prerequisites that reads like a curse, and when it finally paid out it produced machetes and long blades forged out of scrap stripped from dismantled cars — which is to say, without limit. Fifteen minutes at the anvil bought ten machetes, and she told the others to stop being precious with them.
+The next day she began building a blacksmith's forge, and spent four days chasing it down a chain of prerequisites that reads like a curse, and when it finally paid out it produced machetes and long blades forged out of scrap stripped from dismantled cars. There was no longer a ceiling on weapons. Fifteen minutes at the anvil bought ten machetes, and she told the others to stop being precious with them.
 
 The forge is usually described in this account as a hobby that got out of hand. It was not. It started as a woman watching the only thing standing between her and the county wear out in her hand, and deciding that would not be allowed to happen again.
 
@@ -571,7 +573,7 @@ The forge is usually described in this account as a hobby that got out of hand. 
 
 Which is as close as this record comes to stating what any of them actually wants.
 
-They never say it. In eighteen days nobody explains why they are doing this, and the only direct statement of ambition anybody makes is Frank's, and it is about delegating textile work. So the skills have to answer for them, and they do, because a skill level is just an accounting of where a person put their hours when nobody made them.
+They never say it. In eighteen days nobody explains why they are doing this. The only direct statement of ambition anybody makes is Frank's, and it concerns the delegation of textile work. So the skills have to answer for them, and they do, because a skill level is just an accounting of where a person put their hours when nobody made them.
 
 Stacey maxed four: cooking, foraging, butchering, blacksmithing. Every one of them turns the world into supplies. She wanted the group to stop needing anything from outside.
 
@@ -593,7 +595,9 @@ On the twentieth of August, Frank reports:
 
 He does not mean a house with a survivor in it. He means a house that somebody had been living in properly — barricaded, stocked, worked on — and then stopped. He identifies it, and in the same breath he inventories it: schematics, and the double-bladed canoe paddle.
 
-And on the thirtieth, ten days later:
+Between those two reports the county keeps producing red trucks. Frank is driving one on the twentieth. On the twenty-seventh, asked which vehicle he actually uses day to day, he names two — `cop car and red truck`. On the twenty-eighth he opens another and finds ammunition and a full propane tank in it. On the thirtieth Stacey offers to put the passenger window out of one more and hotwire it, and Frank agrees and promises to bring a replacement window back with him, because a smashed window is a thing you repair, not a thing you did to somebody.
+
+And then, ten days after the first one:
 
 `was this a survivor red truck`
 
@@ -613,6 +617,16 @@ And the county itself is signposted with the places people were put. On the map 
 
 Not one of those places is ever visited. Not one of those broadcasts is ever mentioned. Nobody in this record ever asks whether anyone else made it.
 
+The nearest anybody comes to the question is a piece of scheduling. On the morning of the twenty-fifth senpai wants to know whether the world has anything left to throw at them:
+
+`are we still vulnerable to events or did they happen already`
+
+Frank tells him no — that was the helicopter, that already happened. Stacey agrees. `think so`.
+
+Ten days earlier a machine had come over the treeline with a person inside it, and all three of them had stood and watched it, and now it has been filed: one event, discharged, nothing further scheduled. The next line in the log is Frank asking whether anybody has spare twigs.
+
+`do we have any branches twigs we don't need?`
+
 Never. Not in eighteen days, not in six thousand messages, not once when the radio was still running and not once after it stopped. There is no speculation about other survivors, no plan to look for any, no hope of finding any, and — worth noting, since this is the part every other account of a collapse is built on — no fear of any either. Nobody ever suggests that another living person might be dangerous, because the possibility of another living person does not come up.
 
 ---
@@ -631,7 +645,7 @@ None of this appears to trouble anybody. There is no scene in which one of them 
 
 And it would be easy to read that as callousness, except that it is very obviously not. These are the same three people who drive across a county to collect each other's bodies, who file their gear for the next man, who keep a spare pair of glasses in a trailer for a friend who keeps losing his. The care is total and it is also strictly bounded. It extends to two other people and stops.
 
-Which may be the most honest thing in this entire account. Eighteen days into the end of the world, the group has not extended its circle by one person. It has not looked for anyone. It has not wondered. It has three names on it, and the rest of Kentucky is weather, material, and traffic.
+Which is worth stating plainly, because it is not a lapse and nobody hid it. Eighteen days into the end of the world, the group has not extended its circle by one person. It has not looked for anyone. It has not wondered. It has three names on it, and the rest of Kentucky is weather, material, and traffic.
 
 The last afternoon in the record has them planning to move into a building at the top of the county where four hundred people once died of tuberculosis. They are going because Stacey read a flier and thinks it would make a tremendous base.
 
@@ -707,7 +721,7 @@ A county like this keeps track of people by how they end. It has an hour and a c
 
 So it has to be assembled out of what she did instead.
 
-She goes and gets them. All of them. She put an axe through Dragoș in a field outside Rosewood on the fifteenth and mentioned it afterward as a note about the local property. She recovered Frank from the trailer on the twenty-first and from the field full of them on the twenty-fifth. When senpai was bitten at the community college on the last afternoon and announced the coordinates where he intended to die, the reason those coordinates were useful — the entire reason a dying man bothered to give them — is that everyone understood Stacey would be along in the morning to collect what was left.
+She goes and gets them. All of them. She put an axe through Dragoș in a field outside Rosewood on the fifteenth and mentioned it afterward as a note about the local property. She recovered Frank from the trailer on the twenty-first and from the field full of them on the twenty-fifth. It becomes so settled a fact about her that the other two stop arranging it. A man who knows he is going to die in the next few hours will give out a map reference and go back to work, and the reference is not a request. It is a courtesy, extended to somebody who will obviously be along in the morning.
 
 Nobody ever discusses this. There is no moment in eighteen days where anyone says *thank you for doing the bodies*. It is simply understood, the way it is understood that she knows where the painkillers are.
 
@@ -838,6 +852,8 @@ Three days later, in the middle of an unrelated conversation:
 
 There is no Knox County unless Frank gets up.
 
+This is true on the fourteenth of August and true on the thirty-first. That is why this chapter has no date of its own.
+
 He runs the relay off a second machine, at his own cost, and the county exists only for as long as it is running. He restarts it whenever a setting needs changing, at any hour, on request, without being asked twice. And on the mornings when he overslept — twice by his own admission, both times before ten — the first thing he did on waking was apologize to two people who had not complained.
 
 `sry slept in, server up`
@@ -852,7 +868,7 @@ But it is true, and it is his. These three are allowed to separate only so far b
 
 Because Frank loses things. Not occasionally. As a way of being in the world.
 
-The nineteenth of August is the worst of it, and it is not a coincidence that the nineteenth is moving day. Between one in the afternoon and four he put his journal in a leather van and lost the van, lost his flashlight by means he never established, put the journal in a bookcase in an office and left the office, and lost his glasses. Four possessions in three hours, one of them twice, on the day they packed everything they owned into four trucks and a hitch trailer and drove it to the far edge of the map.
+The nineteenth of August is the worst of it. No coincidence: the nineteenth is moving day. Between one in the afternoon and four he put his journal in a leather van and lost the van, lost his flashlight by means he never established, put the journal in a bookcase in an office and left the office, and lost his glasses. Four possessions in three hours, one of them twice, on the day they packed everything they owned into four trucks and a hitch trailer and drove it to the far edge of the map.
 
 The following morning, without preamble: `i lost my jacket cmon`.
 
@@ -898,7 +914,7 @@ Nobody took him up on it. He never raised it again. He kept the relay for the wh
 
 He had built himself deliberately, the way a man loads a pack for a long walk, trading what he could afford to carry against what he wanted in return. He chose to read quickly. He chose to see well in the dark. And he chose to smoke, on the entirely reasonable assumption that rural Kentucky in 1993 would have a cigarette in every desk drawer.
 
-It did not. He spent a week aggrieved about it on historical grounds, and then tried simply not smoking, to see whether the need would lapse if he ignored it for long enough. It would not. So he got rid of it the only way this county permits, which is to trade something else away: he gave up his night vision to be free of the habit, and spent the rest of his life seeing less than he used to in a county where the power had been off for a fortnight.
+It did not. He spent a week aggrieved about it on historical grounds, and then tried simply not smoking, to see whether the need would lapse if he ignored it for long enough. It would not. So he got rid of it the only way this county permits — by trading something else away. He gave up his night vision to be free of the habit, and spent the rest of his life seeing less than he used to in a county where the power had been off for a fortnight.
 
 `way too dark`
 
@@ -932,7 +948,7 @@ Stacey collects the bodies. Frank keeps the ground they fall on.
 <!-- CH:16 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
 ## XVI. The Forge
 
-The forge begins the day after Stacey's machete gives out, and she never once connects the two out loud.
+The forge begins on the twenty-second of August, the day after Stacey's machete gives out, and she never once connects the two out loud.
 
 She spent four days pursuing it down a chain of prerequisites that reads like a curse laid on a village.
 
@@ -1046,7 +1062,7 @@ Everybody in this record is over capacity. It is how they get anything done, and
 
 ---
 
-There is one more thing about the second storey, and it is the most senpai fact in the archive.
+There is one more thing about the second storey. It may be the most senpai fact in the archive.
 
 He finished it, and it was unwalkable. The new boards rendered in exactly the same shade as the boards below them, so that standing on his own extension he could not tell where the floor ended and the drop began. Frank went up to look, could not distinguish the first storey from the second, turned around and came back down.
 
@@ -1100,7 +1116,7 @@ Nine planks.
 
 They had all been joking about it the previous afternoon. Frank had explained that hauling too much was how he was losing weight; senpai had reported his own down to eighty pounds; nobody had drawn a line from the joke to the roof.
 
-He fell ten feet carrying nine planks, and the weight had already taken most of his health before he ever left the roof — and that is why he died, and it is *also* why the naked one died eleven days earlier, hauling lumber around a rooftop at four in the afternoon.
+He fell ten feet carrying nine planks, and the weight had already taken most of his health before he ever left the roof. That is why he died. It is *also*, eleven days earlier and on a different roof, why the first one did.
 
 The Carpenter curse, which had been named for them ten days earlier in an account that got half the surrounding facts wrong, turned out to be real, and turned out to be *carrying too much*.
 
@@ -1266,7 +1282,7 @@ He knew the hay building. They had looted it on the twenty-fifth — *looted the
 
 He did not pick the field for that reason. He picked it because it was outside the base, close enough to drive to while bleeding, and easy to describe to somebody who would be coming for the body in the morning.
 
-*k.* A man announces the coordinates of his own death and Stacey says *k*, because Stacey is going to have to come and collect the body in the morning and it is genuinely useful to know where it will be.
+*k.* A man announces the coordinates of his own death and Stacey says *k*, because Stacey is going to have to come and collect the body in the morning, and knowing where it will be is genuinely useful.
 
 Then, waiting to die in a field:
 
@@ -1292,9 +1308,9 @@ Stacey, offering hospice care.
 
 He is collected in the morning, as arranged.
 
-The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which nobody can explain.
+The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and snow still falling at fifty degrees Fahrenheit, which nobody can explain.
 
-There is a new man in the house by then. He woke up inside it rather than somewhere out in the county, which is luck and not arrangement, and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too — every hour Marco Bernal-Casillas ever put into carpentry, written down by a man who knew he had two days left and spent part of them on the paperwork — which is how somebody who has never in his life driven a nail knows how to frame a wall.
+There is a new man in the house by then. He woke up inside it rather than somewhere out in the county — luck, not arrangement — and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too — every hour Marco Bernal-Casillas ever put into carpentry, written down by a man who knew he had two days left and spent part of them on the paperwork. That is how somebody who has never in his life driven a nail knows how to frame a wall.
 
 His name is Teodor Dragomir. He is the eighth, and he is the only one of the eight the record gives no ending.
 
@@ -1356,7 +1372,7 @@ The money never arrived. Five days later the army drew a line that put the town 
 
 So the place these three are driving toward on the last afternoon in the record is a town that was flattened in the spring, abandoned by the state in the summer, and then sealed in — and the reason they are going is that there is a haunted hospital near it.
 
-Beyond it is Louisville, which is where the line failed and the infection got out into the world, and which is the place all three of them have been idly describing as the eventual destination — the big city, the last one, the one you go to when you have run out of smaller places to be careful in. Frank's stated ambition for Louisville has never been more specific than shooting things and blowing things up there.
+Beyond it is Louisville, where the line failed and the infection got out into the world, and which all three of them have been idly describing as the eventual destination — the big city, the last one, the one you go to when you have run out of smaller places to be careful in. Frank's stated ambition for Louisville has never been more specific than shooting things and blowing things up there.
 
 And then, that evening, having spent the whole afternoon alone on the highway clearing wrecks so the other two could drive it safely:
 
@@ -1453,7 +1469,7 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 
 **Cherry Love.** A zombie killed near the community college on August 31. Senpai fled without her ID and drove back thirty-eight minutes later specifically to get it.
 
-**Mateo's ID card.** Taken off the second man of that name and carried by Rafael Morales for eight hundred and eighty-five hours. Still in his pocket when he hit the ground.
+**Mateo's ID card.** Taken off the second man of that name and carried by Rafael Morales for seven hundred and ten hours — the rest of his life, to the hour. Still in his pocket when he hit the ground.
 
 **180 fresh eggs.** Found at the tree line they had been logging beside for a week. Eggs and mushrooms together teach a cook more than anything else in the county; Frank learned more from one batch than from a week of stew, and concluded that his mother must be the finest cook alive.
 
@@ -1533,11 +1549,11 @@ Each of the following inherited the last one's skills out of a notebook, and eac
 | VII | **Marco Bernal-Casillas** *(the second)* | 31 Aug | 369 hrs | The same name again, made the same way, on the grounds that the build had never been given a fair trial. Bitten at the community college reaching for a library. Drove home, emptied his pockets into the lockers, wrote in the journal, drove back out, and did burpees until he stopped. |
 | VIII | **Teodor Dragomir** | — | *still standing* | Woke in the safehouse on the evening of the 31st, some hours after the burpees, and came into the whole line's carpentry out of a notebook he had not written. The record ends before he does. |
 
-Eight bearers and six names between them. For a long time the record did not agree with itself about that, because the group let its obituaries be written up second-hand by something that had not been present, and nobody went back to check. What looked like drift in the names turns out to be the plainest fact in the line: twice, on losing a man, senpai gave the next one the dead man's name back.
+Eight bearers and six names between them. For a long time the record did not agree with itself about that, because the group let its obituaries be written up second-hand by something that had not been present, and nobody went back to check. What looked like drift in the names was nothing of the kind: twice, on losing a man, senpai gave the next one the dead man's name back.
 
 **On the two Mateos.** The line repeats exactly two names, and it repeats them at both ends. On the morning of 14 August, with the first Mateo Zúñiga two days cold in a bar north of the driving school, senpai went looking for a replacement name and found one inside sixty seconds — *Bastien Moreau it is* — and did not use it. Ninety minutes later he announced a different one instead, Cătălin Popescu, and wrote up that afternoon's work under it in the group's journal, and did not use that either. What actually took the field, and framed the extension, and proved the dryer useless, and fell off the roof on the sixteenth wearing nothing at all, was Mateo Zúñiga. He had spent two hours and two rejected candidates arriving back at the name of the man he was replacing.
 
-The consequence is the strangest object in this whole account: on 20 August, Rafael Morales walked out to where the second Mateo fell, took the identification card off the body, and carried it for eight hundred and eighty-five hours — thirty-seven days, every hour of the longest reign in the line — as a reminder. A dead man's card, bearing a dead man's name, which was also the name of a different dead man, carried by a third man who was neither.
+The consequence is the strangest object in this whole account. Rafael Morales had already been alive a hundred and seventy-five hours when he walked out, on 20 August, to where the second Mateo fell and took the identification card off the body. He carried it for the seven hundred and ten hours he had left, which is to say for the rest of his life, and he did not know that was the shape of it. A dead man's card, bearing a dead man's name, which was also the name of a different dead man, carried by a third man who was neither.
 
 **On the two Marcos.** Numerals VI and VII bear the same name, and that is not an error in the record. The first Marco Bernal-Casillas was assembled with care — a DIY expert, masonry pushed, maintenance maxed, a man built for the second storey — and then the county put him in a room with ten of them and gave him sixty seconds. The build had never been tried. So it was tried again, under the same name, and this time it held for three hundred and sixty-nine hours, learned to smith, framed the roof over the forge, and died on a schedule of its own choosing in a field it named in advance. The second Marco is the only man in the line who got to prove what the first one was for.
 
@@ -1551,7 +1567,7 @@ The consequence is the strangest object in this whole account: on 20 August, Raf
 <!-- CH:26 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
-The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down, which is that **its central word is inflected by who is saying it rather than by what they mean.**
+The three survivors share a language that is not English and not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down: **its central word is inflected by who is saying it rather than by what they mean.**
 
 ### The root
 
@@ -1676,7 +1692,7 @@ The record ends in snow, on Christmas Eve, with three people planning to drive n
 <!-- CH:29 | Appendix F — The Last Editions | 1-16 July | frank,senpai,stacey | reference -->
 ## APPENDIX F — THE LAST EDITIONS
 
-Knox County had a newspaper. It was called the *Knox Knews*, it came out daily, and it was **printed in Irvington** — which is to say it was printed in the town these three would move into eleven weeks later, and build a forge in, and clear house by house.
+Knox County had a newspaper. It was called the *Knox Knews*, it came out daily, and it was **printed in Irvington** — the town these three would move into eleven weeks later, and build a forge in, and clear house by house.
 
 It ran for nine hundred and ten issues. Here is how it ended.
 
@@ -1713,7 +1729,7 @@ Three things in that sequence are worth carrying into the rest of this account.
 
 The first is that the county's paper spent the week before the end running the plague as a page-six item under a front page about a parade. *Knox has best Independence Day ever* is the last thing the *Knox Knews* ever shouted about. The illness that would take the state got a see-also.
 
-The second is the telephones, and it is the one that will not sit still.
+The second is the telephones. That one will not sit still.
 
 On **2 July** the *Knox Knews* reports widespread outages. Knox Telecommunications apologises for an *hours-long* failure and says its engineers are working around the clock. On **5 July** the outage is a front-page teaser — *"No end in sight" for Knox phone outages* — running beside the parade. On **6 July**, the paper's last day, it is still down, and the language has changed. It is no longer an outage. It is now, in the phone company's own words, an **"unscheduled maintenance period"**, and it has lasted almost a week.
 
@@ -1735,7 +1751,7 @@ Underneath is the county itself — every road, every river and lake, and the fo
 
 On top of it are 1,296 recorded positions: every time any of the three entered or left a vehicle over eighteen days, logged automatically, with coordinates attached, joined in order.
 
-Put together they answer a question the chat logs never do, which is whether these people used the roads. Mostly they did. The tracks sit on the tarmac for hundreds of tiles at a stretch — and then, twice, they do not.
+Put together they answer a question the chat logs never do: whether these people used the roads. Mostly they did. The tracks sit on the tarmac for hundreds of tiles at a stretch — and then, twice, they do not.
 
 The dense scribble at the right is Rosewood, five days of it. The long diagonal is the nineteenth of August, the only day the group had no address. The mass on the left is Irvington and eleven days of stripping the country around it. The thin line running north at the top left is the thirty-first: the last afternoon, the turn toward Brandenburg, drawn at speed by three people who had finally run out of smaller places to be careful in.
 
@@ -1743,15 +1759,15 @@ The crosses are where people stopped.
 
 The two moments where the tracks leave the road system entirely are worth finding. One is the nineteenth, cutting the corner between the towns. The other is the last afternoon, running dead straight up the highway to the north, on a road Stacey had spent the day clearing wrecks off so the other two could take it at speed.
 
-And at the top of the sheet, marked and named, is Sunderland Hills — the sanatorium with the tunnel under it, the place all three of them had agreed to move into. It is about five thousand four hundred tiles from the forward camp, which is further than any single day's driving in the whole record. The last position anybody logged is at the bottom of that gap.
+And at the top of the sheet, marked and named, is Sunderland Hills — the sanatorium with the tunnel under it, the place all three of them had agreed to move into. It is about five thousand four hundred tiles from the forward camp — further than any single day's driving in the whole record. The last position anybody logged is at the bottom of that gap.
 
 ---
 
-There is one more layer, and it is the only part of this map that any of them drew.
+There is one more layer, and they drew it themselves.
 
 They kept a shared chart between them, and over eighteen days they put six marks on it. Not sixty. Six. Everything else they held in their heads or shouted across a house.
 
-Three of the six are houses. The first is at Rosewood, on the exact tile where a naked man missed a staircase — the safehouse, marked with a roof. The second is Irvington, on the tile where the longest-lived carpenter in the line hugged a wall that was not there, and where the man who replaced him died the same evening. Both houses are marked where their people died, which is not intentional and is not avoidable: the house is where you are when you are not being careful.
+Three of the six are houses. The first is at Rosewood, on the exact tile where a naked man missed a staircase — the safehouse, marked with a roof. The second is Irvington, on the tile where the longest-lived carpenter in the line hugged a wall that was not there, and where the man who replaced him died the same evening. Both houses are marked where their people died. That is not intentional and not avoidable: the house is where you are when you are not being careful.
 
 The other three are a target north of Rosewood, a paw print six hundred tiles south of it — the farm with the pigs, the best land in the county, the ground Dragoș Muresan wandered onto and died on without ever knowing what it was — and, out past Irvington, a set of waves. Water. Somebody found a supply worth writing down.
 
