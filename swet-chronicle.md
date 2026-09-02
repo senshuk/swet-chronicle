@@ -57,13 +57,13 @@ So they lie in adjacent beds in a dead woman's house, two grown men unable to sl
 
 The channel is called Life and Living, and it is the most quietly horrifying object in the county. Somewhere outside the cordon, before everything stopped, a broadcaster queued up twelve days of instructional daytime television and went home. There are three programmes and they rotate. *The Cook Show*, which is sponsored by a knife company. *Woodcraft*, which is a home-improvement hour. And *Exposure Survival*, presented by a man called Dean who opens every episode by announcing that he is going back to nature.
 
-They play at midnight, six in the morning, noon and six in the evening, from the ninth of July to the twentieth. Then the tape runs out and the channel is silent for good.
+They play at midnight, six in the morning, noon and six in the evening. The timetable runs from the ninth of July to the twentieth — but the last programme anyone can learn anything from goes out at six in the morning on the eighteenth, and it is a Cook Show about whether pancakes are better than waffles. After that the slots still open on schedule and there is nothing in them.
 
 The people who made those programmes stopped existing somewhere in the first week. The tapes kept rolling on schedule into a county with nobody left to watch them, teaching cookery and carpentry and how to live off the land to an empty state, four times a day, for twelve days.
 
-Stacey has set an alarm for ten to six. She has the schedule roughly by heart and reports that the channel dies around the seventeenth or eighteenth.
+Stacey has set an alarm for ten to six. She has the schedule by heart and reports that the channel dies around the seventeenth or eighteenth.
 
-She is going from memory and she is two or three days short. But she is close enough that they plan around it, and she is right about the thing that matters, which is that the television is a resource with an expiry date and every missed broadcast is carpentry nobody gets back.
+She is exactly right. Nobody told her; there is nobody left to tell her. She has simply been paying attention to a television station for long enough to know the hour it stops being worth anything, and she is arranging their sleep around it, because every missed broadcast is carpentry nobody gets back.
 
 The television is not the only thing still talking. Somewhere on the dial, the Automated Emergency Broadcast System is running too, and what it mostly does is read out the weather. Frank tunes into it on his first afternoon and relays the forecast to the others like a man checking whether to bring a coat: thunderstorm tomorrow morning. Nobody built that system to survive its operators. It simply has no instruction telling it to stop, so it goes on issuing small-craft advisories over a quarantined county, on schedule, indefinitely.
 
@@ -1266,7 +1266,54 @@ At the close of the record the second holding is the safest structure any of the
 Established 30 August somewhere beyond Ekron — the record fixes the coordinates but never the name — four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
 
 ---
-<!-- CH:25 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:25 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
+## APPENDIX E — THE LAST BROADCASTS
+
+Eighteen stations were transmitting into Knox County when the line was drawn. Four radio, twelve television, one amateur band, and one military frequency that only ever broadcast numbers.
+
+They did not stop together. They stopped one at a time over nine days, in an order, and the order is not the one you would expect.
+
+| Station | | Last words on air |
+|---|---|---|
+| **Classified M1A1** | 95000, military | Day 0. A voice reading a sequence — *Three. Seven. … Eight. Nine. Two. Eight. Zero. Nine. … Negative eight. Five.* — on a loop, all day, and then never again. |
+| **Unknown Frequency** | 107600, amateur | Day 3. *I'm in the Exclusion Zone. You're being LIED to. The Army know exactly what this is.* |
+| **WBLN News** | Ch. 201 | Day 7, midnight. An apology for the previous night's guest, and an interview with the Bishop of Louisville. |
+| **LBMW Kentucky Radio** | 93200 | Day 7, evening. *Jackie Jaye. I'm still here. Need you to know something. National networks are reporting that it's spread.* |
+| **Hitz FM** | 89400 | Day 7, evening. *Danny Boy*, sung all the way to the end. |
+| **TURBO** | Ch. 204 | Day 8. The reading of a will, in a soap opera. |
+| **National Sports TV** | Ch. 208 | Day 8, morning. Fragments only: *… CDC … previously recorded … advice … further notice …* |
+| **KnoxTalk Radio** | 101200 | Day 8, noon. *I'm sorry but KnoxTalk is tapping out. We want to be with our families. Good luck everyone.* |
+| **GBC** | Ch. 210 | Day 8, evening. *… failing. I can see only… streets are full of… the brain but I can't…* |
+| **USR** | 94200 | Day 8, evening. A man named Don Beverage explaining that he appears to be immune. |
+| **Music Video Channel** | Ch. 207 | Day 9, midnight. Eighties classics. |
+| **NNR Radio** | 98000 | Day 9, morning. A list of confirmed locations — Louisville, New Orleans, New York, Los Angeles — cut off mid-word. |
+| **Life and Living TV** | Ch. 203 | Day 9, morning. Pancakes or waffles. |
+| **Civilian Radio** | 91200, amateur | Day 11, midnight. A man called Zach, holding an Air National Guard base near Nashville, promising to broadcast every night. |
+| **PawsTV** | Ch. 205 | Day 11, evening. *Fluffyfoot the Fluffy Bunny.* |
+| **Brennan Movie Channel** | Ch. 209 | Day 11, evening. Two words: *Dog Goblin!* |
+| **KPATV** | Ch. 206 | Day 11, 8 p.m. *Maria here. It's over. Quentin bit me. This was a fun little experiment. Someone else wants to try — you know where the studio is. Just try and bury us. Thanks for joining me, Kentucky.* |
+| **Triple-N** | Ch. 200 | Day 12, morning. *This is a recorded broadcast. It will be set to repeat.* |
+
+---
+
+The news went first and the children's programming went last. WBLN and the Bishop of Louisville were off the air three full days before *Fluffyfoot the Fluffy Bunny*, and four days before a man in a studio said *just try and bury us* and put on a record.
+
+The last human being to speak live into Knox County was Maria at KPATV, on the evening of the eleventh day, telling the county she had been bitten and inviting whoever wanted the studio to come and take it. After her there is one voice left, and it is Triple-N announcing that it is a recording and that it will now repeat itself, which it does, indefinitely, to nobody.
+
+That is the radio that is still running when the record opens: a tape that says it is a tape, an automated forecast reading out small-craft advisories, and static on every other frequency.
+
+---
+
+Two of these bear on this account directly.
+
+The first is that the county's final piece of instructional television — the last thing broadcast by anyone, anywhere, that was intended to teach a person how to do something — was a cookery programme arguing about pancakes. It aired at six in the morning on the eighteenth of July. Somebody in this record got up for it.
+
+The second is Hitz FM. The music station's last transmission was *Danny Boy*, played out in full, including the verse about coming back when the valley is hushed and white with snow.
+
+The record ends in snow, on Christmas Eve, with three people planning to drive north.
+
+---
+<!-- CH:26 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Two things are drawn here and neither of them was drawn by hand.
