@@ -1280,6 +1280,22 @@ The two moments where the tracks leave the road system entirely are worth findin
 
 And at the top of the sheet, marked and named, is Sunderland Hills — the sanatorium with the tunnel under it, the place all three of them had agreed to move into. It is about five thousand four hundred tiles from the forward camp, which is further than any single day's driving in the whole record. The last position anybody logged is at the bottom of that gap.
 
+---
+
+There is one more layer, and it is the only part of this map that any of them drew.
+
+They kept a shared chart between them, and over eighteen days they put six marks on it. Not sixty. Six. Everything else they held in their heads or shouted across a house.
+
+Three of the six are houses. The first is at Rosewood, on the exact tile where a naked man missed a staircase — the safehouse, marked with a roof. The second is Irvington, on the tile where the longest-lived carpenter in the line hugged a wall that was not there, and where the man who replaced him died the same evening. Both houses are marked where their people died, which is not intentional and is not avoidable: the house is where you are when you are not being careful.
+
+The other three are a target north of Rosewood, a paw print six hundred tiles south of it — the farm with the pigs, the best land in the county, the ground Dragoș Muresan wandered onto and died on without ever knowing what it was — and, out past Irvington, a set of waves. Water. Somebody found a supply worth writing down.
+
+And then there is the third house.
+
+It sits at the top of the map, beside the Brandenburg Detention Center, six hundred and thirty tiles north of the northernmost position any of the three of them ever occupied. Nobody stood there. No vehicle log puts anybody within half a day's drive of it. It is a roof drawn on a chart above the line where the record stops.
+
+They had picked out the next place before they got to it. That is the last thing on the map and it is the only mark on it that points forward.
+
 <!--MAP-->
 
 Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roof. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** the first Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the second Marco, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
