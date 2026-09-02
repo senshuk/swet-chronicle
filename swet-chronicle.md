@@ -325,7 +325,11 @@ Asked why a car warranted an entry, he explained his reasoning.
 
 `never know when a deer has my number`
 
-There was also the matter of the noise it made. Writing an entry produced a soft rhythmic sound, and Frank, standing out in the yard while senpai wrote indoors, described it as *a dog sniffing in your ear.*
+The ritual has a sound. Writing an entry produces a soft rhythmic noise with enough carry to be heard from outside the building, and on the twenty-third Frank, standing in the yard while senpai wrote indoors, worked out what it reminded him of.
+
+`that journal sound from outside sounds like a dog sniffing in your ear`
+
+For a fortnight, several times a day, anybody in the yard at Irvington could hear somebody inside the house writing down what they knew, and what it sounded like was an animal breathing very close to their head. Nobody raised it again.
 
 Frank's own relationship with the journal was different. Frank's relationship with the journal was that he kept losing it — first into a leather van, then into a bookcase in an office, and finally, ten days later and plaintively, at seven in the morning:
 
@@ -652,6 +656,22 @@ The last afternoon in the record has them planning to move into a building at th
 ---
 <!-- CH:12 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
 ## XII. The Trailer
+
+At twenty-six minutes past eight on the morning of August 21, Frank cooked.
+
+`i made mexican staple, rice and beans in fridge`
+
+`swet i eat now`
+
+`fcouldn't figure out how to add meat`
+
+Stacey explained that the meat depends on the vessel. Some recipes are specific to what you cook them in; a roasting pan will take meat where a pot will not. Frank accepted this and moved on to whether the washing machine could be plumbed as well. It could. They were low on water, so senpai was sent up to add more catchers above the sink, and somebody observed that it had not rained much lately.
+
+That was the morning. Rain collectors, rice and beans, a machete losing condition faster than it could be repaired, and senpai downstairs building a table in the garage on the grounds that you cannot craft a baseball bat without a surface to craft it on.
+
+Two hours later.
+
+---
 
 Past the gas station, on the right, there is a trailer.
 
@@ -1310,7 +1330,7 @@ He is collected in the morning, as arranged.
 
 The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and snow still falling at fifty degrees Fahrenheit.
 
-There is a new man in the house by then. He woke up inside it rather than somewhere out in the county — luck, not arrangement — and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too — every hour Marco Bernal-Casillas ever put into carpentry, written down by a man who knew he had two days left and spent part of them on the paperwork. That is how somebody who has never in his life driven a nail knows how to frame a wall.
+There is a new man in the house by then. He woke up inside it rather than somewhere out in the county — luck, not arrangement — and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too — every hour Marco Bernal-Casillas ever put into carpentry, written down by a man who knew he had two days left and spent part of them on the paperwork. That is how somebody who has never in his life driven a nail knows how to frame a wall. He will find, when he opens it, that it makes a noise you can hear from the yard.
 
 His name is Teodor Dragomir. He is the eighth, and he is the only one of the eight the record gives no ending.
 
