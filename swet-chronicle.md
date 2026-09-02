@@ -69,6 +69,12 @@ The television is not the only thing still talking. Somewhere on the dial, the A
 
 Between them, the TV and the radio are the entire remaining output of human civilization in Knox County: twelve days of cookery, carpentry and back-to-nature, and an indefinite run of weather.
 
+It was not always that thin. Eighteen stations were transmitting into this county when the army drew its line — four radio, twelve television, an amateur band, and one military frequency reading numbers. They are going off the air one at a time, and the week this record opens is the week it happens.
+
+While these two lie in a dead woman's beds waiting for a carpentry programme, the news is being switched off around them. WBLN has just finished interviewing the Bishop of Louisville and will not broadcast again. Hitz FM plays *Danny Boy* all the way through and stops. The man on the Kentucky station coughs into the microphone, says *I'm still here*, reports that it has reached Norfolk in England, and that is the last anybody hears of him. In two days the talk station will sign off with the sentence *we want to be with our families*.
+
+Neither of them mentions any of this. They are discussing painkillers, and where the fanny packs are, and whether the sleeping pills are in the other nightstand. The world outside the line is going quiet at the rate of about two stations a day and the two people inside it have correctly identified the important thing on television, which is a man explaining how to build a floor.
+
 Outside, in the fog, something walks past the window and does not come in.
 
 ---
@@ -96,6 +102,8 @@ And here senpai says the thing that has stayed with me longer than any of the de
 Dragoș had wandered. That was all he did. He was the first one, before anybody knew anything, and he walked in whatever direction the map allowed until he stopped walking. And where he happened to stop, entirely by accident, was the best piece of real estate in Rosewood — three pigs, a chicken coop, water troughs holding a hundred and fifty thousand milliliters apiece, an infinite renewable supply of everything a person needs to get through a winter.
 
 He died there without ever knowing what he was standing on. It took his friends killing his corpse to find out.
+
+Somebody went and marked it. On the shared chart the three of them kept between them — six marks in eighteen days, and that is the whole of it — there is a paw print six hundred tiles south of the Rosewood safehouse, sitting on the farm. It is the only mark on the map that commemorates anything. The first man they lost walked in a straight line into the best land in the county, and the only permanent record any of them made of him is a drawing of an animal's foot on the field where they had to put him down.
 
 And when senpai described the moment it happened, what he chose to report was not the loss of eleven days' progress. It was that the thing had made him jump.
 
@@ -773,8 +781,92 @@ Stacey started this run by pointing out where the painkillers were.
 She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher's hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.
 
 ---
-<!-- CH:15 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
-## XV. No Wall
+<!-- CH:15 | Looks Great Back Here | Aug 24-26 | senpai,frank,stacey | building,irvington -->
+## XV. Looks Great Back Here
+
+Nothing goes wrong on the twenty-sixth of August, which makes it the only chapter in this account that has to be assembled out of a good day.
+
+The weather is the first thing worth saying about it, because by this point in the record the weather has stopped being scenery and become stock. Rain is not something that happens to these people. Rain is clay, which is a kiln; rain is a barrel filling, which is a plumbed sink and a washing machine that works; rain is a better yield on everything foraged out of the verges. They had five straight days of it in the third week and Stacey complained the entire time, and when it stopped she was furious.
+
+`shouldve taken advantage of the last 5 DAYS!`
+
+There is a morning on the twenty-first where the sky finally opens over Irvington and all three of them react to it like a delivery arriving.
+
+`finally rain`
+
+`swet big rain`
+
+`hopefully rains all night`
+
+Three people in a county where everyone is dead, hoping out loud for weather.
+
+---
+
+The house at Irvington was a fixer-upper with a floor plan that offended senpai personally, and by the twenty-fourth it had become a project with zoning.
+
+He posted a plan. An actual plan, colour-coded: red for loading and parking, dark blue for the warehouse, the rest given over to crafting, with a note that the whole thing might go multi-level. Frank read it the way a man reads a planning application and raised exactly one objection, which was that he would prefer not to have to stack the vehicles.
+
+By the twenty-sixth the back of the house had a system in it. Not shelves — a *system*, provisional and under review:
+
+`trying a sorting system out`
+
+`might still shift around depending on final layout`
+
+`still need at least 5 large metal shelves`
+
+`think we cleaned out most of the local spots`
+
+He had run the county out of shelving. There was, at that point, a second storey, a forge, a warehouse, a kiln, a rainwater system feeding four barrels into a plumbed industrial sink, floodlights, antique lamps carried back from City Hall because the standard lighting was not good enough, lockers, a wood stove holding the place at seventeen degrees above what the outside was doing, and a bathroom.
+
+And Frank walked in through the back, looked at it, and said the only compliment anybody pays anybody in eighteen days:
+
+`oh wow looks great back here`
+
+`swett`
+
+That is the whole exchange. Five words and an acknowledgement. Nobody says thank you in this record, and nobody says well done, and this is as close as it gets — one man noticing another man's warehouse and mentioning it.
+
+---
+
+Then, four minutes later, the conversation turns to how much they weigh.
+
+`are you still chonk`
+
+`i been losing weight just by walking around overencumbered`
+
+`lol nay lost back down to 81`
+
+`80 now`
+
+They are all doing this. All three of them are carrying more than they should, all the time, as a matter of routine — Frank has worked out that hauling too much is a weight-loss programme and is running it deliberately; senpai is down two pounds and reporting the number.
+
+It is a joke, and it is being made twenty-one hours before it kills somebody.
+
+The load is the thing. Not the dead, not the roof, not the distance — the load. On the twenty-seventh the best carpenter any of them ever had will step off a ten-foot drop with nine planks on his back and be dead before he lands, and the reason will be that the weight had already taken most of him before he ever left the roof. Stacey works it out that evening. She has watched senpai haul extreme loads around a building site for eleven days and she is the one who connects it.
+
+Everybody in this record is over capacity. It is how they get anything done, and it is what the county finally charges them for.
+
+---
+
+There is one more thing about the second storey, and it is the most senpai fact in the archive.
+
+He finished it, and it was unwalkable. The new boards rendered in exactly the same shade as the boards below them, so that standing on his own extension he could not tell where the floor ended and the drop began. Frank went up to look, could not distinguish the first storey from the second, turned around and came back down.
+
+So the master carpenter crossed his masterwork by refusing to trust his own feet — picking each board before he put weight on it, one at a time, the way you cross a minefield. And the following day, the final indignity:
+
+`fog helped me figure out where floor ended lol`
+
+He needed weather to see his own building.
+
+That is the man. He can put up a structure the county cannot knock down and then cannot locate its edges; he builds better than he can perceive, and he keeps building anyway, and on the last afternoon of his life a man carrying his notebook will stand in the house he designed and know how to frame a wall without ever having driven a nail.
+
+He asked, on the morning he started the second storey, whether it needed support underneath. He was told there was nothing to worry about.
+
+There wasn't. The structure held. It is still standing at the end of the record, with snow on it.
+
+---
+<!-- CH:16 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
+## XVI. No Wall
 
 At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.
 
@@ -806,6 +898,8 @@ The investigation that evening is genuinely good detective work. Frank objected 
 
 Nine planks.
 
+They had all been joking about it the previous afternoon. Frank had explained that hauling too much was how he was losing weight; senpai had reported his own down to eighty pounds; nobody had drawn a line from the joke to the roof.
+
 He fell ten feet carrying nine planks, and the weight had already taken most of his health before he ever left the roof — and that is why he died, and it is *also* why the naked one died eleven days earlier, hauling lumber around a rooftop at four in the afternoon.
 
 The Carpenter curse, which had been named for them ten days earlier in an account that got half the surrounding facts wrong, turned out to be real, and turned out to be *carrying too much*.
@@ -817,8 +911,8 @@ Six minutes of downtime. Then senpai came back with a new man and announced him 
 `junji morimoto gonna finish that roof`
 
 ---
-<!-- CH:16 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
-## XVI. Sixty Seconds
+<!-- CH:17 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
+## XVII. Sixty Seconds
 
 Junji Morimoto did not finish that roof.
 
@@ -870,19 +964,9 @@ Senpai's own summary of his architectural career, delivered the following mornin
 
 `many lives lost building 2nd floor`
 
-The second storey was finished. It was also, it turned out, unwalkable — the new boards rendered in the same shade as the boards below them, so that standing up there you genuinely could not tell where the floor ended and the drop began. Frank went up to look and could not distinguish the first storey from the second, and turned around and came back down.
-
-So the master carpenter finished his masterwork by refusing to trust his own feet. He picked each board before he put weight on it, one at a time, and crossed his own floor the way you would cross a minefield.
-
-And the following day, the final indignity:
-
-`fog helped me figure out where floor ended lol`
-
-He needed weather to see his own building.
-
 ---
-<!-- CH:17 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
-## XVII. This Is Fine
+<!-- CH:18 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
+## XVIII. This Is Fine
 
 On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.
 
@@ -913,8 +997,8 @@ Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
 `me trying to have breakfast`
 
 ---
-<!-- CH:18 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
-## XVIII. Down the Road from the Safehouse
+<!-- CH:19 | Down the Road from the Safehouse | Aug 31 | senpai,stacey,frank | irvington,death -->
+## XIX. Down the Road from the Safehouse
 
 The last death in the record is the only one anybody plans.
 
@@ -957,8 +1041,8 @@ It took a while. He said so.
 Stacey, offering hospice care.
 
 ---
-<!-- CH:19 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
-## XIX. Christmas Eve
+<!-- CH:20 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,ending -->
+## XX. Christmas Eve
 
 He is collected in the morning, as arranged.
 
@@ -980,7 +1064,9 @@ And so, on the last afternoon in the record, they finally turn north.
 
 The position logs make the decision visible before anybody announces it. For eleven days the centre of all recorded movement sits within a few hundred tiles of the Irvington house, drifting west a little as they strip the country around it. Then, on the thirty-first, it jumps — more than three thousand tiles north and better than fifteen hundred west, to a patch of road at roughly (1566, 11291) where all three of them spend the day together.
 
-They had established a forward camp out there the day before — a house somewhere beyond Ekron, as near as the record allows anyone to place it, described at the time only as safe-ish and chosen for no better reason than that it was standing. From it the highway runs north in a dead-straight line — you can see it in the data as a column of recorded positions holding at x≈830 for four thousand tiles — and at the top of that line is Brandenburg.
+They had established a forward camp out there the day before — a house somewhere beyond Ekron, as near as the record allows anyone to place it, described at the time only as safe-ish and chosen for no better reason than that it was standing.
+
+And on the chart, further north still, past the top of every road any of them ever drove, somebody had already drawn a third house. Six hundred and thirty tiles beyond the northernmost position any of the three of them ever occupied, next to a building the army had used to hold people. Nobody had stood there. Nobody could have; there is no log that puts any of them within half a day's drive of it. They had picked the next place out of a map and marked the roof, and then gone back to clearing wrecks off the road that led to it. From it the highway runs north in a dead-straight line — you can see it in the data as a column of recorded positions holding at x≈830 for four thousand tiles — and at the top of that line is Brandenburg.
 
 They settle on Brandenburg because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
 
@@ -1039,7 +1125,7 @@ And the last thing in the record at all comes three hours later, from a man who 
 `Swettt I'm still gonna get lost`
 
 ---
-<!-- CH:20 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:21 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE LEDGER
 
 Three people who arranged their days around meeting every evening in Knox County to argue about where the sledgehammers were. Frank kept the relay running off a second machine and restarted it whenever asked, at any hour, apologizing when he overslept.
@@ -1114,7 +1200,7 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 *Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*
 
 ---
-<!-- CH:21 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
+<!-- CH:22 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
 ## APPENDIX A — THE TALE OF YEARS
 
 Two chronologies run through this document and only one of them is fiction.
@@ -1155,7 +1241,7 @@ Two chronologies run through this document and only one of them is fiction.
 At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
 
 ---
-<!-- CH:22 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
+<!-- CH:23 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
 ## APPENDIX B — THE LINE OF SENPAI
 
 Frank's men all answered to one name and he never distinguished them. Stacey was one woman throughout. Senpai kept a house.
@@ -1188,7 +1274,7 @@ The consequence is the strangest object in this whole account: on 20 August, Raf
 **Stacey Stevenson**, alone of the three, was never replaced. Two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen days — one woman throughout, and still alive at the last line of the record. The other two houses go through fourteen men between them. Hers is not a line. It is a person.
 
 ---
-<!-- CH:23 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:24 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
 The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down, which is that **its central word is inflected by who is saying it rather than by what they mean.**
@@ -1242,7 +1328,7 @@ Three fixed utterances exist for drawing the dead: `HEY!`, `HEY YOU!`, and `OVER
 The heaviest concentration in the record is not aimed at the dead at all. On the morning of 28 August, all three shouted thirty-five times in two minutes — a tenth of the archive's total — inside their own house, trying to make a corpse answer.
 
 ---
-<!-- CH:24 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:25 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX D — OF THE TWO HOLDINGS
 
 ### The first: Rosewood
@@ -1266,7 +1352,7 @@ At the close of the record the second holding is the safest structure any of the
 Established 30 August somewhere beyond Ekron — the record fixes the coordinates but never the name — four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
 
 ---
-<!-- CH:25 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
+<!-- CH:26 | Appendix E — The Last Broadcasts | 9-21 July | frank,senpai,stacey | reference -->
 ## APPENDIX E — THE LAST BROADCASTS
 
 Eighteen stations were transmitting into Knox County when the line was drawn. Four radio, twelve television, one amateur band, and one military frequency that only ever broadcast numbers.
@@ -1313,7 +1399,7 @@ The second is Hitz FM. The music station's last transmission was *Danny Boy*, pl
 The record ends in snow, on Christmas Eve, with three people planning to drive north.
 
 ---
-<!-- CH:26 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:27 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Two things are drawn here and neither of them was drawn by hand.
