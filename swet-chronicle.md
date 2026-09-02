@@ -289,11 +289,19 @@ He never took it out again. When Rafa died, it was still in there.
 <!-- CH:7 | The Convoy | Aug 19 | frank,senpai,stacey | irvington,driving,move -->
 ## VII. The Convoy
 
-By the nineteenth they had drunk Rosewood dry and it was time to go north.
+By the nineteenth they had drunk Rosewood dry and it was time to leave.
 
-Which is, though nobody in the convoy says so, the direction everyone went.
+The server's own position logs record where they went, and they went **west, and a little south** — roughly forty-seven hundred tiles west and twenty-seven hundred south, from the rolling country around Rosewood out toward Irvington on the far edge of the map. On the nineteenth of August the centre of all recorded activity sits at roughly (5217, 13700): not a place, but a road, halfway between the town they were leaving and the town they had not yet seen. It is the only day in eighteen where the group has no address.
 
-When the cordon broke, the military fell back north, and the infection went with them — out past the fence, into Louisville, and from Louisville into Cincinnati and Columbus and then, within a fortnight, into cities on the other side of the planet. The road these three are about to drive is the evacuation route. They are five weeks late for it, in four trucks and a hitch trailer, carrying a weight bench.
+And west is, though nobody in the convoy says so, the wrong way.
+
+When the cordon broke, everyone went *north*. The military fell back north and the infection went with them — out past the fence into Louisville, and from Louisville into Cincinnati and Columbus, and then, inside a fortnight, into cities on the other side of the planet. North was the evacuation. North is where the story of the Knox Event actually goes.
+
+These three drove the other way, deeper into the western half of a sealed county, toward the emptiest towns on the map, because the emptiest towns on the map had not been looted yet.
+
+It is not cowardice and it is not strategy. It is that Stacey had scouted Irvington and reported it had a lot of houses in it. They spend the next eleven days there and never once discuss the fact that the entire rest of the human race went the opposite direction.
+
+They will turn north eventually. It takes until the last afternoon in the record.
 
 There had already been one reminder that the world outside was still nominally interested in them. Days earlier a helicopter had come over — the news chopper, or a military one, the game never says — and it had followed them for several in-game hours, and every zombie within earshot had walked toward the noise. Stacey's report at the time was that every location she had painstakingly cleared was no longer clear. When senpai thought he heard rotors again the next day, her response was immediate and unhappy: *pls not again.* They had understood it to be a one-time event.
 
@@ -777,7 +785,13 @@ Irvington is cleared. The base has a second storey, a forge, a warehouse, plumbi
 
 Which is a problem, and Stacey — who saw it coming a week out — is the one who raises it. They had cleared the town. They had just finished decking out the base. And you cannot simply move and leave it behind.
 
-They settle on Brandenburg, to the north, because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
+And so, on the last afternoon in the record, they finally turn north.
+
+The position logs make the decision visible before anybody announces it. For eleven days the centre of all recorded movement sits within a few hundred tiles of the Irvington house, drifting west a little as they strip the country around it. Then, on the thirty-first, it jumps — more than three thousand tiles north and better than fifteen hundred west, to a patch of road at roughly (1566, 11291) where all three of them spend the day together.
+
+They had established a forward camp out there the day before: a house outside Ekron, safe-ish, chosen for no better reason than that it was standing. From it the highway runs north in a dead-straight line — you can see it in the data as a column of recorded positions holding at x≈830 for four thousand tiles — and at the top of that line is Brandenburg.
+
+They settle on Brandenburg because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
 
 It is called Sunderland Hills, and the developers have been open about what it is — a fictionalized Waverly Hills, the real tuberculosis hospital outside Louisville that has spent the last several decades being sold to tourists as the most haunted building in the eastern United States. The genuine article opened in 1910, grew to hold four hundred patients, and killed a great many of them, because in 1910 there was nothing much to be done for tuberculosis except put people somewhere with good air and wait.
 
@@ -907,3 +921,154 @@ Two more predate the record: **Dragoș**, who wandered into the best farm in Ros
 ---
 
 *Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*
+
+---
+<!-- CH:17 | Appendix A — The Tale of Years | canon + record | frank,senpai,stacey | reference -->
+## APPENDIX A — THE TALE OF YEARS
+
+Two chronologies run through this document and only one of them is fiction.
+
+### The world's reckoning — Knox County, 1993
+
+| | |
+|---|---|
+| **4 July** | The Knox Event begins. |
+| **6 July** | The military declares the Exclusion Zone and draws the cordon around Muldraugh, West Point, **Brandenburg**, and Fort Knox. |
+| **9 July** | Day One. The Life and Living channel begins its nine-day run of cookery and woodwork. |
+| **14–15 July** | The infected breach the perimeter fence. The sound of the fighting draws thousands more. Military units begin pulling back north. |
+| **17 July** | The infection is reported in Cincinnati and Columbus; then Newcastle, London, Seoul, Okinawa. The same day, Life and Living broadcasts for the last time. |
+| **18 July →** | The remaining transmissions degrade into static. The Automated Emergency Broadcast System continues issuing weather. |
+
+### The chronicle's reckoning — eighteen sessions
+
+| | |
+|---|---|
+| **Aug 14** | The record opens in Rosewood. Mateo's body is recovered from a bar north of the driving school in five minutes. |
+| **Aug 15** | Frank arrives at 10:26 and is dead by 10:40. Two more follow the same afternoon. The power fails. A helicopter passes over and every cleared building stops being cleared. |
+| **Aug 16** | Mateo falls from the roof, naked, having proven the dryer useless. Sleep is switched off at the server level. |
+| **Aug 17** | A Steam update introduces the Skill Journal. It is adopted within the hour and becomes the group's religion. Handrails are proposed. |
+| **Aug 18** | Frank dies in the Rosewood police station and warns the others about a naked corpse. |
+| **Aug 19** | **The move.** Four trucks and a trailer go west and a little south. For one day the group has no address. |
+| **Aug 20** | Irvington is occupied. The house has a basement nobody will find for five days. |
+| **Aug 21** | Frank is one-shotted by three of them in a trailer past the gas station, and returns as an agoraphobic engineer with explosives access. |
+| **Aug 22–24** | The forge chain. Clay, bellows, leather, seven in-game days of drying. The advanced forge is completed on the 24th. |
+| **Aug 25** | **Bomb time.** Frank holds the detonator and the bomb, survives the blast, and dies at a car door. |
+| **Aug 26** | The second bombing run. The explosion makes no sound and produces no light. |
+| **Aug 27** | Blacksmithing 8: the sledgehammer. Then Rafa hugs a wall that is not there, and Junji Morimoto dies alone in an empty house. |
+| **Aug 28** | Marco Bernal-Casillas exists for sixty seconds. Safehouse respawn is enabled, five days late. |
+| **Aug 29** | A microwave burns down part of the kitchen. The wall is rebuilt in brick and hidden behind crates within the hour. Blacksmithing is maxed. |
+| **Aug 30** | Snow at fifty degrees Fahrenheit, confirmed as a bug. |
+| **Aug 31** | **The turn north.** A forward camp beyond Ekron. Senpai is bitten at the community college, drives home, files his gear, and dies on schedule in a field. In the game it is Christmas Eve. |
+
+At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine in-game days. The cordon has been broken for a hundred and sixty-two of them.
+
+---
+<!-- CH:18 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
+## APPENDIX B — THE LINE OF SENPAI
+
+Frank went through six characters and named none of them. Stacey had one and never lost it. Senpai kept a house.
+
+Each of the following inherited the last one's skills out of a notebook, and each of them, on taking the field, was several days of carpentry better than the man he was replacing. This is the only form of descent available in Knox County.
+
+| | Name | Ended | Held | Fell to |
+|---|---|---|---|---|
+| I | **Dragoș** | before the record | — | Unrecorded. Died at a farmhouse on the edge of Rosewood without noticing it was the best land in the county. His corpse was put down by Stacey on 15 August. |
+| II | **Mateo** | before the record | — | A bar north of the driving school. Recovered in five minutes. His ID card was carried by his successor for the rest of that successor's life. |
+| — | *Cătălin* | disputed | — | Named once, in an AI-written recap posted to the group on 15 August, as the reigning carpenter. Never mentioned by a human. May be the man who fell on the 16th; may never have existed. |
+| III | **the roofer** | 16 Aug | 270 hrs | A one-tile miss on a staircase, carrying lumber, wearing nothing, three minutes after concluding that tumble dryers are useless. Called Mateo by everyone including himself. |
+| IV | **Rafa** | 27 Aug | **885 hrs** | The longest reign. Wrote in his journal before entering vehicles on the grounds that a deer might have his number. Died hugging a wall that had not been built yet, with nine planks on his back. |
+| V | **Junji Morimoto** | 27 Aug | 58 hrs | Named at 1:54 p.m. with the words *gonna finish that roof*. Did not finish the roof. Killed by his player standing up from a chair. Body never located. |
+| VI | **Marco Bernal-Casillas** | 28 Aug | **0 hrs** | A DIY expert, chosen deliberately to push masonry and max maintenance. Spawned into a room containing ten of them in a town abandoned nine days earlier. Reigned for sixty seconds. |
+| VII | **the last one** | 31 Aug | 369 hrs | Bitten at the community college reaching for a library. Drove home, emptied his pockets into the lockers, wrote in the journal, drove back out, and did burpees until he stopped. |
+
+Seven men, or six, or eight. The record does not agree with itself, and the reason it does not agree with itself is that the group outsourced its own obituaries to a chatbot in the second week and never went back to check.
+
+**The other houses.** Frank's six were unnamed and interchangeable, which is its own kind of statement: he treated a character as a loadout rather than a person, rerolled without ceremony, and referred to each new one purely by what it could now do. Stacey's single character ran two thousand seven hundred and thirteen consecutive hours — a hundred and thirteen in-game days — and is still alive at the last line of the record.
+
+---
+<!-- CH:19 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
+
+The three survivors share a language which is not English and is not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature genuinely rare among human languages: **it inflects for speaker identity rather than for meaning.**
+
+### The root
+
+**swet** — good; yes; understood; thank you; acknowledged; received; I have your message. It accounts for 633 of the 18,930 words spoken in-game, or roughly one word in thirty.
+
+Its form is fixed per person and does not vary with mood, urgency, or content:
+
+| Speaker | Form | Note |
+|---|---|---|
+| stacey | `swet` | One T. Invariant. |
+| senpai | `swett` | Two T's. |
+| frank | `swettt` | Three T's. Frank has never in his life been merely satisfied. |
+
+Because the inflection is personal rather than semantic, **any line in the archive can be attributed by counting the T's**, without reference to the username attached to it. This is more reliable than the usernames, which are occasionally wrong.
+
+The system strains exactly three times in eighteen days, all under greeting-pressure — a four-T form appears twice from Frank and once from senpai, in each case during a pile-up of simultaneous logins. There are no recorded five-T forms.
+
+### Selected vocabulary
+
+| | |
+|---|---|
+| **wowee** | Greeting on arrival. Used 44 times, exclusively by stacey. No other speaker uses it once. |
+| **ysosrs** | *why so serious* — uttered when the game has done something unreasonable. Inflects for cause: **ysofog**, **ysorain**, and the compound **ysoscry**. |
+| **pwn** | Excellent; well done. |
+| **pwnt** | You have been defeated by circumstance. Extended for emphasis: *pwnttt*. |
+| **ja / nay** | Yes / no. |
+| **sl** | Sleep. Also a verb of coordination: *i sl* is a request that everyone else also sleep. |
+| **z** | The dead. Never elaborated. |
+| **scry / 2scry** | Frightening / too frightening. |
+| **cmon**, **come ON** | Uttered when the county has failed to provide cigarettes. |
+| **poop** | Mild dismay. Used sincerely, by adults. |
+| **framk** | Frank. A typo of stacey's from the first week which achieved permanence and was ultimately adopted by Frank himself. |
+
+### The shout-forms
+
+Three fixed utterances exist for drawing the dead: `HEY!`, `HEY YOU!`, and `OVER HERE!`. They are logged 408 times.
+
+| Speaker | Shouts | |
+|---|---|---|
+| stacey | 229 | 56% of all shouting |
+| senpai | 117 | |
+| frank | 62 | |
+
+The heaviest concentration in the record is not aimed at the dead at all. On the morning of 28 August, all three shouted thirty-five times in two minutes — a tenth of the archive's total — inside their own house, trying to make a corpse answer.
+
+---
+<!-- CH:20 | Appendix D — Of the Two Holdings | Aug 14-31 | frank,senpai,stacey | reference -->
+## APPENDIX D — OF THE TWO HOLDINGS
+
+### The first: Rosewood
+
+A house with a garage, a television, and a generator wired by hand. Held from before the record until 19 August. Its notable features were a medical bag in the kitchen, painkillers in one nightstand and sleeping pills in another, four fire axes in the bedroom closets, and a roof that killed a man.
+
+It was stripped in stages over five days and left with the vehicles they didn't need still parked in the lot. Nobody returned to it deliberately. Two characters would later be spawned back into that country by the game against their wishes — one of them for sixty seconds.
+
+### The second: Irvington
+
+Taken on 19 August, on the outskirts, for its garage and its loading bay. The floor plan was an ongoing personal insult to the carpenter: there was no route to the washing machine that did not go out the front door.
+
+Over twelve days it acquired, in rough order: storage crates in the living room; a rainwater system feeding four barrels into a plumbed industrial sink; a generator; a wood stove holding the interior near seventy-five degrees; a kiln, a pottery wheel, a hand press, a loom, a spinning wheel, a butter churn built accidentally underneath the loom, a tanning barrel, a drying rack, and an advanced forge; a butcher's hook and bone crates behind the garage; a full second storey with stairs, fencing and interior doorways; floodlights and antique lamps looted from City Hall; lockers; and a mini fridge covering a scorch mark.
+
+It also had a basement, which one of the three did not discover until the twenty-fifth.
+
+At the close of the record the second holding is the safest structure any of them have ever built and they are actively planning to leave it for a tuberculosis hospital.
+
+### The third: the forward camp
+
+Established 30 August beyond Ekron, four thousand tiles north of Irvington, in a house selected on the grounds that it was standing and appeared to be safe-ish. It has no name in the record. It is where all three of them spent the last full day, and it is the only place in the archive that was never intended to be kept.
+
+---
+<!-- CH:21 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+## THE MAP OF KNOX COUNTY
+
+Nobody drew this. It is assembled from 1,296 recorded positions — every time any of the three entered or left a vehicle over eighteen days, logged automatically by the server with coordinates attached, and joined in order.
+
+The dense scribble at the right is Rosewood, five days of it. The long diagonal is the nineteenth of August, the only day the group had no address. The mass on the left is Irvington and eleven days of stripping the country around it. The thin line running north at the top left is the thirty-first: the last afternoon, the turn toward Brandenburg, drawn at speed by three people who had finally run out of smaller places to be careful in.
+
+The crosses are where people stopped.
+
+<!--MAP-->
+
+Marked deaths, by numeral: **I–III** Frank's first afternoon, three characters in four hours. **IV** the roofer. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the last one, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.

@@ -23,8 +23,17 @@ Or read [`swet-chronicle.md`](swet-chronicle.md) here on GitHub.
 | Longest single life | **2,713 hrs** | 885 hrs | 719 hrs |
 | Maxed skills | Cooking, Foraging, Butchering, Blacksmithing | Carpentry | Tailoring, Carving |
 
-Fifteen chapters and a ledger, assembled from nineteen days of dedicated-server
-logs and the group's own chat. Every quoted line in the text is verbatim.
+Fifteen chapters, four appendices and a map, assembled from nineteen days of
+dedicated-server logs and the group's own chat. Every quoted line is verbatim.
+
+The appendices are Tolkien's apparatus applied to a video game: a Tale of Years
+running the canonical Knox Event chronology beside the group's own; the line of
+succession by which one player's seven characters each inherited the last one's
+skills out of a notebook; a note on the dialect, which inflects for *speaker
+identity* rather than meaning; and a description of the two holdings.
+
+The map is not drawn. It is 1,296 logged vehicle positions joined in order —
+every death marked where the server recorded it.
 
 The reader filters by survivor and by thread — deaths, roofs, bombs, building,
 the journal, driving — and pages through whatever the filter leaves. Deaths are
