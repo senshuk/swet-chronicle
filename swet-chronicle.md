@@ -707,7 +707,7 @@ A county like this keeps track of people by how they end. It has an hour and a c
 
 So it has to be assembled out of what she did instead.
 
-She goes and gets them. All of them. She put an axe through Dragoș in a field outside Rosewood on the fifteenth and mentioned it afterward as a note about the local property. She recovered Frank from the trailer on the twenty-first and from the crater on the twenty-fifth. When senpai was bitten at the community college on the last afternoon and announced the coordinates where he intended to die, the reason those coordinates were useful — the entire reason a dying man bothered to give them — is that everyone understood Stacey would be along in the morning to collect what was left.
+She goes and gets them. All of them. She put an axe through Dragoș in a field outside Rosewood on the fifteenth and mentioned it afterward as a note about the local property. She recovered Frank from the trailer on the twenty-first and from the field full of them on the twenty-fifth. When senpai was bitten at the community college on the last afternoon and announced the coordinates where he intended to die, the reason those coordinates were useful — the entire reason a dying man bothered to give them — is that everyone understood Stacey would be along in the morning to collect what was left.
 
 Nobody ever discusses this. There is no moment in eighteen days where anyone says *thank you for doing the bodies*. It is simply understood, the way it is understood that she knows where the painkillers are.
 
@@ -778,23 +778,31 @@ Then two minutes of nothing. Then:
 
 `rofl`
 
-Seven hundred and nineteen hours. His longest life by half again. Gone in a field outside Irvington, surrounded by the dead his friend had driven to him at his own request.
+Gone in a field outside Irvington, surrounded by the dead his friend had driven to him at his own request.
 
 He worked out what had happened eight minutes later, and typed it, and it is the single greatest sentence in eighteen days of logs.
 
 `i put the trigger in my hand, you're supposed to right click it`
 
-He held it. He held the detonator *and the bomb*, because they were the same object, because he had never done this before.
+The bomb and the trigger are two separate objects, and he had them both, and he had them the wrong way round.
 
-Stacey drove past the crater a few minutes later and reported that his truck was absolutely surrounded — dozens of them — and Frank, dead, told her to leave it, he'd lure them off and sneak back in later.
+His reasoning was sound and it came from the only comparable thing he had ever done. A molotov works by holding the bottle in one hand and a lighter in the other. So he stood in the field holding the pipe bomb in one hand and the remote trigger in the other, waiting for the crowd his friend was driving toward him, and expected it to work the way the other one does.
 
-But here is the part that only surfaces that evening, and it recontextualizes the whole thing. He had made a run for the truck afterward, with about ten of them closing in, and he'd lasted longer than he expected to.
+It does not. You arm the bomb from your bag and set it down, and then you trigger the detonator from your bag as well. Both are things you right-click. Neither is a thing you hold.
+
+He worked that out standing in an open field with the dead arriving faster than anybody had predicted.
+
+`hm not working`
+
+`rofl`
+
+There was no explosion. Nothing went off at all. He put the plan together, gathered the crowd, held the two halves of it in his two hands, and then — at the exact moment the mechanism turned out to be different from the mechanism he knew — ran out of field.
 
 `Lolol i tried getting into the car, but I missed`
 
-The bomb didn't kill him.
+He made it back to the truck with about ten of them on him and missed the door. Stacey, who has clearly been there, said she hated that — feeling like you should be getting into the car and being a pixel off the angle. She reported a few minutes later that the truck was absolutely surrounded, dozens of them, and Frank, dead, told her to leave it; he would lure them off and sneak back in later.
 
-He detonated a pipe bomb in his own hand, **survived it**, ran for the door and died because he clicked one pixel wide of it. Stacey, who has clearly been there, said she hated that — feeling like you should be getting into the car and being a pixel off the angle.
+Seven hundred and nineteen hours, the longest life he ever held, ended by a misunderstanding about which mouse button.
 
 ---
 
@@ -912,7 +920,7 @@ He finishes the record as the best fighter in the county. Axe five, the highest 
 
 He does not appear to notice this happening. There is no moment where he takes stock. He asked once, on the first night, was told to push, stomp, back up and not fight while tired, said thank you, sent a picture of a man swinging anyway, and then simply did it for seventeen days until he was good at it.
 
-Six deaths: a scratch behind a Gigamart, a bite, a bedroom with an unknown number of them in it, three in a trailer, his own bomb in his own hand, and a car door he missed by one pixel. He laid every single one of them at the door of the machinery he was responsible for, and in eighteen days he never once suggested that anybody else should have to hold it.
+Six deaths: a scratch behind a Gigamart, a bite, a bedroom with an unknown number of them in it, three in a trailer, a bomb he never managed to set off, and a car door he missed by one pixel. He laid every single one of them at the door of the machinery he was responsible for, and in eighteen days he never once suggested that anybody else should have to hold it.
 
 Twice the world stayed shut because Frank was asleep. Both times it opened again within minutes, apology first.
 
@@ -1123,6 +1131,8 @@ And then the house itself weighed in. Frank had spent the morning setting up the
 So there was something in there with them. In the building they had gutted, extended, roofed, wired, plumbed and put a second storey on. Somewhere in it, in a room none of the three of them could name, was a person, and the paperwork would not clear until they produced him.
 
 Three men, in a house they had built with their own hands, spent the next several minutes shouting into it — `HEY!`, `OVER HERE!`, `HEY YOU!` — thirty-five times in two minutes, nearly a tenth of every shout in the entire eighteen-day archive, trying to bait a corpse into revealing itself.
+
+<!--RECON6-->
 
 `well, wheres the dang body!?`
 
@@ -1376,7 +1386,7 @@ The last thing that happens in the record is Stacey giving driving directions, a
 
 `def will hit at least 3 of the trees`
 
-And the last thing in the record at all comes three hours later, from a man who has died six times, blown himself up, lost his glasses, lost his keyring, lost his journal three separate times, crashed five cars in one night, and laid every one of his own deaths at the door of the machinery he was responsible for:
+And the last thing in the record at all comes three hours later, from a man who has died six times, gathered a crowd around a bomb he could not arm, lost his glasses, lost his keyring, lost his journal three separate times, crashed five cars in one night, and laid every one of his own deaths at the door of the machinery he was responsible for:
 
 `Swettt I'm still gonna get lost`
 
@@ -1417,7 +1427,7 @@ Stacey is not living in the same county as these men.
 | 4 | Aug 16, 15:18 | senpai (**Mateo Zúñiga**, the second) | 270 hrs | Fell off a roof, naked, missed the stairs by one tile |
 | 5 | Aug 18, 06:17 | frank | 167 hrs | Police station. Pushed a standing one, hit a fallen one |
 | 6 | Aug 21, 10:26 | frank | 490 hrs | Three of them in a trailer. One-shotted |
-| 7 | Aug 25, 12:41 | frank | 719 hrs | **Held his own pipe bomb.** Survived it. Then missed the car door |
+| 7 | Aug 25, 12:41 | frank | 719 hrs | Held the bomb and the trigger, one in each hand. Neither is a thing you hold. Missed the car door |
 | 8 | Aug 27, 13:48 | senpai (**Rafael Morales**) | 885 hrs | Hugged a wall that wasn't there. Nine planks on his back |
 | 9 | Aug 27, 18:25 | senpai (**Junji Morimoto**) | 58 hrs | Alt-tabbed. Body never recovered |
 | 10 | Aug 28, 06:51 | senpai (**Marco Bernal-Casillas**) | 0 hrs | Sixty seconds. `nvm` |
@@ -1488,7 +1498,7 @@ Two chronologies run through this document and only one of them is fiction.
 | **Aug 20** | Irvington is occupied. The house has a basement nobody will find for five days. |
 | **Aug 21** | Frank is one-shotted by three of them in a trailer past the gas station, and returns as an agoraphobic engineer with explosives access. |
 | **Aug 22–24** | The forge chain. Clay, bellows, leather, seven days of drying. The advanced forge is completed on the 24th. |
-| **Aug 25** | **Bomb time.** Frank holds the detonator and the bomb, survives the blast, and dies at a car door. |
+| **Aug 25** | **Bomb time.** Frank gathers a crowd around a pipe bomb he is holding rather than arming. Nothing detonates. He dies at a car door. |
 | **Aug 26** | The second bombing run. The explosion makes no sound and produces no light. |
 | **Aug 27** | The sledgehammer, at last. Then Rafa hugs a wall that is not there, and Junji Morimoto dies alone in an empty house. |
 | **Aug 28** | The first Marco Bernal-Casillas exists for sixty seconds. The dead begin waking at the safehouse, five days later than they might have. |
