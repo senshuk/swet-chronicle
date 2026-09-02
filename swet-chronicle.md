@@ -225,6 +225,8 @@ Consider the setup. There is no power in Knox County and has not been for a day.
 
 And then, rather than stand in an empty room watching a dial turn, he went up a ladder onto the roof and carried on working, because the experiment would run whether he watched it or not and there was no sense wasting the daylight.
 
+<!--RECON2-->
+
 So: a naked man on a roof in a dead county, hammering, while below him a machine nobody built for this dries his only clothes on borrowed power, and his friend watches him bump into the rainwater barrel and decides not to ask a second time.
 
 Three minutes later the finding came in. The dryer, he announced, was completely useless.
