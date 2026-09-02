@@ -383,6 +383,10 @@ Stacey hit a fence, needed a new windshield, and — separately — swung an axe
 
 They reached Irvington in the late afternoon with everything they owned, and Irvington turned out to be enormous. Stacey had expected farmland. What she got was a city.
 
+It was also, though none of them ever remarks on it, the town that printed the county's newspaper. The *Knox Knews* came off a press in Irvington every day for nine hundred and ten issues and then stopped, on the sixth of July, with a front page about an unidentified illness around Muldraugh. The day before that its lead had been the best Independence Day the county had ever had.
+
+They are going to spend eleven days here, and strip the place to the walls, and none of them will ever mention a newspaper.
+
 They took a house on the outskirts with a garage and a loading bay and a floor plan that offended senpai personally — there was no route to the washing machine that didn't go out the front door, which Frank attributed to regional architecture. It also had a basement, which Frank would not discover for five days.
 
 `we have a basemen?`
@@ -1611,7 +1615,48 @@ The second is Hitz FM. The music station's last transmission was *Danny Boy*, pl
 The record ends in snow, on Christmas Eve, with three people planning to drive north.
 
 ---
-<!-- CH:29 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
+<!-- CH:29 | Appendix F — The Last Editions | 1-16 July | frank,senpai,stacey | reference -->
+## APPENDIX F — THE LAST EDITIONS
+
+Knox County had a newspaper. It was called the *Knox Knews*, it came out daily, and it was **printed in Irvington** — which is to say it was printed in the town these three would move into eleven weeks later, and build a forge in, and clear house by house.
+
+It ran for nine hundred and ten issues. Here is how it ended.
+
+| | |
+|---|---|
+| **Thu 1 July** — No. 905 | Federal funds for the Brandenburg rebuild are "on the way," says the Governor. An F2 tornado took the northeast of that town in April, killed three, and left hundreds in hotels and trailer parks. Page 3: a local teacher wins a national award. |
+| **Fri 2 July** — No. 906 | Telephone and internet out across the county for hours. Knox Telecommunications apologises; its engineers are working around the clock. |
+| **Sat 3 July** — No. 907 | The FBI winds down Operation Centaur, which convicted more than a dozen Kentucky legislators of taking bribes **related to toxic waste dumping**. Page 5: the Ohio River is more polluted than ever. |
+| **Sun 4 July** — No. 908 | A military truck carrying undisclosed hazardous waste overturns north of March Ridge. Officials do not deny it was overloaded. Col. Niall O'Malley: the materials "would pose little danger even if they came into contact with the public, which they did not." |
+| **Mon 5 July** — No. 909 | **EXCLUSIVE: Knox has best Independence Day ever!** Twenty decorated floats. Thousands at barbecues. See page 6 for "Unusual illness" affecting residents in Muldraugh. |
+| **Tue 6 July** — No. 910 | *Mystery illness strikes locals, overwhelms authorities.* Severe fevers and vomiting around Muldraugh. Not believed to spread person to person. A local doctor, out of rabies immunoglobin, theorises a rabies outbreak. The military opens its hospital at Fort Knox to the public. |
+
+There is no issue 911.
+
+---
+
+The bigger papers kept going a fortnight longer, and they are worth setting alongside each other, because the two Louisville publications spend that fortnight describing different worlds.
+
+| Date | **The Kentucky Herald** (Louisville) | **Louisville Sun-Times** |
+|---|---|---|
+| **6 July** | *Illness Outbreak in Muldraugh* — printed below a review of an Irish painter's gallery opening. | |
+| **13 July** | *"Knox Event Contained" — Officials.* The Mayor of Louisville declines a curfew: "Let those coastal elites panic. Louisvillians are made of stronger stuff." | **ALIVE OR DEAD?** *"Knox Virus" creates WALKING CORPSES.* Exclusion Zone widened. Nationwide curfew as riots continue. |
+| **14 July** | *"No Need for Panic" — Gen. McGrew.* The Vatican and Mecca close their doors to pilgrims. | **PRESIDENT LEAVES WASHINGTON — "YOU'RE ON YOUR OWN!"** |
+| **15 July** | | Infected break the border south of Louisville at five in the morning. Heavy live fire fails to stop them. |
+| **16 July** | | **LOUISVILLE OVERRUN — PRAY FOR US.** *Military DEFEATED by Knox Virus. Virus spreading WITHOUT bites. Barricade your house and load your GUNS, before it's too late.* |
+
+The national paper, filing from New York, watched the same fortnight and reached for history. A CDC official told it the emergence of airborne transmission represented "a greater threat to humanity than the Spanish Flu or the Black Death." The World Health Organization had by then advised grounding every flight on earth, and conceded that the advice "almost certainly came too late to make a difference."
+
+---
+
+Two things in that sequence are worth carrying into the rest of this account.
+
+The first is that the county's paper spent the week before the end running the plague as a page-six item under a front page about a parade. *Knox has best Independence Day ever* is the last thing the *Knox Knews* ever shouted about. The illness that would take the state got a see-also.
+
+The second is the toxic waste. Three separate issues in six days — the corruption trial, the river, the overturned truck — circle poorly stored chemicals and ammunition in the Knox area, and the paper never joins them up, because there is nothing yet to join them to. By the time anybody outside the cordon is asking what happened, the *Knox Knews* has been out of print for a week and the presses are in a town that will be empty for two months before three people arrive to strip it for shelving.
+
+---
+<!-- CH:30 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## THE MAP OF KNOX COUNTY
 
 Two things are drawn here and neither of them was drawn by hand.
