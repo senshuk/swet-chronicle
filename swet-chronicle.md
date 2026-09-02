@@ -1649,11 +1649,21 @@ The national paper, filing from New York, watched the same fortnight and reached
 
 ---
 
-Two things in that sequence are worth carrying into the rest of this account.
+Three things in that sequence are worth carrying into the rest of this account.
 
 The first is that the county's paper spent the week before the end running the plague as a page-six item under a front page about a parade. *Knox has best Independence Day ever* is the last thing the *Knox Knews* ever shouted about. The illness that would take the state got a see-also.
 
-The second is the toxic waste. Three separate issues in six days — the corruption trial, the river, the overturned truck — circle poorly stored chemicals and ammunition in the Knox area, and the paper never joins them up, because there is nothing yet to join them to. By the time anybody outside the cordon is asking what happened, the *Knox Knews* has been out of print for a week and the presses are in a town that will be empty for two months before three people arrive to strip it for shelving.
+The second is the telephones, and it is the one that will not sit still.
+
+On **2 July** the *Knox Knews* reports widespread outages. Knox Telecommunications apologises for an *hours-long* failure and says its engineers are working around the clock. On **5 July** the outage is a front-page teaser — *"No end in sight" for Knox phone outages* — running beside the parade. On **6 July**, the paper's last day, it is still down, and the language has changed. It is no longer an outage. It is now, in the phone company's own words, an **"unscheduled maintenance period"**, and it has lasted almost a week.
+
+A five-day failure of the county's telephone network becomes maintenance somewhere between Friday and Tuesday.
+
+Both papers note the consequence without drawing the obvious line. The medical response to Muldraugh is hampered because nobody can telephone anybody; people are reduced to reaching the police and the hospitals by short-range radio. The county loses the ability to call for help four days before it needs to, and the failure is never explained, never fixed, and reclassified once.
+
+The record does not say the lines were cut. The record says the phone company stopped calling it a fault.
+
+The third is the toxic waste. Three separate issues in six days — the corruption trial, the river, the overturned truck — circle poorly stored chemicals and ammunition in the Knox area, and the paper never joins them up, because there is nothing yet to join them to. By the time anybody outside the cordon is asking what happened, the *Knox Knews* has been out of print for a week and the presses are in a town that will be empty for two months before three people arrive to strip it for shelving.
 
 ---
 <!-- CH:30 | The Map of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
