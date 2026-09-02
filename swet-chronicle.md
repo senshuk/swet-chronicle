@@ -1306,6 +1306,8 @@ Stacey is wearing a Santa jacket she has objections to. It is better than leathe
 
 Irvington is cleared. The base has a second storey, a forge, a warehouse, plumbing, floodlights, antique lamps from City Hall, lockers, and a mini fridge covering a burn mark. There is nothing left to be afraid of within a day's drive.
 
+<!--RECON9-->
+
 Which is a problem, and Stacey — who saw it coming a week out — is the one who raises it. They had cleared the town. They had just finished decking out the base. And you cannot simply move and leave it behind.
 
 And so, on the last afternoon in the record, they finally turn north.
@@ -1383,6 +1385,8 @@ They are not going to use the tunnel. Nobody in this record has ever moved a bod
 Thirteen people died in eighteen days and not one of them went down the chute.
 
 ---
+
+<!--RECON8-->
 
 The last thing that happens in the record is Stacey giving driving directions, at length, to two men she knows perfectly well will not follow them. The road is clear, she says, up until the city sign — after that she doesn't know. Go slow. The highway splits into two lanes with trees down the middle, and there are dead groups on the tarmac that might flip a car.
 
