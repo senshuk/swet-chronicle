@@ -273,7 +273,7 @@ Ten days later — after the move, after the forge, after the bombs, after every
 
 ---
 
-There is one more thing from that week worth setting down, because it explains a great deal about how these three approach a problem.
+There is one more thing from that week.
 
 All three of them had been built on purpose, each trading away something they could afford to lose for something they wanted more. Frank traded for quick reading and good eyes in the dark, and both of them cost him. Stacey traded in the opposite direction entirely.
 
@@ -303,7 +303,7 @@ He investigated the way he investigates everything, thoroughly and out loud, and
 
 Mechanically it is a save file with a leather cover. It exists so that when you die you do not lose two weeks of grinding. There is nothing sentimental in it whatsoever. It is a spreadsheet you carry in a bag.
 
-It is also, if you hold it at the right angle, the only argument anyone in Knox County ever makes against the black screen at the start.
+It is also the only argument anyone in Knox County ever makes against the black screen at the start.
 
 *There was no hope of survival.* Fine — granted, stipulated, the sentence is not lying. But the journal is a bet that survival is not the only thing that can carry forward. What the book preserves is not the man. It is what the man learned: the recipes, the reading, the number of them he put down. He dies on schedule, exactly as promised. His carpentry does not.
 
@@ -413,7 +413,7 @@ It would kill him twice.
 
 They moved into the Irvington house on the nineteenth of August and they were still in it on the thirty-first. What sits between those two dates is not really a sequence of days. It is a set of habits — how they fought, what they made, who did which work, what they said to each other while doing it — and the habits are what the next several chapters are for. The dates go quiet here. They start again on the twenty-seventh of August, on a roof.
 
-You can read all three of them out of what they each became good at, which should not work, and does.
+You can read all three of them out of what they each became good at.
 
 ### Stacey
 
@@ -627,7 +627,7 @@ Ten days earlier a machine had come over the treeline with a person inside it, a
 
 `do we have any branches twigs we don't need?`
 
-Never. Not in eighteen days, not in six thousand messages, not once when the radio was still running and not once after it stopped. There is no speculation about other survivors, no plan to look for any, no hope of finding any, and — worth noting, since this is the part every other account of a collapse is built on — no fear of any either. Nobody ever suggests that another living person might be dangerous, because the possibility of another living person does not come up.
+Never. Not in eighteen days, not in six thousand messages, not once when the radio was still running and not once after it stopped. There is no speculation about other survivors, no plan to look for any, no hope of finding any, and no fear of any either. Every other account of a collapse is built on that fear. Nobody ever suggests that another living person might be dangerous, because the possibility of another living person does not come up.
 
 ---
 
@@ -645,7 +645,7 @@ None of this appears to trouble anybody. There is no scene in which one of them 
 
 And it would be easy to read that as callousness, except that it is very obviously not. These are the same three people who drive across a county to collect each other's bodies, who file their gear for the next man, who keep a spare pair of glasses in a trailer for a friend who keeps losing his. The care is total and it is also strictly bounded. It extends to two other people and stops.
 
-Which is worth stating plainly, because it is not a lapse and nobody hid it. Eighteen days into the end of the world, the group has not extended its circle by one person. It has not looked for anyone. It has not wondered. It has three names on it, and the rest of Kentucky is weather, material, and traffic.
+It is not a lapse and nobody hid it. Eighteen days into the end of the world, the group has not extended its circle by one person. It has not looked for anyone. It has not wondered. It has three names on it, and the rest of Kentucky is weather, material, and traffic.
 
 The last afternoon in the record has them planning to move into a building at the top of the county where four hundred people once died of tuberculosis. They are going because Stacey read a flier and thinks it would make a tremendous base.
 
@@ -667,7 +667,7 @@ He described it that afternoon with no drama at all: instant death, more or less
 
 It was. The religion works. Four hundred and ninety hours of carpentry and mechanics and reloading survived him in a notebook in a truck.
 
-But there is a detail in the first two minutes of Frank's death worth putting on the record, because it is the most Frank thing in the entire archive. He is a corpse on the floor of a trailer. Stacey is driving into a horde to recover his belongings. And what he raises, three minutes in, is this:
+There is a detail in the first two minutes of Frank's death. He is a corpse on the floor of a trailer. Stacey is driving into a horde to recover his belongings. And what he raises, three minutes in, is this:
 
 `i left truck on, if you can turn off pls`
 
@@ -1000,7 +1000,7 @@ She ends it as an arms manufacturer with a production line, a rainwater system f
 
 Nothing goes wrong on the twenty-sixth of August, which makes it the only chapter in this account that has to be assembled out of a good day.
 
-The weather is the first thing worth saying about it, because by this point in the record the weather has stopped being scenery and become stock. Rain is not something that happens to these people. Rain is clay, which is a kiln; rain is a barrel filling, which is a plumbed sink and a washing machine that works; rain is a better yield on everything foraged out of the verges. They had five straight days of it in the third week and Stacey complained the entire time, and when it stopped she was furious.
+By this point in the record the weather has stopped being scenery and become stock. Rain is not something that happens to these people. Rain is clay, which is a kiln; rain is a barrel filling, which is a plumbed sink and a washing machine that works; rain is a better yield on everything foraged out of the verges. They had five straight days of it in the third week and Stacey complained the entire time, and when it stopped she was furious.
 
 `shouldve taken advantage of the last 5 DAYS!`
 
@@ -1308,7 +1308,7 @@ Stacey, offering hospice care.
 
 He is collected in the morning, as arranged.
 
-The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and snow still falling at fifty degrees Fahrenheit, which nobody can explain.
+The record runs on for one more evening after that, and by the county's calendar it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and snow still falling at fifty degrees Fahrenheit.
 
 There is a new man in the house by then. He woke up inside it rather than somewhere out in the county — luck, not arrangement — and he was audibly relieved about it at the time. He found the lockers already stocked — the machete, the guns, the county maps, the books somebody had gone back up a staircase for and been bitten getting. He found the journal too — every hour Marco Bernal-Casillas ever put into carpentry, written down by a man who knew he had two days left and spent part of them on the paperwork. That is how somebody who has never in his life driven a nail knows how to frame a wall.
 
@@ -1463,21 +1463,21 @@ Two more predate the record: **Dragoș Muresan**, who wandered into the best far
 
 **The gnome.** August 24. Senpai, back from a supply run, announced that he had brought home the most important thing in the county. Frank asked what it was. It was a gnome.
 
-**LARRY'S RAP DEMO (PRACTICE).** A VHS from the Rosewood base. Stacey believed it rare. What it taught, if anything, was never established. Transported to Irvington anyway and mentioned again a week later, in capitals, unprompted.
+**LARRY'S RAP DEMO (PRACTICE).** A VHS from the Rosewood base. Stacey believed it rare. Transported to Irvington and mentioned again a week later, in capitals, unprompted.
 
 **The sexy keyring (pink).** Found August 26 by senpai, who called it the best item he'd seen. Left on the kitchen shelf in the corner. Stacey was on her way before he finished typing.
 
 **Cherry Love.** A zombie killed near the community college on August 31. Senpai fled without her ID and drove back thirty-eight minutes later specifically to get it.
 
-**Mateo's ID card.** Taken off the second man of that name and carried by Rafael Morales for seven hundred and ten hours — the rest of his life, to the hour. Still in his pocket when he hit the ground.
+**Mateo's ID card.** Taken off the second man of that name and carried by Rafael Morales for the seven hundred and ten hours he had left. Still in his pocket when he hit the ground.
 
-**180 fresh eggs.** Found at the tree line they had been logging beside for a week. Eggs and mushrooms together teach a cook more than anything else in the county; Frank learned more from one batch than from a week of stew, and concluded that his mother must be the finest cook alive.
+**180 fresh eggs.** Found at the tree line they had been logging beside for a week. Frank learned more from one batch than from a week of stew, and concluded that his mother must be the finest cook alive.
 
 **Frank's glasses.** Lost at a jerky factory. Stacey handed him a spare pair, at which point he discovered they were the wrong prescription and he was still blind. She began stockpiling glasses in the hitch trailer as standing policy.
 
 **Frank's keyring.** Lost August 25, mourned for four days, found by Stacey in the yard on the 29th with no keys on it.
 
-**Thirty-seven blunt scissors.** Part of Stacey's stockpile of dull objects, maintained specifically so the others could learn the care of an edge by sharpening them.
+**Thirty-seven blunt scissors.** From Stacey's stockpile of dull objects, kept so the others could learn the care of an edge by sharpening them.
 
 **Handrails.** Suggested August 17. Never built. Second roof death, August 27.
 
@@ -1567,7 +1567,7 @@ The consequence is the strangest object in this whole account. Rafael Morales ha
 <!-- CH:26 | Appendix C — On the Speech of Knox County | Aug 14-31 | frank,senpai,stacey | reference -->
 ## APPENDIX C — ON THE SPEECH OF KNOX COUNTY
 
-The three survivors share a language that is not English and not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and it has one feature worth setting down: **its central word is inflected by who is saying it rather than by what they mean.**
+The three survivors share a language that is not English and not quite shorthand. It has a vocabulary of perhaps forty words doing the work of several hundred, and one feature of it matters: **its central word is inflected by who is saying it rather than by what they mean.**
 
 ### The root
 
