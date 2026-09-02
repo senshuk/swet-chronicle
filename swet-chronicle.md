@@ -1268,6 +1268,8 @@ There is a new man in the house by then. He woke up inside it rather than somewh
 
 His name is Teodor Dragomir. He is the eighth, and he is the only one of the eight the record gives no ending.
 
+<!--PORTFIG-->
+
 Stacey is wearing a Santa jacket she has objections to. It is better than leather for the cold, which she concedes, but it is green.
 
 `what kind of santa wear GREEN?`
@@ -1355,6 +1357,8 @@ And the last thing in the record at all comes three hours later, from a man who 
 Three people who arranged their days around meeting every evening in Knox County to argue about where the sledgehammers were. Frank kept the relay running off a second machine and restarted it whenever asked, at any hour, apologizing when he overslept.
 
 Nobody missed a day.
+
+<!--SURVCHART-->
 
 ### Final standing
 
@@ -1638,6 +1642,8 @@ It ran for nine hundred and ten issues. Here is how it ended.
 | **Sun 4 July** — No. 908 | A military truck carrying undisclosed hazardous waste overturns north of March Ridge. Officials do not deny it was overloaded. Col. Niall O'Malley: the materials "would pose little danger even if they came into contact with the public, which they did not." |
 | **Mon 5 July** — No. 909 | **EXCLUSIVE: Knox has best Independence Day ever!** Twenty decorated floats. Thousands at barbecues. See page 6 for "Unusual illness" affecting residents in Muldraugh. |
 | **Tue 6 July** — No. 910 | *Mystery illness strikes locals, overwhelms authorities.* Severe fevers and vomiting around Muldraugh. Not believed to spread person to person. A local doctor, out of rabies immunoglobin, theorises a rabies outbreak. The military opens its hospital at Fort Knox to the public. |
+
+<!--NEWSFIG-->
 
 There is no issue 911.
 
