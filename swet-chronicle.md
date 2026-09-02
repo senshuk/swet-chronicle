@@ -1,0 +1,869 @@
+# SWET
+## A Chronicle of Knox County, Kentucky — August 14–31, 2026
+
+---
+<!-- CH:1 | The Bar North of the Driving School | Aug 14 | senpai,stacey | rosewood -->
+## I. The Bar North of the Driving School
+
+Before any of this, the game tells you how it ends.
+
+Every character in Project Zomboid opens the same way — a black screen and three sentences:
+
+> *These are the end times. There was no hope of survival. This is how you died.*
+
+Not *might have*. Not *could*. **Did.** The game is not offering a challenge; it is handing you a document that has already been written and inviting you to supply the details. Thirteen people supplied the details over the following eighteen days, and this is what they wrote.
+
+It is July of 1993. The place is Knox County, Kentucky — a real county on the map with the serial numbers filed off — and on the sixth of that month the military drew a line around Muldraugh, West Point, Brandenburg and Fort Knox itself and called the inside of it the Exclusion Zone. Inside the line is the Knox Infection. Outside it, for about a week, is the belief that the line will hold.
+
+It does not hold. That part is also already written.
+
+None of the three people in this record are told any of that. They are inside the line, and the line is a rumour, and the radio has begun to repeat itself.
+
+---
+
+The first thing that happens in the record is that a woman shouts into fog at nobody.
+
+`OVER HERE!`
+
+It is nine in the morning in Rosewood, Kentucky, and she has been awake for hours. Her name is Stacey. She has a fire axe, a fanny pack, a second fanny pack, and a mental index of every painkiller in a four-house radius. She is not shouting at her friend. She is shouting at the dead, because the dead come toward noise, and coming toward noise is the only predictable thing they do.
+
+Somewhere south of her, a man is walking through the same fog looking for his own corpse.
+
+He does not remember where he left it. This is the problem, and Stacey — who has been awake long enough to have opinions — points out that by now it has almost certainly stopped lying down and started walking. He agrees that this is likely. He cannot narrow it down beyond *a bar, north of the driving school*, and there are several bars.
+
+That is senpai, and the body belongs to Mateo, who was him until two days ago.
+
+He finds it in five minutes.
+
+`swet found`
+
+Nobody remarks on this. Nobody asks what happened or whether he's all right. Stacey has already moved on to the contents of the kitchen, where there is a medical bag, and she wants him to know he can take from it without equipping it first.
+
+This is how they talk. It is less a dialect than a compression algorithm, and it contains three dialects inside it. *Swet* means good, yes, understood, thank you, received — and it is conjugated by identity. Stacey types it with one T. Senpai types it with two. The third man, when he arrives, will type it with three, because Frank has never in his life been merely satisfied.
+
+You can identify any speaker in the entire archive by counting the T's. It is more reliable than the usernames.
+
+---
+
+By ten Stacey has located and announced the position of the medical bag, the painkillers, the sleeping pills in the *other* nightstand, a suture needle, a spare flashlight, four fire axes, a pistol, and the fanny pack — which she is at pains to explain can be doubled, one front and one back.
+
+Senpai cannot sleep. Not *chooses not to* — cannot. He takes painkillers and lies down and the game will not let him rest. He gets up. He lies down again. Stacey suggests sleeping pills, which work, and he is under for perhaps ten seconds before something wakes him and she discovers that watching him try has cost her her own window.
+
+`lool now i cant`
+
+So they lie in adjacent beds in a dead woman's house, two grown men unable to sleep, waiting for six in the morning — because at six in the morning a television station that no longer employs anybody will broadcast a home-improvement program, and if they watch it they will get better at carpentry.
+
+The channel is called Life and Living, and it is the most quietly horrifying object in the game. Somewhere outside the cordon, before everything stopped, a broadcaster queued up nine days of daytime programming — cookery, woodwork, fishing, gardening — and then the people who made it stopped existing, and the tapes kept rolling on schedule into a county with nobody left to watch them. It runs at midnight, six, noon and six for nine days. On the tenth it stops forever.
+
+Stacey has set an alarm for ten to six. She has, in fact, memorized the whole schedule, and she believes the channel dies around the seventeenth or eighteenth.
+
+That casual aside dates the entire run. If the broadcasts end on the seventeenth, then day one was the ninth of July — the canonical first day of the Knox Event, the morning the world in this game officially begins. She did not look that up. She just knew when the television stopped.
+
+Outside, in the fog, something walks past the window and does not come in.
+
+---
+<!-- CH:2 | What Dragoş Found | Aug 14-15 | stacey,senpai | rosewood,death -->
+## II. What Dragoș Found
+
+Before Mateo there was Dragoș.
+
+Dragoș died at a farmhouse on the edge of town, before the record begins, and nobody went to get him. His body stayed out in the field for days, standing up eventually, the way they do, walking a slow circle in the grass between the pig pens.
+
+On the afternoon of the fifteenth Stacey drove out that way hunting skill magazines, and she found the farmhouse, and she reported back in the tone of a woman mentioning she'd stopped for gas.
+
+`i found the farmhouse you went to`
+
+`killed DRAGOS`
+
+She killed him. She put an axe through the head of her friend's previous self in a field in Kentucky, came home, and did not raise it again for four hours — at which point she raised it as a real-estate tip, noting that there were pigs near the spot where he'd met his untimely end, and a chicken coop, though no chickens she could see.
+
+And here senpai says the thing that has stayed with me longer than any of the deaths.
+
+`dragos wandered a lot aimlessly at the beginning`
+
+`didnt know he found a goldmine`
+
+Dragoș had wandered. That was all he did. He was the first one, before anybody knew anything, and he walked in whatever direction the map allowed until he stopped walking. And where he happened to stop, entirely by accident, was the best piece of real estate in Rosewood — three pigs, a chicken coop, water troughs holding a hundred and fifty thousand milliliters apiece, an infinite renewable supply of everything a person needs to get through a winter.
+
+He died there without ever knowing what he was standing on. It took his friends killing his corpse to find out.
+
+And when senpai described the moment it happened, what he chose to report was not the loss of eleven days' progress. It was that the thing had made him jump.
+
+---
+<!-- CH:3 | Frank Arrives | Aug 15 | frank,stacey | rosewood,death -->
+## III. Frank Arrives
+
+Frank joins the server at 10:26 in the morning on August 15 and is dead by 10:40.
+
+He types `swet` on arrival — one T, an anomaly, possibly nerves — and goes to check the back of a building. What follows is four lines long and constitutes the entire battlefield report:
+
+`back should be clear`
+
+`not`
+
+`side clear?`
+
+`nothing clear`
+
+Nothing clear. Stacey is somewhere Frank can't see; Frank is somewhere Stacey can't see; the fog is doing what fog does. He is standing in the open beside a Gigamart with a hatchet he does not yet know how to swing.
+
+`got scratched lol`
+
+Eleven seconds later:
+
+`i'm dead`
+
+Stacey, who has been at this for weeks and knows the arithmetic, tries to talk him down.
+
+`cratcj 5percent`
+
+She is wrong, and generously so — a scratch carries about seven percent, not five. But the number hardly matters, because the Knox Infection prices its three doorways very differently. A scratch is seven percent. A laceration is twenty-five. And a bite is a hundred, every time, with no saving throw and no cure and about three days between the wound and the end of you.
+
+Frank corrects the record.
+
+`bite`
+
+`ow`
+
+*Ow.* That is the eulogy. The entire eulogy. Eleven minutes into Frank's participation in this world his friend types the word *ow*, and they move on.
+
+He makes another character. He is dead again in thirteen minutes — three in-game hours, not one full morning — and it is here that he arrives at the theory that will define him for the next sixteen days.
+
+`will have to create non admin char, must be messing up game`
+
+Frank owns the server. He pays for it, restarts it, tunes it, apologizes when he sleeps in and it goes down. And Frank, having died twice in fourteen minutes, has concluded that the problem is his *administrator privileges* — that the flags on his account are corrupting the physics of Knox County. He proposes a control group.
+
+Stacey's reply is nine characters long and it is the best line anyone types in eighteen days.
+
+`o ja prob`
+
+Yeah. That's probably it, buddy.
+
+Three hours later he returns with his third character of the day and loads into a bedroom containing an unknown number of dead people.
+
+`spawned in a room with many z lol`
+
+Zero hours survived. Three characters, thirty-nine in-game hours between them, one afternoon.
+
+That night, in the channel where they talk when they aren't in Kentucky, Frank does something he will do exactly once: he asks for help. He wants to know whether you push them down first or just start swinging, because he has now died several times to a missed swing and he suspects he is doing it wrong. Stacey answers seriously and at length — push, stomp, keep backing up, and don't fight at all when you're tired.
+
+Frank takes it in, thanks her, and then, unable to help himself, posts a GIF of Joaquin Phoenix captioned *Felt Wrong Not To Swing.*
+
+---
+<!-- CH:4 | The Dryer | Aug 16 | senpai,stacey | rosewood,death,roof -->
+## IV. The Dryer
+
+On the afternoon of August 16, Stacey looked up from her inventory and saw, through the wall of the house, her friend walking into a rain barrel. Then walking into it again. Then again.
+
+She asked what he was doing. He said he was building a roof, which was plausible — he was the carpenter and he was always building a roof. But there was a detail she could not get past, and after a moment she asked about that instead.
+
+`y naked`
+
+`testing dryer speed`
+
+He was naked because he was running an experiment.
+
+He had put every article of clothing he owned into a tumble dryer, in a house with no power, running off a generator he had wired himself, in order to establish empirically whether machine drying beat wringing garments out by hand. And rather than stand there watching a dial he had gone up onto the roof to keep working, because there was no sense wasting the time.
+
+Three minutes later the data came in. The dryer, he announced, was completely useless.
+
+Three minutes after that, in the middle of a conversation about where the empty water bottles had got to:
+
+`wat the i fell lol`
+
+`terminal dmg`
+
+Two hundred and seventy hours. Eleven in-game days of survival, ended by gravity, on a roof, with no clothes on, in the immediate aftermath of a successful appliance benchmark.
+
+Stacey ran to him. It is the only place in the whole archive where you can see her move fast: she heard a groan, found him on the ground, and got there with the medical kit too late.
+
+The autopsy came out that evening, and it was worse than falling off the edge. He hadn't slipped. He had *finished* — done for the day, walking back toward the stairs — and he had missed the stair tile by one square.
+
+And then, because he could not accept it, senpai raised an objection that has since hardened into doctrine.
+
+`mxcn roofers dont fall`
+
+Stacey agreed. From one storey. Dead. It couldn't be.
+
+Frank said nothing at all for four hours. Then, at ten to eleven that night, having clearly spent the evening on it, he posted a single video link with no comment attached: *Roofer Falls Off Roof While Fighting.*
+
+`lmao`, said Stacey, the next morning.
+
+---
+<!-- CH:5 | Handrails | Aug 17 | frank,senpai,stacey | roof,aftermath -->
+## V. Handrails
+
+The day after, senpai asked the group what he ought to build next. He had a new character, no levels, and a house that still needed work.
+
+Frank answered immediately. It is the only piece of structural engineering advice he gives in eighteen days, and it is correct:
+
+`Handrails 🤣`
+
+`lolol had thought about that but too scared to go back up there`
+
+He never built them.
+
+Ten days later — after the move, after the forge, after the bombs, after everything — another of his men will go off a different roof in a different town and die instantly, and the last safety modification proposed for either structure will remain a suggestion typed with a laughing emoji on August 17.
+
+---
+
+There is one more thing from that week worth setting down, because it explains a great deal about how these three approach a problem.
+
+Frank had built his character like a man optimizing a spreadsheet: **smoker**, taken for the points it refunded; **fast reader**, to level quicker; **cat eye**, to see in the dark. Aggressive, efficient, and immediately regretted — he spent the following week complaining that Kentucky in the nineteen-nineties contained no cigarettes anywhere, which he considered a failure of period accuracy, since he expected a cigarette in every desk. He eventually tore the trait out altogether and lost his night vision with it, having decided the addiction cost more than the sight was worth.
+
+Stacey took **slow reader**.
+
+`i took slow reader as HAX`
+
+`free pts`
+
+She took a penalty purely to farm the character points it paid out. And when Frank offered to fix it at the server level — to simply turn reading speed up for everybody and remove the cost — she declined.
+
+`no thats fine`
+
+`i like it to take a bit`
+
+Frank adjusted it twice anyway and got it wrong both times, overshooting on the second attempt into a setting he described as *too fast*.
+
+---
+<!-- CH:6 | Write Often | Aug 17 | senpai,stacey,frank | journal -->
+## VI. Write Often
+
+On August 17 the server stopped letting senpai in.
+
+He investigated the way he investigates everything, which is thoroughly and out loud, and found that a mod had updated itself overnight without asking. It was called Skill Journal. He read the description and pasted it in:
+
+> *Craft the Skill Journal from a notebook, glue, leather strips and thread. "Record skills" writes your current XP, learned recipes, reading progress and zombie kill count into the book. "Recover skills" reads it back on your next character. Anything you earned after the last entry is gone. Write often.*
+
+Mechanically it is a save file with a leather cover. It exists so that when you die you do not lose two weeks of grinding. There is nothing sentimental in it whatsoever. It is a spreadsheet you carry in a bag.
+
+It is also, if you hold it at the right angle, the only argument anyone in Knox County ever makes against the black screen at the start.
+
+*There was no hope of survival.* Fine — granted, stipulated, the game is not lying. But the journal is a bet that survival is not the only thing that can carry forward. What the book preserves is not the man. It is what the man learned: the recipes, the reading, the number of them he put down. He dies on schedule, exactly as promised. His carpentry does not.
+
+Stacey looked at it for about ninety seconds and worked all of that out.
+
+`can maybe record while dying`
+
+`while bleeding out`
+
+`maybe mateo wouldnt have had enough time`
+
+`maybe written with blood`
+
+From that hour the journal was a religion.
+
+Not a mechanic — a *bit*, sustained for two solid weeks by three men who never once acknowledged they were doing it. Senpai's new character was named Rafa, and Rafa wrote in his journal before every dangerous act, and then before every mildly dangerous act, and then simply constantly: before climbing onto the roof, every twelve hours as a standing rule, and — eventually — every single time he got into a vehicle.
+
+Asked why a car warranted an entry, he explained his reasoning.
+
+`never know when a deer has my number`
+
+There was also the matter of the noise it made. Writing an entry produced a soft rhythmic sound, and Frank, standing out in the yard while senpai wrote indoors, described it as *a dog sniffing in your ear.*
+
+Frank's own relationship with the journal was different. Frank's relationship with the journal was that he kept losing it — first into a leather van, then into a bookcase in an office, and finally, ten days later and plaintively, at seven in the morning:
+
+`where my journal`
+
+`in your room`
+
+`with zombie`
+
+There is a zombie in Frank's bedroom standing over Frank's diary. Nobody addresses this for twenty minutes.
+
+---
+
+One more thing about Rafa, and then we'll move.
+
+Somewhere in his first days he walked out to the field where Mateo had come down — where the body still lay, or lay near enough — and he took the ID card off it, and put it in his pocket, and carried it for the rest of his life. Eight hundred and eighty-five hours. Thirty-seven in-game days.
+
+Nobody asked him to. It confers no bonus. It weighs something.
+
+He never took it out again. When Rafa died, it was still in there.
+
+---
+<!-- CH:7 | The Convoy | Aug 19 | frank,senpai,stacey | irvington,driving,move -->
+## VII. The Convoy
+
+By the nineteenth they had drunk Rosewood dry and it was time to go north.
+
+Which is, though nobody in the convoy says so, the direction everyone went.
+
+When the cordon broke, the military fell back north, and the infection went with them — out past the fence, into Louisville, and from Louisville into Cincinnati and Columbus and then, within a fortnight, into cities on the other side of the planet. The road these three are about to drive is the evacuation route. They are five weeks late for it, in four trucks and a hitch trailer, carrying a weight bench.
+
+There had already been one reminder that the world outside was still nominally interested in them. Days earlier a helicopter had come over — the news chopper, or a military one, the game never says — and it had followed them for several in-game hours, and every zombie within earshot had walked toward the noise. Stacey's report at the time was that every location she had painstakingly cleared was no longer clear. When senpai thought he heard rotors again the next day, her response was immediate and unhappy: *pls not again.* They had understood it to be a one-time event.
+
+Stacey had scouted the route three days earlier, driving the full ten real-world minutes of two-lane highway at what she described without irony as *sunday driver mode* — because the big trees on the shoulder don't fade out the way buildings do, and you can be doing fifty into a wreck you cannot see. Then she went back out with a blowtorch and dismantled every wreck on that road, one at a time, until she ran out of propane a few hundred yards short of the town line. She also nearly hit a deer, and was outraged about it.
+
+Frank spent those days repairing vehicles and produced a shortlist with a screenshot attached. Senpai packed. Stacey loaded four trucks and a hitch trailer until the seats and glove boxes were full.
+
+And then, before they set off, Frank offered a prediction about himself.
+
+`i'll still find a way to crash`
+
+Reader, he found a way.
+
+Over the following twelve days Frank drove into a tree at full speed and fractured his hand; fractured the same hand again the next day in a separate incident; and on the twenty-sixth crashed five vehicles in a single evening, a fact he volunteered only because it might explain why one of them had subsequently died in the road. He crashed five more times the following week.
+
+Senpai's driving was not better, only differently bad. He hit a rabbit hard enough that half a metal shelving unit flew out of his open trailer and landed in the middle of the highway, where Stacey found it the next day and could not stop laughing. And on the ice, a week later, in a sentence that arrives with no setup at all:
+
+`lol ja i sneezed and hit pole earlier`
+
+Stacey hit a fence, needed a new windshield, and — separately — swung an axe at a sheep and was knocked flat by it.
+
+They reached Irvington in the late afternoon with everything they owned, and Irvington turned out to be enormous. Stacey had expected farmland. What she got was a city.
+
+They took a house on the outskirts with a garage and a loading bay and a floor plan that offended senpai personally — there was no route to the washing machine that didn't go out the front door, which Frank attributed to regional architecture. It also had a basement, which Frank would not discover for five days.
+
+`we have a basemen?`
+
+`ja`
+
+`ja`
+
+`what`
+
+Senpai looked at that house the way a man looks at a fixer-upper. Over the next twelve days he would gut it, extend it, roof it, wire it, and build a second storey onto it.
+
+It would kill him twice.
+
+---
+<!-- CH:8 | Three Trades | Aug 20-24 | stacey,senpai,frank | build,skills,irvington -->
+## VIII. Three Trades
+
+You can read all three of them out of the skill logs, which shouldn't work, and does.
+
+### Stacey
+
+She ends the run with four maxed skills — Cooking, Foraging, Butchering, Blacksmithing — and every one of them is about turning the world into supplies.
+
+She forages in the rain because the yield is better. She runs over a rabbit and butchers it in the road and gains two levels. She kills a cow and carries it home whole, which she mentions in passing and then reconsiders.
+
+`lool oops`
+
+`was carrying entire cow`
+
+She finds wild mushrooms she cannot identify and runs the only test available to her: she cooks half of them, eats one, and reports the result.
+
+`hope dont die!`
+
+Four minutes later, she does not die, and the mushrooms go in the fridge for everybody.
+
+At Cooking 7 the game unlocks the ability to cook with rotten food, and Stacey — who has been composting spoiled produce for a week against precisely this eventuality — begins running a small restaurant out of a corpse-strewn farmhouse, turning a bin of rot into a salad she describes as coming out fresh.
+
+There is one line of hers I have not been able to shake. It concerns two pigs at a farm down the road, and it is reported with exactly the same evenness as everything else.
+
+`butchered two pigs from farm nearby`
+
+`right in front of the piglet`
+
+`it wouldnt stop screaming afterwards`
+
+Senpai's entire response was a GIF of Ron Swanson's ceiling bacon stash.
+
+### Senpai
+
+He ends with Carpentry 10 and a house that has a floor he built.
+
+He is the builder, and he has the disease builders get. He wants a workshop. Then a kiln, so he needs clay. Then a forge extension off the garage, so he needs masonry. Then a roof over the storage area, so he needs logs — dozens of logs, then dozens more. And then, under the roof, he wants *better lighting*, which is what sends him to City Hall to loot a set of antique lamps.
+
+On the twenty-fourth he posts a colour-coded site plan: red for the loading and parking zone, dark blue for the warehouse, the remainder given over to crafting, with the whole thing possibly going multi-level. Frank reviews it like a zoning board and raises one objection, which is that he would prefer not to have to stack the vehicles.
+
+Somewhere in the middle of all this Stacey names the condition out loud — *it never ends, this crafting rabbit hole* — and senpai agrees, and neither of them stops.
+
+Early on he discovers you can read a skill book and watch an instructional VHS simultaneously, doubling the rate, and announces it with real joy:
+
+`my brain is plugged into the matrix`
+
+### Frank
+
+He ends with Tailoring 10 and Carving 10 — the two most tedious skills in the game — because Frank does not really play Project Zomboid. Frank plays spreadsheet.
+
+`spent all day picking twine from rags`
+
+He found the loop and ran it for two real days: get to level one tailoring, gather rags, pick the rags for thread, weave the thread into cloth on a loom, sew the cloth into long johns, tear the long johns back into rags, repeat forever. Then he butchered the livestock Stacey had processed and made everybody jewellery out of the bones — a choker he claimed gave a hundred points of bite protection, and a pair of gloves — and left them in the fridge, where everything in this house ends up.
+
+They did not work. He got a severe scratch on his hand through the gloves and said so.
+
+And on the twenty-fifth, unprompted, Frank stated plainly what he actually wants out of a zombie apocalypse:
+
+`this game amazing, but would probably be my favorite easily if it had community builder aspect, like people to do my weaving for me`
+
+*People to do my weaving for me.* The man is administrating a server, manufacturing explosives, and dying every four days, and his dream is middle management.
+
+When he can't work something out he doesn't consult a wiki. He consults Gemini — about plumbing a rain barrel into a washing machine, about where clay is found, about whether it's more efficient to wash clothes by hand. He is not credulous about it, to his credit; asked about lighting, he relays the answer and immediately adds that he doesn't trust it.
+
+Senpai asks an AI too, once, at the exact moment it matters most. On the morning of the twenty-seventh, standing at the base of a structure he is about to add a second storey to, he asks whether it needs a support system, and says he'd rather it didn't collapse. Then, reassured:
+
+`swet ai says no need to worry about load bearing`
+
+Four hours later he will fall off that structure and die.
+
+Not because of load bearing.
+
+---
+<!-- CH:9 | The Trailer | Aug 21 | frank,stacey | irvington,death -->
+## IX. The Trailer
+
+Past the gas station, on the right, there is a trailer.
+
+Frank went into it at 10:26 on the morning of August 21 with four hundred and ninety hours behind him — his longest life to that point, nearly three weeks of survival, a mechanic's levels, a truck idling outside with the engine running.
+
+There were three of them inside.
+
+`there were 3z inside`
+
+`my body still ded`
+
+He described it that afternoon with a screenshot and no drama at all: instant death, more or less, and he thought he'd been killed in a single hit. Senpai's first question was not what happened. It was whether the journal was current.
+
+It was. The religion works. Four hundred and ninety hours of carpentry and mechanics and reloading survived him in a notebook in a truck.
+
+But there is a detail in the first two minutes of Frank's death worth putting on the record, because it is the most Frank thing in the entire archive. He is a corpse on the floor of a trailer. Stacey is driving into a horde to recover his belongings. And what he raises, three minutes in, is this:
+
+`i left truck on, if you can turn off pls`
+
+He is dead and he is worried about the battery.
+
+Stacey got everything. She drove in, pulled the horde off with the horn, went through his pockets and put the lot in the back of the white truck. Frank thanked her twice, in duplicate, because his client double-posts when he is excited.
+
+And then he came back, and the game rolled him a strength bonus and, at random, agoraphobia.
+
+`came back as engi`
+
+`with strong buff, but agoraphobic`
+
+An engineer.
+
+Which means explosives.
+
+---
+
+There is a line from two days earlier that reads differently once you know what's coming. It is Frank, at twenty to nine in the evening, asking a logistical question about respawn points:
+
+`Is there a way to spawn near you guys if i die tmrw`
+
+Note the *tmrw*. Not *if I die* — **if I die tomorrow.** He was not asking a hypothetical. He was doing capacity planning.
+
+---
+<!-- CH:10 | Bomb Time | Aug 25-26 | frank,stacey,senpai | irvington,death,bomb -->
+## X. Bomb Time
+
+The shopping list starts on the twenty-first, and the politeness of it is what gets you.
+
+`if fine, please bring home hair spray or insect repellant, pls`
+
+`and sparklers`
+
+`grab pipes if can, too, pls, for make bomb`
+
+Foil. Cordless phones. Pagers. Television remotes. A motion sensor. All requested with *please*, over four days, from friends who were out looting for food.
+
+By midday on the twenty-fifth he had one built, with a remote detonator and an alarm clock for a timer, and he had a plan: gather a great many of them into one place, and then be somewhere else.
+
+`bring them to me`
+
+Senpai declined the invitation. Senpai had assessed the situation correctly and had somewhere else to be, and said so twice in case it hadn't landed.
+
+So it was Stacey who went to fetch them. She found a mass near the storage units, got their attention, and drove. Frank was in position in a field with the trigger in his hand and reported, as they came into view, that they were faster than he'd expected.
+
+Then two minutes of nothing. Then:
+
+`hm not working`
+
+`rofl`
+
+Seven hundred and nineteen hours. His longest life by half again. Gone in a field outside Irvington, surrounded by the dead his friend had driven to him at his own request.
+
+He worked out what had happened eight minutes later, and typed it, and it is the single greatest sentence in eighteen days of logs.
+
+`i put the trigger in my hand, you're supposed to right click it`
+
+He held it. He held the detonator *and the bomb*, because they were the same object, because he had never done this before.
+
+Stacey drove past the crater a few minutes later and reported that his truck was absolutely surrounded — dozens of them — and Frank, dead, told her to leave it, he'd lure them off and sneak back in later.
+
+But here is the part that only surfaces that evening, and it recontextualizes the whole thing. He had made a run for the truck afterward, with about ten of them closing in, and he'd lasted longer than he expected to.
+
+`Lolol i tried getting into the car, but I missed`
+
+The bomb didn't kill him.
+
+He detonated a pipe bomb in his own hand, **survived it**, ran for the door and died because he clicked one pixel wide of it. Stacey, who has clearly been there, said she hated that — feeling like you should be getting into the car and being a pixel off the angle.
+
+---
+
+He learned nothing. That same night Stacey was already planning the sequel and had opinions about vehicle selection: everybody in sports cars this time, because they'd need to make quick turns.
+
+Round two went out the following afternoon. Frank brought escorts. Neither would touch the merchandise. He explained where the bombs were — a backpack in the living room, one pipe bomb and one detonator, link them, and bring the aerosol one as well — and got two refusals in a row.
+
+`am leaving bombing to u guys`
+
+`im not touching them`
+
+`im gonna blow up just looking at them`
+
+`aw man lol`
+
+`ok i write journal`
+
+*Ok i write journal.* He has been blown up once. He has therefore accepted the sacrament.
+
+They drove out in three sports cars and could not find the horde. They found a smaller one instead, herded it into an intersection, and Frank set the charge and told everyone to hide when the noisemaker went off.
+
+Nothing happened. Or rather — something happened, silently and invisibly, in a way none of the three could confirm. Stacey thought she saw one go off, without audio. She saw them dying. Frank got no animation at all.
+
+Two days of collecting pipes and hairspray, one self-inflicted fatality, and the payoff was an explosion that made no sound and produced no light and killed an unknowable number of people who were already dead.
+
+Three days later, in the middle of an unrelated conversation:
+
+`didnt realize i been sleeping in room with 2 aerosol bombs in nightstand`
+
+---
+<!-- CH:11 | The Forge | Aug 22-29 | stacey,senpai | irvington,build,forge -->
+## XI. The Forge
+
+Nobody asked for a forge.
+
+There was no forge shortage, no weapons crisis, no strategic gap a forge would close. Stacey simply decided, somewhere around the twenty-second of August, that the group was going to have a blacksmith's forge — and then spent four days pursuing it down a chain of prerequisites that reads like a curse laid on a village.
+
+She lays it out herself, in six lines:
+
+`need to craft large bellows tho`
+
+`which needs leather`
+
+`which needs a drying rack thing`
+
+`which needs a fleshing tool`
+
+And the leather takes seven in-game days to dry.
+
+Meanwhile senpai is downstream of her, trying to produce the wooden bucket the forge requires, and the game will not acknowledge that he is holding the parts — the recipe insists he has none of the two iron bands he is visibly carrying. For the pottery wheel he needs a large stone, and a large stone weighs forty pounds, which means dropping everything else he owns on the ground in order to pick it up. For the kiln he needs twenty clay. He has seventeen.
+
+Clay is foraged near water, and preferentially in the rain, and it has stopped raining — and Stacey, who spent five straight days complaining about the rain, is now incandescent that it's gone.
+
+`shouldve taken advantage of the last 5 DAYS!`
+
+Somewhere in the middle of it she stops and says the truest thing anybody says about this hobby.
+
+`i dont even know what im going to do with it`
+
+`or how many more machines im going to need to build to make anything useful`
+
+She finishes it on August 24, nine real days in, after five separate crafting stations.
+
+`advanced forge COMPLETE`
+
+`that took WAY too long`
+
+And then the thing pays out, and it turns out Frank was right when he guessed: blacksmithing is completely broken.
+
+Blacksmithing 8 unlocks the sledgehammer — the most wanted object in the game, the one that turns walls into doorways, which senpai has been asking for since becoming a master carpenter incapable of making a hole in a wall. Stacey's countdown on the morning of the twenty-seventh is the most excited anybody gets in eighteen days: *very SOON*, then *10min max*, then *coming UP*, and finally, with the thing in her hands:
+
+`behold!`
+
+At Blacksmithing 9 come machetes and longswords, at maximum damage and maximum condition, forged from scrap harvested off dismantled cars — which is to say, infinitely. Fifteen real-world minutes bought ten machetes, and she told the others to stop being precious about them, because they were effectively unlimited now.
+
+Stacey started this run by pointing out where the painkillers were.
+
+She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher's hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.
+
+---
+<!-- CH:12 | No Wall | Aug 27 | senpai,stacey | irvington,death,roof -->
+## XII. No Wall
+
+At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.
+
+He had nine planks on his back.
+
+`rafa testing his limits`
+
+Down in the yard Stacey stopped what she was doing and looked up, and then thought better of it and moved away.
+
+Because she had watched this once already. She had heard the groan and found the body on the ground and got there too late, in a different town, eleven days earlier.
+
+Up on the roof Rafa was being careful. He had a procedure now — an actual safety rule, arrived at the hard way, adopted after the last one went off a roof in Rosewood with no clothes on. The rule was: *hug the wall.* Stay against the structure. The wall keeps you.
+
+He hugged the wall.
+
+`was trying to hug wall`
+
+`no wall where i fell`
+
+`rip rafa`
+
+Eight hundred and eighty-five hours. Thirty-seven in-game days, the longest life any of senpai's men ever held, ended by a ten-foot fall from a structure he had designed and built himself, at the one point along its edge where he had not yet installed the wall he was leaning on.
+
+The man who wrote in his journal *before going upstairs* died going upstairs.
+
+The investigation that evening is genuinely good detective work. Frank objected to the physics — a fall from ten feet shouldn't be fatal — and senpai confirmed it had been instant, with no injury state at all, just dead. And then Stacey, who had been chewing on it for two hours, cracked it: she had seen people fall from much higher and live, but senpai was permanently hauling extreme loads around while building, and encumbrance eats your health.
+
+`ja i had 9 planks on me lol`
+
+Nine planks.
+
+He fell ten feet carrying nine planks, and the weight had already taken most of his health before he ever left the roof — and that is why he died, and it is *also* why the naked one died eleven days earlier, hauling lumber around a rooftop at four in the afternoon.
+
+The Carpenter curse, which an AI had named for them ten days before while inventing half the facts around it, turned out to be real, and turned out to be *carrying too much*.
+
+Stacey handled the funeral the way Stacey handles everything: she would sleep until morning and collect the body then, and he should make a new character while she did her workout.
+
+Six minutes of downtime. Then senpai came back with a new man and announced him with the confidence of somebody who has learned absolutely nothing.
+
+`junji morimoto gonna finish that roof`
+
+---
+<!-- CH:13 | Sixty Seconds | Aug 27-28 | senpai,frank,stacey | irvington,death -->
+## XIII. Sixty Seconds
+
+Junji Morimoto did not finish that roof.
+
+Junji Morimoto died at 6:25 that same evening, fifty-eight in-game hours after taking the name, somewhere inside the house he had promised to complete. Nobody was online. Nobody saw it. There is no chat around it at all — just a line in the server log, and, the next morning, a slowly dawning problem.
+
+Senpai wanted to know whether Junji had turned. Stacey asked where he'd died. Senpai thought by the loading bay. Stacey couldn't see anything there. Senpai revised: possibly upstairs, he couldn't remember now.
+
+They could not find him.
+
+Three men, in a house they had built with their own hands, spent the next several minutes shouting into it — `HEY!`, `OVER HERE!`, `HEY YOU!` — thirty-five times in two minutes, nearly a tenth of every shout in the entire eighteen-day archive, trying to bait a corpse into revealing itself.
+
+`well, wheres the dang body!?`
+
+They never found him.
+
+The explanation exists only because senpai confessed it three hours after the fact, alongside a screenshot, in the tone of a man reporting he'd left the oven on.
+
+`lol i forgot to exit game`
+
+`rip junji`
+
+He had stood up from the desk. That's all. He had walked away from the computer and left Junji Morimoto standing in a doorway in Kentucky, and something had wandered in, and by the time anybody looked at the screen again Junji had been dead for hours in a room nobody could identify.
+
+---
+
+The next morning is the one I keep coming back to.
+
+At 9:46 senpai is choosing an occupation, and he is taking it seriously — weighing what the group actually needs, working around the fact that he has already maxed carpentry and shouldn't waste the slot. He settles on DIY expert, so he can push masonry and max out maintenance. Frank agrees that maintenance would be big.
+
+At 9:49 he loads in, and says he hopes he doesn't die this time.
+
+At 9:50 he announces the new man to his friends:
+
+`marco bernal-casillas gonna fix up everything`
+
+At 9:51:
+
+`nvm`
+
+Sixty seconds.
+
+Marco Bernal-Casillas existed for one minute. He was a DIY expert. He was going to fix up everything. The game dropped him into Rosewood — a town they had abandoned nine days earlier, an hour of highway from every friend he had — into a room with ten of them, and the complete surviving record of his life is a name, a mission statement, and the word *nvm*.
+
+Senpai's own summary of his architectural career, delivered the following morning without a trace of self-pity:
+
+`many lives lost building 2nd floor`
+
+The second storey was finished. It was also, it turned out, unwalkable — the new boards rendered in the same shade as the boards below them, so that standing up there you genuinely could not tell where the floor ended and the drop began. Frank went up to look and could not distinguish the first storey from the second, and turned around and came back down.
+
+So the master carpenter completed his masterwork by refusing to use the movement keys at all. He clicked destination tiles with the mouse, one at a time, and let the game walk him — the way you would cross a minefield.
+
+And the following day, the final indignity:
+
+`fog helped me figure out where floor ended lol`
+
+He needed weather to see his own building.
+
+---
+<!-- CH:14 | This Is Fine | Aug 29 | senpai,frank,stacey | irvington,fire -->
+## XIV. This Is Fine
+
+On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.
+
+`rofl microwave caught on fire`
+
+`had to use extinguisher`
+
+He reported the damage — a burnt-out counter, a burnt-out wall, no more microwave — and posted a picture of it. Frank opened the investigation immediately, because Frank has watched enough of these, and asked whether he'd put metal in. He had not. It was a bowl of food.
+
+Stacey arrived, surveyed the scene, and did not comment on the fire at all. What she said was that she never warms those bowls up, and that they were lucky Frank had turned fire spread off at the server level weeks earlier.
+
+`forgot about that, would've pulled a frank`
+
+`lol entire house wood`
+
+`wouldve been amazing`
+
+*Would've pulled a frank.* He said it about himself, four days after the pipe bomb. It is a verb now and he has accepted it.
+
+And then Stacey — who has maxed four skills, forged the machetes, built the forge and scrubbed the walls with six bottles of bleach — quietly repaired the crime scene while the other two talked about it. She replaced the floor. She tried a basic wooden wall, decided it looked like poop, and put up a brick one instead. She moved three crates over to cover the seam. She installed a new mini fridge in the gap where the crates had been.
+
+`itll be like it never happened!`
+
+Total elapsed time: forty-eight minutes.
+
+Senpai's entire contribution to the cleanup was a "This Is Fine" dog, captioned:
+
+`me trying to have breakfast`
+
+---
+<!-- CH:15 | Christmas Eve | Aug 31 | senpai,stacey,frank | irvington,death,ending -->
+## XV. Christmas Eve
+
+The last death in the archive is the only one anybody plans.
+
+It happens near the community college on the afternoon of August 31. He had nearly been caught there twice already that day and had said so out loud — two bites at the ankle that somehow left no damage state — and then he went back in, because there was a library on the second floor and the library had books they still needed.
+
+`got bit`
+
+`gonna head to safehouse and put stuff in locker`
+
+There is no cure for a bite. Everyone knows this. So he did the arithmetic.
+
+He drove home. The drive was not good — he was bleeding, he was panicking, and by his own count he hit five trees and utility poles between the college and the house. He got there. He emptied his pockets into the lockers he had built with his own hands two days earlier: the machete, the guns, the maps, the books from the college library, all of it filed where the next man would find it. He wrote in the journal.
+
+And then he drove back out, because a body inside the base is a body you have to fight indoors.
+
+`gonna die down the road from safehouse near hay building`
+
+`k`
+
+*k.* A man announces the coordinates of his own death and Stacey says *k*, because Stacey is going to have to come and collect the body in the morning and it is genuinely useful to know where it will be.
+
+Then, waiting to die in a field:
+
+`doing burpees while bleeding out`
+
+He is doing calisthenics. He is bleeding out in a field outside Irvington on Christmas Eve and he is doing burpees, because Fitness XP is Fitness XP, and Frank had buffed exercise experience tenfold four days earlier, and the journal in his bag will carry every point of it forward to whoever comes next.
+
+It took a while. He said so.
+
+`taking forever to die`
+
+`walk through more bushes to get cuts`
+
+Stacey, offering hospice care.
+
+---
+
+The record ends that evening. In the game it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which Frank has confirmed is a bug.
+
+Stacey is wearing a Santa jacket she has objections to. It is better than leather for the cold, which she concedes, but it is green.
+
+`what kind of santa wear GREEN?`
+
+Irvington is cleared. The base has a second storey, a forge, a warehouse, plumbing, floodlights, antique lamps from City Hall, lockers, and a mini fridge covering a burn mark. There is nothing left to be afraid of within a day's drive.
+
+Which is a problem, and Stacey — who saw it coming a week out — is the one who raises it. They had cleared the town. They had just finished decking out the base. And you cannot simply move and leave it behind.
+
+They settle on Brandenburg, to the north, because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
+
+They do not appear to know what Brandenburg is. Brandenburg is one of the four places the army named when it drew the line on the sixth of July — Muldraugh, West Point, Fort Knox, and Brandenburg. It is not a town they are driving *to*. It is a corner of the original cordon, one of the spots where somebody decided this far and no further, and was wrong.
+
+Beyond it is Louisville, which is where the line failed and the infection got out into the world, and which is the place all three of them have been idly describing as the eventual destination — the big city, the last one, the one you go to when you have run out of smaller places to be careful in. Frank's stated ambition for Louisville has never been more specific than shooting things and blowing things up there.
+
+And then, that evening, having spent the whole afternoon alone on the highway clearing wrecks so the other two could drive it safely:
+
+`then we all go die in haunted sanatorium`
+
+`that will be our next base`
+
+`lol no z can stop us`
+
+`only ten z from all directions`
+
+*Then we all go die in haunted sanatorium.* / *That will be our next base.*
+
+Both true. Both plans. The same plan.
+
+---
+
+The last thing that happens in the game is Stacey giving driving directions, at length, to two men she knows perfectly well will not follow them. The road is clear, she says, up until the city sign — after that she doesn't know. Go slow. The highway splits into two lanes with trees down the middle, and there are dead groups on the tarmac that might flip a car.
+
+`def will hit at least 3 of the trees`
+
+And the last thing in the record at all is posted three hours later by a man who has died six times, blown himself up, lost his glasses, lost his keyring, lost his journal, crashed five cars in one night, and diagnosed every one of his own deaths as a server fault:
+
+`Swettt I'm still gonna get lost`
+
+---
+
+The game opened by telling them there was no hope of survival, and it was right, and it will go on being right: whoever is walking around in that house tonight will also die, and so will the one after him, and the record will keep a name and an hour for each of them.
+
+But the game only ever promised the first half of the sentence. It said *this is how you died*. It never said anything about what you'd be doing at the time.
+
+Eighteen days in, the answer is: arguing about whether Santa wears green, hiding a scorch mark behind a mini fridge, carrying a dead man's ID card in your pocket for thirty-seven days, doing burpees in a field to leave your friends a slightly better book — and planning, on Christmas Eve, with real enthusiasm, to drive north into the place the army gave up on, in order to sleep in a haunted building.
+
+---
+<!-- CH:16 | The Ledger | Aug 14-31 | frank,senpai,stacey | reference -->
+## THE LEDGER
+
+Three people who arranged their days around meeting up every evening in a fictional Kentucky to argue about where the sledgehammers were. Frank ran the server off a second machine and rebooted it whenever asked, at any hour, apologizing when he slept in.
+
+Nobody missed a day.
+
+### Final standing
+
+| | **stacey** | **senpai** | **frank** |
+|---|---|---|---|
+| Deaths | **0** | 5 (+2 before the record) | 6 |
+| Longest single life | **2,713 hrs** | 885 hrs | 719 hrs |
+| Logins | 73 | 115 | 56 |
+| In-game messages | 2,002 | 1,353 | 981 |
+| Discord messages | 999 | 525 | 390 |
+| Maxed skills | Cooking, Foraging, Butchering, Blacksmithing | Carpentry | Tailoring, Carving |
+| Vehicles entered | 1,742 | 579 | 737 |
+| Signature | `swet` / `wowee` | `swett` | `swettt` / `heck yeah` |
+
+Stacey never died. Not once, in either archive — two thousand seven hundred and thirteen consecutive in-game hours, one hundred and thirteen days, starting before the record opens and running unbroken past the end of it. She supplied the weapons, the food, the water, the clothes, the cigarettes, the ammunition, the spare glasses Frank kept losing, the bone jewellery, the sledgehammer and the machetes. She retrieved Frank's body twice. She killed one of senpai's characters personally. She rebuilt the kitchen after the fire and hid the seam behind crates.
+
+Stacey is not playing the same game as these men.
+
+### The eleven deaths
+
+| # | Date | Who | Survived | Cause |
+|---|---|---|---|---|
+| 1 | Aug 15, 10:40 | frank | 36 hrs | Bitten, eleven minutes after joining |
+| 2 | Aug 15, 10:53 | frank | 3 hrs | Unknown; blamed his own admin privileges |
+| 3 | Aug 15, 13:54 | frank | 0 hrs | Spawned into a room full of them |
+| 4 | Aug 16, 15:18 | senpai (**Mateo**) | 270 hrs | Fell off a roof, naked, missed the stairs by one tile |
+| 5 | Aug 18, 06:17 | frank | 167 hrs | Police station. Pushed a standing one, hit a fallen one |
+| 6 | Aug 21, 10:26 | frank | 490 hrs | Three of them in a trailer. One-shotted |
+| 7 | Aug 25, 12:41 | frank | 719 hrs | **Held his own pipe bomb.** Survived it. Then missed the car door |
+| 8 | Aug 27, 13:48 | senpai (**Rafa**) | 885 hrs | Hugged a wall that wasn't there. Nine planks on his back |
+| 9 | Aug 27, 18:25 | senpai (**Junji Morimoto**) | 58 hrs | Alt-tabbed. Body never recovered |
+| 10 | Aug 28, 06:51 | senpai (**Marco Bernal-Casillas**) | 0 hrs | Sixty seconds. `nvm` |
+| 11 | Aug 31, 14:38 | senpai | 369 hrs | Bitten. Died doing burpees, on schedule, at announced coordinates |
+
+Roof deaths: 2. Self-inflicted explosive deaths: 1. Deaths caused by admin privileges: 0, whatever Frank says.
+
+Two more predate the record: **Dragoș**, who wandered into the best farm in Rosewood and died there without noticing, and **Mateo**, in a bar north of the driving school. There may also have been a **Cătălin** — senpai had been feeding the run to an AI and posting its dramatic recaps, and at some point the names drifted. By the group's own documents Mateo dies twice, in two different places. It will never be resolved.
+
+### Artifacts recovered
+
+**The gnome.** August 24. Senpai, back from a supply run, announced that he had brought home the most important item in the game. Frank asked what it was. It was a gnome.
+
+**LARRY'S RAP DEMO (PRACTICE).** A VHS from the Rosewood base. Stacey believed it rare. Never checked for XP value. Transported to Irvington anyway and mentioned again a week later, in capitals, unprompted.
+
+**The sexy keyring (pink).** Found August 26 by senpai, who called it the best item he'd seen. Left on the kitchen shelf in the corner. Stacey was on her way before he finished typing.
+
+**Cherry Love.** A zombie killed near the community college on August 31. Senpai fled without her ID and drove back thirty-eight minutes later specifically to get it.
+
+**Mateo's ID card.** Carried by Rafa for eight hundred and eighty-five hours. Still in his pocket when he hit the ground.
+
+**180 fresh eggs.** Found at the tree line they had been logging beside for a week. Cooking eggs and mushrooms gives absurd XP; Frank got 600 from a single batch and concluded his mother must be a level 10 cook.
+
+**Frank's glasses.** Lost at a jerky factory. Stacey handed him a spare pair, at which point he discovered they were the wrong prescription and he was still blind. She began stockpiling glasses in the hitch trailer as standing policy.
+
+**Frank's keyring.** Lost August 25, mourned for four days, found by Stacey in the yard on the 29th with no keys on it.
+
+**Thirty-seven blunt scissors.** Part of Stacey's stockpile of dull objects, maintained specifically so the others could grind Maintenance XP by sharpening them.
+
+**Handrails.** Suggested August 17. Never built. Second roof death, August 27.
+
+**The naked zombie in the Rosewood police station.** Frank, notifying the group of his fifth death with the consideration of a man leaving a note on a windshield: *"i died in police station btw, in case you see a naked z."*
+
+**The zombie in Frank's bedroom, standing over Frank's diary.** Status unresolved.
+
+---
+
+*Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.*

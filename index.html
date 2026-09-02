@@ -1,0 +1,795 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="light dark">
+<title>The Swet Chronicle</title>
+<meta name="description" content="Fifteen chapters and a ledger from eighteen days inside the Knox Exclusion Zone.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;1,6..72,400&family=JetBrains+Mono:wght@400;500&display=swap">
+<style>[hidden]{display:none!important}img{max-width:100%}</style>
+</head>
+<body>
+<style>
+:root{
+  --ground:#E8E5DC; --surface:#F2F0E9; --raised:#FBFAF5;
+  --ink:#1A201C; --ink-2:#3D453F; --muted:#5C635B; --faint:#8A9089;
+  --rule:#CFCBBD; --rule-soft:#DEDACE;
+  --amber:#A56B18; --amber-soft:#C79A4E; --blood:#93332B;
+  --spine:#C9C5B8;
+  --f-disp:"Archivo","Helvetica Neue",Arial,sans-serif;
+  --f-body:"Newsreader",Georgia,"Times New Roman",serif;
+  --f-mono:"JetBrains Mono",ui-monospace,"SF Mono",Menlo,monospace;
+  --measure:66ch; --sb:300px;
+}
+@media (prefers-color-scheme:dark){
+  :root:not([data-theme="light"]){
+    --ground:#0F1311; --surface:#171C19; --raised:#1E2421;
+    --ink:#E6E3DA; --ink-2:#CBC7BB; --muted:#8A9089; --faint:#6B726B;
+    --rule:#2A312D; --rule-soft:#222824;
+    --amber:#D99A3E; --amber-soft:#8A6A34; --blood:#B4453C;
+    --spine:#2A312D;
+  }
+}
+:root[data-theme="dark"]{
+  --ground:#0F1311; --surface:#171C19; --raised:#1E2421;
+  --ink:#E6E3DA; --ink-2:#CBC7BB; --muted:#8A9089; --faint:#6B726B;
+  --rule:#2A312D; --rule-soft:#222824;
+  --amber:#D99A3E; --amber-soft:#8A6A34; --blood:#B4453C;
+  --spine:#2A312D;
+}
+
+*{box-sizing:border-box}
+body{
+  margin:0; background:var(--ground); color:var(--ink);
+  font-family:var(--f-body); font-size:17px; line-height:1.62;
+  -webkit-font-smoothing:antialiased;
+}
+:focus-visible{outline:2px solid var(--amber); outline-offset:2px; border-radius:2px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}}
+
+/* ---------- masthead ---------- */
+.mast{
+  border-bottom:1px solid var(--rule); background:var(--surface);
+  padding:26px clamp(18px,4vw,44px) 20px;
+}
+.mast-in{max-width:1150px;margin:0 auto;display:flex;flex-wrap:wrap;gap:22px 40px;align-items:flex-end;justify-content:space-between}
+.brand h1{
+  font-family:var(--f-disp); font-weight:700; font-size:clamp(30px,4.6vw,46px);
+  letter-spacing:.14em; margin:0; line-height:1; text-transform:uppercase;
+}
+.brand .sub{
+  font-family:var(--f-mono); font-size:11.5px; letter-spacing:.13em; text-transform:uppercase;
+  color:var(--muted); margin:11px 0 0;
+}
+.mast-stats{display:flex;gap:26px;flex-wrap:wrap;font-family:var(--f-mono);font-size:11.5px}
+.mast-stats div{display:flex;flex-direction:column;gap:3px}
+.mast-stats b{font-size:19px;font-weight:500;color:var(--ink);font-variant-numeric:tabular-nums}
+.mast-stats span{letter-spacing:.1em;text-transform:uppercase;color:var(--faint);font-size:10px}
+.mast-stats .is-death b{color:var(--blood)}
+
+/* ---------- shell ---------- */
+.shell{max-width:1150px;margin:0 auto;display:grid;grid-template-columns:var(--sb) 1fr;gap:0;align-items:start}
+
+/* ---------- sidebar ---------- */
+.side{
+  position:sticky; top:0; max-height:100vh; overflow-y:auto;
+  border-right:1px solid var(--rule); padding:22px 20px 40px;
+}
+.side h2{
+  font-family:var(--f-mono); font-size:10px; letter-spacing:.16em; text-transform:uppercase;
+  color:var(--faint); margin:0 0 10px; font-weight:500;
+}
+.fgroup{margin-bottom:18px}
+.chips{display:flex;flex-wrap:wrap;gap:5px}
+.chip{
+  font-family:var(--f-mono); font-size:10.5px; letter-spacing:.06em;
+  padding:4px 9px; border:1px solid var(--rule); border-radius:2px;
+  background:transparent; color:var(--muted); cursor:pointer; text-transform:uppercase;
+}
+.chip:hover{border-color:var(--amber-soft);color:var(--ink-2)}
+.chip[aria-pressed="true"]{background:var(--amber);border-color:var(--amber);color:var(--ground);font-weight:500}
+.chip.is-blood[aria-pressed="true"]{background:var(--blood);border-color:var(--blood);color:#fff}
+.clearbtn{
+  font-family:var(--f-mono);font-size:10px;letter-spacing:.08em;text-transform:uppercase;
+  background:none;border:0;color:var(--faint);cursor:pointer;padding:6px 0;text-decoration:underline;
+  text-underline-offset:3px;
+}
+.clearbtn:hover{color:var(--amber)}
+.count{font-family:var(--f-mono);font-size:10px;color:var(--faint);letter-spacing:.08em;margin:2px 0 14px}
+
+/* timeline spine */
+.spine{position:relative;display:flex;flex-direction:column;gap:1px;padding-left:16px}
+.spine::before{content:"";position:absolute;left:4px;top:8px;bottom:8px;width:1px;background:var(--spine)}
+.navrow{
+  position:relative; display:flex; gap:10px; align-items:flex-start; width:100%; text-align:left;
+  background:none;border:0;cursor:pointer;padding:7px 8px 7px 0;color:inherit;font:inherit;
+  border-radius:2px;
+}
+.navrow:hover{background:var(--surface)}
+.navrow[hidden]{display:none}
+.node{
+  position:absolute;left:-16px;top:13px;width:9px;height:9px;border-radius:50%;
+  border:1px solid var(--spine); background:var(--ground);
+  display:flex;align-items:center;justify-content:center;
+}
+.node.has-death{border-color:var(--blood);background:var(--blood)}
+.node .d{display:none}
+.nr-t{display:flex;flex-direction:column;gap:1px;min-width:0;flex:1}
+.nr-num{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.14em;color:var(--faint)}
+.nr-title{
+  font-family:var(--f-disp);font-size:13px;font-weight:600;line-height:1.28;
+  color:var(--ink-2);letter-spacing:.005em;
+}
+.nr-date{font-family:var(--f-mono);font-size:9.5px;color:var(--faint);letter-spacing:.05em}
+.navrow[aria-current="true"] .nr-title{color:var(--amber)}
+.navrow[aria-current="true"] .node{border-color:var(--amber);box-shadow:0 0 0 3px color-mix(in srgb,var(--amber) 22%,transparent)}
+.navrow.pinned{margin-top:12px;border-top:1px solid var(--rule-soft);padding-top:13px}
+.navrow.pinned .node{display:none}
+
+/* ---------- reading column ---------- */
+.read{padding:34px clamp(18px,4vw,56px) 90px;min-width:0;
+  display:flex;flex-direction:column;align-items:center}
+.read > *{width:100%;max-width:var(--measure)}
+.ch[hidden]{display:none}
+.ch-h{margin-bottom:26px}
+.eyebrow{
+  font-family:var(--f-mono);font-size:10.5px;letter-spacing:.16em;text-transform:uppercase;
+  color:var(--amber);margin:0 0 12px;
+}
+.eyebrow .sep{color:var(--faint);padding:0 4px}
+.ch-h h2{
+  font-family:var(--f-disp);font-weight:700;font-size:clamp(28px,4.2vw,42px);
+  line-height:1.08;margin:0;letter-spacing:-.012em;text-wrap:balance;max-width:18ch;
+}
+.tags{display:flex;flex-wrap:wrap;gap:6px;margin:16px 0 0}
+.tag{
+  font-family:var(--f-mono);font-size:9.5px;letter-spacing:.1em;text-transform:uppercase;
+  padding:3px 7px;border:1px solid var(--rule);border-radius:2px;color:var(--muted);
+}
+.tag.t-deaths,.tag.t-count{border-color:var(--blood);color:var(--blood)}
+.tag.t-count{background:color-mix(in srgb,var(--blood) 10%,transparent)}
+
+/* the ledger is reference tables, not prose — give it room */
+.read > .ch[data-n="16"]{max-width:900px}
+.ch[data-n="16"] .prose{max-width:none}
+.ch[data-n="16"] .prose p{max-width:var(--measure)}
+
+.prose{max-width:var(--measure)}
+.prose p{margin:0 0 1.15em;color:var(--ink-2)}
+.prose p:first-of-type::first-letter{
+  font-family:var(--f-disp);font-weight:700;font-size:3.05em;line-height:.82;
+  float:left;padding:.06em .09em 0 0;color:var(--amber);
+}
+.prose strong{color:var(--ink);font-weight:600}
+.prose em{color:var(--ink)}
+.prose h3{
+  font-family:var(--f-disp);font-size:13px;font-weight:600;letter-spacing:.13em;
+  text-transform:uppercase;color:var(--amber);margin:2.2em 0 .9em;
+}
+.prose code{
+  font-family:var(--f-mono);font-size:.88em;background:var(--surface);
+  padding:1px 5px;border-radius:2px;color:var(--ink);
+}
+.rule{border:0;border-top:1px solid var(--rule);margin:2.4em 0;width:78px}
+blockquote{
+  margin:1.6em 0;padding:14px 20px;background:var(--surface);
+  border-left:2px solid var(--amber-soft);font-style:italic;color:var(--ink-2);
+}
+blockquote em{font-style:normal}
+
+/* transcript blocks — rare now, so they carry weight */
+.log{
+  margin:1.9em 0;padding:15px 0 15px 22px;border-left:2px solid var(--amber);
+  display:flex;flex-direction:column;gap:5px;
+}
+.log .ln{
+  font-family:var(--f-mono);font-size:14.5px;line-height:1.5;color:var(--ink);
+  letter-spacing:-.005em;
+}
+
+/* tables (the ledger) */
+.tw{overflow-x:auto;margin:1.7em 0;border:1px solid var(--rule);border-radius:2px}
+table{border-collapse:collapse;width:100%;font-family:var(--f-mono);font-size:12.5px}
+th,td{padding:9px 12px;text-align:left;border-bottom:1px solid var(--rule-soft);vertical-align:top}
+thead th{
+  background:var(--surface);font-size:9.5px;letter-spacing:.12em;text-transform:uppercase;
+  color:var(--faint);font-weight:500;white-space:nowrap;
+}
+tbody tr:last-child td{border-bottom:0}
+td{color:var(--ink-2);font-variant-numeric:tabular-nums}
+td strong{color:var(--ink)}
+.prose .tw table code{background:none;padding:0}
+
+/* ---------- pager ---------- */
+.pager{
+  display:flex;gap:12px;justify-content:space-between;margin-top:56px;
+  border-top:1px solid var(--rule);padding-top:20px;max-width:var(--measure);
+}
+.pg{
+  flex:1;min-width:0;background:none;border:1px solid var(--rule);border-radius:2px;
+  padding:12px 14px;cursor:pointer;color:inherit;text-align:left;
+  display:flex;flex-direction:column;gap:4px;
+}
+.pg:hover:not(:disabled){border-color:var(--amber);background:var(--surface)}
+.pg:disabled{opacity:.3;cursor:default}
+.pg .k{font-family:var(--f-mono);font-size:9.5px;letter-spacing:.14em;text-transform:uppercase;color:var(--faint)}
+.pg .v{font-family:var(--f-disp);font-size:13.5px;font-weight:600;line-height:1.3;color:var(--ink-2)}
+.pg.next{text-align:right;align-items:flex-end}
+
+.empty{padding:40px 0;color:var(--muted);font-family:var(--f-mono);font-size:13px;max-width:var(--measure)}
+.empty b{color:var(--ink);font-weight:500}
+
+/* ---------- mobile ---------- */
+.sidetoggle{display:none}
+@media (max-width:900px){
+  .shell{grid-template-columns:1fr}
+  .side{
+    position:static;max-height:none;border-right:0;border-bottom:1px solid var(--rule);
+    padding:16px clamp(18px,4vw,44px) 22px;
+  }
+  .side[data-open="false"] .sidebody{display:none}
+  .sidetoggle{
+    display:flex;align-items:center;gap:8px;width:100%;background:none;border:1px solid var(--rule);
+    border-radius:2px;padding:10px 12px;cursor:pointer;color:var(--ink);
+    font-family:var(--f-mono);font-size:11px;letter-spacing:.12em;text-transform:uppercase;
+  }
+  .sidetoggle .caret{margin-left:auto;color:var(--faint)}
+  .sidebody{margin-top:16px}
+  .read{padding-top:26px}
+  .prose p:first-of-type::first-letter{font-size:2.6em}
+}
+@media (min-width:901px){.sidebody{display:block!important}}
+</style>
+
+<header class="mast">
+  <div class="mast-in">
+    <div class="brand">
+      <h1>Swet</h1>
+      <p class="sub">A chronicle of Knox County, Kentucky · 14–31 August 2026</p>
+    </div>
+    <div class="mast-stats">
+      <div><b>3</b><span>Survivors</span></div>
+      <div class="is-death"><b>13</b><span>Casualties</span></div>
+      <div><b>18</b><span>Days</span></div>
+      <div><b>6,279</b><span>Messages</span></div>
+      <div><b>0</b><span>Stacey deaths</span></div>
+    </div>
+  </div>
+</header>
+
+<div class="shell">
+  <aside class="side" data-open="false">
+    <button class="sidetoggle" id="sideToggle" aria-expanded="false">
+      <span>Contents &amp; filters</span><span class="caret" id="caret">▾</span>
+    </button>
+    <div class="sidebody" id="sidebody">
+      <div class="fgroup">
+        <h2>Survivors</h2>
+        <div class="chips" id="whoChips">
+          <button class="chip" data-f="who" data-v="stacey" aria-pressed="false">stacey</button>
+          <button class="chip" data-f="who" data-v="senpai" aria-pressed="false">senpai</button>
+          <button class="chip" data-f="who" data-v="frank" aria-pressed="false">frank</button>
+        </div>
+      </div>
+      <div class="fgroup">
+        <h2>Threads</h2>
+        <div class="chips" id="thChips">
+          <button class="chip is-blood" data-f="th" data-v="deaths" aria-pressed="false">Deaths</button>
+          <button class="chip" data-f="th" data-v="roofs" aria-pressed="false">Roofs</button>
+          <button class="chip" data-f="th" data-v="bombs" aria-pressed="false">Bombs</button>
+          <button class="chip" data-f="th" data-v="building" aria-pressed="false">Building</button>
+          <button class="chip" data-f="th" data-v="journal" aria-pressed="false">Journal</button>
+          <button class="chip" data-f="th" data-v="driving" aria-pressed="false">Driving</button>
+        </div>
+        <button class="clearbtn" id="clearBtn" hidden>Clear filters</button>
+      </div>
+      <p class="count" id="countLine">15 chapters</p>
+      <nav class="spine" id="spine" aria-label="Chapters">
+        <button class="navrow" data-n="1" data-who="senpai stacey" data-threads="deaths"><span class="node"></span><span class="nr-t"><span class="nr-num">I</span><span class="nr-title">The Bar North of the Driving School</span><span class="nr-date">Aug 14, 2026</span></span></button>
+<button class="navrow" data-n="2" data-who="stacey senpai" data-threads="deaths"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">II</span><span class="nr-title">What Dragoș Found</span><span class="nr-date">Aug 14-15, 2026</span></span></button>
+<button class="navrow" data-n="3" data-who="frank stacey" data-threads="deaths"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">III</span><span class="nr-title">Frank Arrives</span><span class="nr-date">Aug 15, 2026</span></span></button>
+<button class="navrow" data-n="4" data-who="senpai stacey" data-threads="deaths roofs"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">IV</span><span class="nr-title">The Dryer</span><span class="nr-date">Aug 16, 2026</span></span></button>
+<button class="navrow" data-n="5" data-who="frank senpai stacey" data-threads="roofs"><span class="node"></span><span class="nr-t"><span class="nr-num">V</span><span class="nr-title">Handrails</span><span class="nr-date">Aug 17, 2026</span></span></button>
+<button class="navrow" data-n="6" data-who="senpai stacey frank" data-threads="journal"><span class="node"></span><span class="nr-t"><span class="nr-num">VI</span><span class="nr-title">Write Often</span><span class="nr-date">Aug 17, 2026</span></span></button>
+<button class="navrow" data-n="7" data-who="frank senpai stacey" data-threads="driving"><span class="node"></span><span class="nr-t"><span class="nr-num">VII</span><span class="nr-title">The Convoy</span><span class="nr-date">Aug 19, 2026</span></span></button>
+<button class="navrow" data-n="8" data-who="stacey senpai frank" data-threads="building"><span class="node"></span><span class="nr-t"><span class="nr-num">VIII</span><span class="nr-title">Three Trades</span><span class="nr-date">Aug 20-24, 2026</span></span></button>
+<button class="navrow" data-n="9" data-who="frank stacey" data-threads="deaths"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">IX</span><span class="nr-title">The Trailer</span><span class="nr-date">Aug 21, 2026</span></span></button>
+<button class="navrow" data-n="10" data-who="frank stacey senpai" data-threads="deaths bombs"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">X</span><span class="nr-title">Bomb Time</span><span class="nr-date">Aug 25-26, 2026</span></span></button>
+<button class="navrow" data-n="11" data-who="stacey senpai" data-threads="building"><span class="node"></span><span class="nr-t"><span class="nr-num">XI</span><span class="nr-title">The Forge</span><span class="nr-date">Aug 22-29, 2026</span></span></button>
+<button class="navrow" data-n="12" data-who="senpai stacey" data-threads="deaths roofs"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">XII</span><span class="nr-title">No Wall</span><span class="nr-date">Aug 27, 2026</span></span></button>
+<button class="navrow" data-n="13" data-who="senpai frank stacey" data-threads="deaths"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">XIII</span><span class="nr-title">Sixty Seconds</span><span class="nr-date">Aug 27-28, 2026</span></span></button>
+<button class="navrow" data-n="14" data-who="senpai frank stacey" data-threads="building"><span class="node"></span><span class="nr-t"><span class="nr-num">XIV</span><span class="nr-title">This Is Fine</span><span class="nr-date">Aug 29, 2026</span></span></button>
+<button class="navrow" data-n="15" data-who="senpai stacey frank" data-threads="deaths"><span class="node has-death"></span><span class="nr-t"><span class="nr-num">XV</span><span class="nr-title">Christmas Eve</span><span class="nr-date">Aug 31, 2026</span></span></button>
+<button class="navrow pinned" data-n="16" data-who="frank senpai stacey" data-threads=""><span class="node"></span><span class="nr-t"><span class="nr-num">—</span><span class="nr-title">The Ledger</span><span class="nr-date">Aug 14-31, 2026</span></span></button>
+      </nav>
+    </div>
+  </aside>
+
+  <main class="read" id="read">
+    <article class="ch" id="ch1" data-n="1"><header class="ch-h"><p class="eyebrow">Chapter I <span class="sep">/</span> Aug 14, 2026</p><h2>The Bar North of the Driving School</h2><p class="tags"><span class="tag t-deaths">deaths</span></p></header><div class="prose"><p>Before any of this, the game tells you how it ends.</p>
+<p>Every character in Project Zomboid opens the same way — a black screen and three sentences:</p>
+<blockquote><em>These are the end times. There was no hope of survival. This is how you died.</em></blockquote>
+<p>Not <em>might have</em>. Not <em>could</em>. <strong>Did.</strong> The game is not offering a challenge; it is handing you a document that has already been written and inviting you to supply the details. Thirteen people supplied the details over the following eighteen days, and this is what they wrote.</p>
+<p>It is July of 1993. The place is Knox County, Kentucky — a real county on the map with the serial numbers filed off — and on the sixth of that month the military drew a line around Muldraugh, West Point, Brandenburg and Fort Knox itself and called the inside of it the Exclusion Zone. Inside the line is the Knox Infection. Outside it, for about a week, is the belief that the line will hold.</p>
+<p>It does not hold. That part is also already written.</p>
+<p>None of the three people in this record are told any of that. They are inside the line, and the line is a rumour, and the radio has begun to repeat itself.</p>
+<hr class="rule">
+<p>The first thing that happens in the record is that a woman shouts into fog at nobody.</p>
+<div class="log"><span class="ln">OVER HERE!</span></div>
+<p>It is nine in the morning in Rosewood, Kentucky, and she has been awake for hours. Her name is Stacey. She has a fire axe, a fanny pack, a second fanny pack, and a mental index of every painkiller in a four-house radius. She is not shouting at her friend. She is shouting at the dead, because the dead come toward noise, and coming toward noise is the only predictable thing they do.</p>
+<p>Somewhere south of her, a man is walking through the same fog looking for his own corpse.</p>
+<p>He does not remember where he left it. This is the problem, and Stacey — who has been awake long enough to have opinions — points out that by now it has almost certainly stopped lying down and started walking. He agrees that this is likely. He cannot narrow it down beyond <em>a bar, north of the driving school</em>, and there are several bars.</p>
+<p>That is senpai, and the body belongs to Mateo, who was him until two days ago.</p>
+<p>He finds it in five minutes.</p>
+<div class="log"><span class="ln">swet found</span></div>
+<p>Nobody remarks on this. Nobody asks what happened or whether he&#x27;s all right. Stacey has already moved on to the contents of the kitchen, where there is a medical bag, and she wants him to know he can take from it without equipping it first.</p>
+<p>This is how they talk. It is less a dialect than a compression algorithm, and it contains three dialects inside it. <em>Swet</em> means good, yes, understood, thank you, received — and it is conjugated by identity. Stacey types it with one T. Senpai types it with two. The third man, when he arrives, will type it with three, because Frank has never in his life been merely satisfied.</p>
+<p>You can identify any speaker in the entire archive by counting the T&#x27;s. It is more reliable than the usernames.</p>
+<hr class="rule">
+<p>By ten Stacey has located and announced the position of the medical bag, the painkillers, the sleeping pills in the <em>other</em> nightstand, a suture needle, a spare flashlight, four fire axes, a pistol, and the fanny pack — which she is at pains to explain can be doubled, one front and one back.</p>
+<p>Senpai cannot sleep. Not <em>chooses not to</em> — cannot. He takes painkillers and lies down and the game will not let him rest. He gets up. He lies down again. Stacey suggests sleeping pills, which work, and he is under for perhaps ten seconds before something wakes him and she discovers that watching him try has cost her her own window.</p>
+<div class="log"><span class="ln">lool now i cant</span></div>
+<p>So they lie in adjacent beds in a dead woman&#x27;s house, two grown men unable to sleep, waiting for six in the morning — because at six in the morning a television station that no longer employs anybody will broadcast a home-improvement program, and if they watch it they will get better at carpentry.</p>
+<p>The channel is called Life and Living, and it is the most quietly horrifying object in the game. Somewhere outside the cordon, before everything stopped, a broadcaster queued up nine days of daytime programming — cookery, woodwork, fishing, gardening — and then the people who made it stopped existing, and the tapes kept rolling on schedule into a county with nobody left to watch them. It runs at midnight, six, noon and six for nine days. On the tenth it stops forever.</p>
+<p>Stacey has set an alarm for ten to six. She has, in fact, memorized the whole schedule, and she believes the channel dies around the seventeenth or eighteenth.</p>
+<p>That casual aside dates the entire run. If the broadcasts end on the seventeenth, then day one was the ninth of July — the canonical first day of the Knox Event, the morning the world in this game officially begins. She did not look that up. She just knew when the television stopped.</p>
+<p>Outside, in the fog, something walks past the window and does not come in.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch2" data-n="2" hidden><header class="ch-h"><p class="eyebrow">Chapter II <span class="sep">/</span> Aug 14-15, 2026</p><h2>What Dragoș Found</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-count">1 death</span></p></header><div class="prose"><p>Before Mateo there was Dragoș.</p>
+<p>Dragoș died at a farmhouse on the edge of town, before the record begins, and nobody went to get him. His body stayed out in the field for days, standing up eventually, the way they do, walking a slow circle in the grass between the pig pens.</p>
+<p>On the afternoon of the fifteenth Stacey drove out that way hunting skill magazines, and she found the farmhouse, and she reported back in the tone of a woman mentioning she&#x27;d stopped for gas.</p>
+<div class="log"><span class="ln">i found the farmhouse you went to</span><span class="ln">killed DRAGOS</span></div>
+<p>She killed him. She put an axe through the head of her friend&#x27;s previous self in a field in Kentucky, came home, and did not raise it again for four hours — at which point she raised it as a real-estate tip, noting that there were pigs near the spot where he&#x27;d met his untimely end, and a chicken coop, though no chickens she could see.</p>
+<p>And here senpai says the thing that has stayed with me longer than any of the deaths.</p>
+<div class="log"><span class="ln">dragos wandered a lot aimlessly at the beginning</span><span class="ln">didnt know he found a goldmine</span></div>
+<p>Dragoș had wandered. That was all he did. He was the first one, before anybody knew anything, and he walked in whatever direction the map allowed until he stopped walking. And where he happened to stop, entirely by accident, was the best piece of real estate in Rosewood — three pigs, a chicken coop, water troughs holding a hundred and fifty thousand milliliters apiece, an infinite renewable supply of everything a person needs to get through a winter.</p>
+<p>He died there without ever knowing what he was standing on. It took his friends killing his corpse to find out.</p>
+<p>And when senpai described the moment it happened, what he chose to report was not the loss of eleven days&#x27; progress. It was that the thing had made him jump.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch3" data-n="3" hidden><header class="ch-h"><p class="eyebrow">Chapter III <span class="sep">/</span> Aug 15, 2026</p><h2>Frank Arrives</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-count">3 deaths</span></p></header><div class="prose"><p>Frank joins the server at 10:26 in the morning on August 15 and is dead by 10:40.</p>
+<p>He types <code>swet</code> on arrival — one T, an anomaly, possibly nerves — and goes to check the back of a building. What follows is four lines long and constitutes the entire battlefield report:</p>
+<div class="log"><span class="ln">back should be clear</span><span class="ln">not</span><span class="ln">side clear?</span><span class="ln">nothing clear</span></div>
+<p>Nothing clear. Stacey is somewhere Frank can&#x27;t see; Frank is somewhere Stacey can&#x27;t see; the fog is doing what fog does. He is standing in the open beside a Gigamart with a hatchet he does not yet know how to swing.</p>
+<div class="log"><span class="ln">got scratched lol</span></div>
+<p>Eleven seconds later:</p>
+<div class="log"><span class="ln">i&#x27;m dead</span></div>
+<p>Stacey, who has been at this for weeks and knows the arithmetic, tries to talk him down.</p>
+<div class="log"><span class="ln">cratcj 5percent</span></div>
+<p>She is wrong, and generously so — a scratch carries about seven percent, not five. But the number hardly matters, because the Knox Infection prices its three doorways very differently. A scratch is seven percent. A laceration is twenty-five. And a bite is a hundred, every time, with no saving throw and no cure and about three days between the wound and the end of you.</p>
+<p>Frank corrects the record.</p>
+<div class="log"><span class="ln">bite</span><span class="ln">ow</span></div>
+<p><em>Ow.</em> That is the eulogy. The entire eulogy. Eleven minutes into Frank&#x27;s participation in this world his friend types the word <em>ow</em>, and they move on.</p>
+<p>He makes another character. He is dead again in thirteen minutes — three in-game hours, not one full morning — and it is here that he arrives at the theory that will define him for the next sixteen days.</p>
+<div class="log"><span class="ln">will have to create non admin char, must be messing up game</span></div>
+<p>Frank owns the server. He pays for it, restarts it, tunes it, apologizes when he sleeps in and it goes down. And Frank, having died twice in fourteen minutes, has concluded that the problem is his <em>administrator privileges</em> — that the flags on his account are corrupting the physics of Knox County. He proposes a control group.</p>
+<p>Stacey&#x27;s reply is nine characters long and it is the best line anyone types in eighteen days.</p>
+<div class="log"><span class="ln">o ja prob</span></div>
+<p>Yeah. That&#x27;s probably it, buddy.</p>
+<p>Three hours later he returns with his third character of the day and loads into a bedroom containing an unknown number of dead people.</p>
+<div class="log"><span class="ln">spawned in a room with many z lol</span></div>
+<p>Zero hours survived. Three characters, thirty-nine in-game hours between them, one afternoon.</p>
+<p>That night, in the channel where they talk when they aren&#x27;t in Kentucky, Frank does something he will do exactly once: he asks for help. He wants to know whether you push them down first or just start swinging, because he has now died several times to a missed swing and he suspects he is doing it wrong. Stacey answers seriously and at length — push, stomp, keep backing up, and don&#x27;t fight at all when you&#x27;re tired.</p>
+<p>Frank takes it in, thanks her, and then, unable to help himself, posts a GIF of Joaquin Phoenix captioned <em>Felt Wrong Not To Swing.</em></p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch4" data-n="4" hidden><header class="ch-h"><p class="eyebrow">Chapter IV <span class="sep">/</span> Aug 16, 2026</p><h2>The Dryer</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-roofs">roofs</span><span class="tag t-count">1 death</span></p></header><div class="prose"><p>On the afternoon of August 16, Stacey looked up from her inventory and saw, through the wall of the house, her friend walking into a rain barrel. Then walking into it again. Then again.</p>
+<p>She asked what he was doing. He said he was building a roof, which was plausible — he was the carpenter and he was always building a roof. But there was a detail she could not get past, and after a moment she asked about that instead.</p>
+<div class="log"><span class="ln">y naked</span><span class="ln">testing dryer speed</span></div>
+<p>He was naked because he was running an experiment.</p>
+<p>He had put every article of clothing he owned into a tumble dryer, in a house with no power, running off a generator he had wired himself, in order to establish empirically whether machine drying beat wringing garments out by hand. And rather than stand there watching a dial he had gone up onto the roof to keep working, because there was no sense wasting the time.</p>
+<p>Three minutes later the data came in. The dryer, he announced, was completely useless.</p>
+<p>Three minutes after that, in the middle of a conversation about where the empty water bottles had got to:</p>
+<div class="log"><span class="ln">wat the i fell lol</span><span class="ln">terminal dmg</span></div>
+<p>Two hundred and seventy hours. Eleven in-game days of survival, ended by gravity, on a roof, with no clothes on, in the immediate aftermath of a successful appliance benchmark.</p>
+<p>Stacey ran to him. It is the only place in the whole archive where you can see her move fast: she heard a groan, found him on the ground, and got there with the medical kit too late.</p>
+<p>The autopsy came out that evening, and it was worse than falling off the edge. He hadn&#x27;t slipped. He had <em>finished</em> — done for the day, walking back toward the stairs — and he had missed the stair tile by one square.</p>
+<p>And then, because he could not accept it, senpai raised an objection that has since hardened into doctrine.</p>
+<div class="log"><span class="ln">mxcn roofers dont fall</span></div>
+<p>Stacey agreed. From one storey. Dead. It couldn&#x27;t be.</p>
+<p>Frank said nothing at all for four hours. Then, at ten to eleven that night, having clearly spent the evening on it, he posted a single video link with no comment attached: <em>Roofer Falls Off Roof While Fighting.</em></p>
+<p><code>lmao</code>, said Stacey, the next morning.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch5" data-n="5" hidden><header class="ch-h"><p class="eyebrow">Chapter V <span class="sep">/</span> Aug 17, 2026</p><h2>Handrails</h2><p class="tags"><span class="tag t-roofs">roofs</span></p></header><div class="prose"><p>The day after, senpai asked the group what he ought to build next. He had a new character, no levels, and a house that still needed work.</p>
+<p>Frank answered immediately. It is the only piece of structural engineering advice he gives in eighteen days, and it is correct:</p>
+<div class="log"><span class="ln">Handrails 🤣</span><span class="ln">lolol had thought about that but too scared to go back up there</span></div>
+<p>He never built them.</p>
+<p>Ten days later — after the move, after the forge, after the bombs, after everything — another of his men will go off a different roof in a different town and die instantly, and the last safety modification proposed for either structure will remain a suggestion typed with a laughing emoji on August 17.</p>
+<hr class="rule">
+<p>There is one more thing from that week worth setting down, because it explains a great deal about how these three approach a problem.</p>
+<p>Frank had built his character like a man optimizing a spreadsheet: <strong>smoker</strong>, taken for the points it refunded; <strong>fast reader</strong>, to level quicker; <strong>cat eye</strong>, to see in the dark. Aggressive, efficient, and immediately regretted — he spent the following week complaining that Kentucky in the nineteen-nineties contained no cigarettes anywhere, which he considered a failure of period accuracy, since he expected a cigarette in every desk. He eventually tore the trait out altogether and lost his night vision with it, having decided the addiction cost more than the sight was worth.</p>
+<p>Stacey took <strong>slow reader</strong>.</p>
+<div class="log"><span class="ln">i took slow reader as HAX</span><span class="ln">free pts</span></div>
+<p>She took a penalty purely to farm the character points it paid out. And when Frank offered to fix it at the server level — to simply turn reading speed up for everybody and remove the cost — she declined.</p>
+<div class="log"><span class="ln">no thats fine</span><span class="ln">i like it to take a bit</span></div>
+<p>Frank adjusted it twice anyway and got it wrong both times, overshooting on the second attempt into a setting he described as <em>too fast</em>.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch6" data-n="6" hidden><header class="ch-h"><p class="eyebrow">Chapter VI <span class="sep">/</span> Aug 17, 2026</p><h2>Write Often</h2><p class="tags"><span class="tag t-journal">journal</span></p></header><div class="prose"><p>On August 17 the server stopped letting senpai in.</p>
+<p>He investigated the way he investigates everything, which is thoroughly and out loud, and found that a mod had updated itself overnight without asking. It was called Skill Journal. He read the description and pasted it in:</p>
+<blockquote><em>Craft the Skill Journal from a notebook, glue, leather strips and thread. &quot;Record skills&quot; writes your current XP, learned recipes, reading progress and zombie kill count into the book. &quot;Recover skills&quot; reads it back on your next character. Anything you earned after the last entry is gone. Write often.</em></blockquote>
+<p>Mechanically it is a save file with a leather cover. It exists so that when you die you do not lose two weeks of grinding. There is nothing sentimental in it whatsoever. It is a spreadsheet you carry in a bag.</p>
+<p>It is also, if you hold it at the right angle, the only argument anyone in Knox County ever makes against the black screen at the start.</p>
+<p><em>There was no hope of survival.</em> Fine — granted, stipulated, the game is not lying. But the journal is a bet that survival is not the only thing that can carry forward. What the book preserves is not the man. It is what the man learned: the recipes, the reading, the number of them he put down. He dies on schedule, exactly as promised. His carpentry does not.</p>
+<p>Stacey looked at it for about ninety seconds and worked all of that out.</p>
+<div class="log"><span class="ln">can maybe record while dying</span><span class="ln">while bleeding out</span><span class="ln">maybe mateo wouldnt have had enough time</span><span class="ln">maybe written with blood</span></div>
+<p>From that hour the journal was a religion.</p>
+<p>Not a mechanic — a <em>bit</em>, sustained for two solid weeks by three men who never once acknowledged they were doing it. Senpai&#x27;s new character was named Rafa, and Rafa wrote in his journal before every dangerous act, and then before every mildly dangerous act, and then simply constantly: before climbing onto the roof, every twelve hours as a standing rule, and — eventually — every single time he got into a vehicle.</p>
+<p>Asked why a car warranted an entry, he explained his reasoning.</p>
+<div class="log"><span class="ln">never know when a deer has my number</span></div>
+<p>There was also the matter of the noise it made. Writing an entry produced a soft rhythmic sound, and Frank, standing out in the yard while senpai wrote indoors, described it as <em>a dog sniffing in your ear.</em></p>
+<p>Frank&#x27;s own relationship with the journal was different. Frank&#x27;s relationship with the journal was that he kept losing it — first into a leather van, then into a bookcase in an office, and finally, ten days later and plaintively, at seven in the morning:</p>
+<div class="log"><span class="ln">where my journal</span><span class="ln">in your room</span><span class="ln">with zombie</span></div>
+<p>There is a zombie in Frank&#x27;s bedroom standing over Frank&#x27;s diary. Nobody addresses this for twenty minutes.</p>
+<hr class="rule">
+<p>One more thing about Rafa, and then we&#x27;ll move.</p>
+<p>Somewhere in his first days he walked out to the field where Mateo had come down — where the body still lay, or lay near enough — and he took the ID card off it, and put it in his pocket, and carried it for the rest of his life. Eight hundred and eighty-five hours. Thirty-seven in-game days.</p>
+<p>Nobody asked him to. It confers no bonus. It weighs something.</p>
+<p>He never took it out again. When Rafa died, it was still in there.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch7" data-n="7" hidden><header class="ch-h"><p class="eyebrow">Chapter VII <span class="sep">/</span> Aug 19, 2026</p><h2>The Convoy</h2><p class="tags"><span class="tag t-driving">driving</span></p></header><div class="prose"><p>By the nineteenth they had drunk Rosewood dry and it was time to go north.</p>
+<p>Which is, though nobody in the convoy says so, the direction everyone went.</p>
+<p>When the cordon broke, the military fell back north, and the infection went with them — out past the fence, into Louisville, and from Louisville into Cincinnati and Columbus and then, within a fortnight, into cities on the other side of the planet. The road these three are about to drive is the evacuation route. They are five weeks late for it, in four trucks and a hitch trailer, carrying a weight bench.</p>
+<p>There had already been one reminder that the world outside was still nominally interested in them. Days earlier a helicopter had come over — the news chopper, or a military one, the game never says — and it had followed them for several in-game hours, and every zombie within earshot had walked toward the noise. Stacey&#x27;s report at the time was that every location she had painstakingly cleared was no longer clear. When senpai thought he heard rotors again the next day, her response was immediate and unhappy: <em>pls not again.</em> They had understood it to be a one-time event.</p>
+<p>Stacey had scouted the route three days earlier, driving the full ten real-world minutes of two-lane highway at what she described without irony as <em>sunday driver mode</em> — because the big trees on the shoulder don&#x27;t fade out the way buildings do, and you can be doing fifty into a wreck you cannot see. Then she went back out with a blowtorch and dismantled every wreck on that road, one at a time, until she ran out of propane a few hundred yards short of the town line. She also nearly hit a deer, and was outraged about it.</p>
+<p>Frank spent those days repairing vehicles and produced a shortlist with a screenshot attached. Senpai packed. Stacey loaded four trucks and a hitch trailer until the seats and glove boxes were full.</p>
+<p>And then, before they set off, Frank offered a prediction about himself.</p>
+<div class="log"><span class="ln">i&#x27;ll still find a way to crash</span></div>
+<p>Reader, he found a way.</p>
+<p>Over the following twelve days Frank drove into a tree at full speed and fractured his hand; fractured the same hand again the next day in a separate incident; and on the twenty-sixth crashed five vehicles in a single evening, a fact he volunteered only because it might explain why one of them had subsequently died in the road. He crashed five more times the following week.</p>
+<p>Senpai&#x27;s driving was not better, only differently bad. He hit a rabbit hard enough that half a metal shelving unit flew out of his open trailer and landed in the middle of the highway, where Stacey found it the next day and could not stop laughing. And on the ice, a week later, in a sentence that arrives with no setup at all:</p>
+<div class="log"><span class="ln">lol ja i sneezed and hit pole earlier</span></div>
+<p>Stacey hit a fence, needed a new windshield, and — separately — swung an axe at a sheep and was knocked flat by it.</p>
+<p>They reached Irvington in the late afternoon with everything they owned, and Irvington turned out to be enormous. Stacey had expected farmland. What she got was a city.</p>
+<p>They took a house on the outskirts with a garage and a loading bay and a floor plan that offended senpai personally — there was no route to the washing machine that didn&#x27;t go out the front door, which Frank attributed to regional architecture. It also had a basement, which Frank would not discover for five days.</p>
+<div class="log"><span class="ln">we have a basemen?</span><span class="ln">ja</span><span class="ln">ja</span><span class="ln">what</span></div>
+<p>Senpai looked at that house the way a man looks at a fixer-upper. Over the next twelve days he would gut it, extend it, roof it, wire it, and build a second storey onto it.</p>
+<p>It would kill him twice.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch8" data-n="8" hidden><header class="ch-h"><p class="eyebrow">Chapter VIII <span class="sep">/</span> Aug 20-24, 2026</p><h2>Three Trades</h2><p class="tags"><span class="tag t-building">building</span></p></header><div class="prose"><p>You can read all three of them out of the skill logs, which shouldn&#x27;t work, and does.</p>
+<h3>Stacey</h3>
+<p>She ends the run with four maxed skills — Cooking, Foraging, Butchering, Blacksmithing — and every one of them is about turning the world into supplies.</p>
+<p>She forages in the rain because the yield is better. She runs over a rabbit and butchers it in the road and gains two levels. She kills a cow and carries it home whole, which she mentions in passing and then reconsiders.</p>
+<div class="log"><span class="ln">lool oops</span><span class="ln">was carrying entire cow</span></div>
+<p>She finds wild mushrooms she cannot identify and runs the only test available to her: she cooks half of them, eats one, and reports the result.</p>
+<div class="log"><span class="ln">hope dont die!</span></div>
+<p>Four minutes later, she does not die, and the mushrooms go in the fridge for everybody.</p>
+<p>At Cooking 7 the game unlocks the ability to cook with rotten food, and Stacey — who has been composting spoiled produce for a week against precisely this eventuality — begins running a small restaurant out of a corpse-strewn farmhouse, turning a bin of rot into a salad she describes as coming out fresh.</p>
+<p>There is one line of hers I have not been able to shake. It concerns two pigs at a farm down the road, and it is reported with exactly the same evenness as everything else.</p>
+<div class="log"><span class="ln">butchered two pigs from farm nearby</span><span class="ln">right in front of the piglet</span><span class="ln">it wouldnt stop screaming afterwards</span></div>
+<p>Senpai&#x27;s entire response was a GIF of Ron Swanson&#x27;s ceiling bacon stash.</p>
+<h3>Senpai</h3>
+<p>He ends with Carpentry 10 and a house that has a floor he built.</p>
+<p>He is the builder, and he has the disease builders get. He wants a workshop. Then a kiln, so he needs clay. Then a forge extension off the garage, so he needs masonry. Then a roof over the storage area, so he needs logs — dozens of logs, then dozens more. And then, under the roof, he wants <em>better lighting</em>, which is what sends him to City Hall to loot a set of antique lamps.</p>
+<p>On the twenty-fourth he posts a colour-coded site plan: red for the loading and parking zone, dark blue for the warehouse, the remainder given over to crafting, with the whole thing possibly going multi-level. Frank reviews it like a zoning board and raises one objection, which is that he would prefer not to have to stack the vehicles.</p>
+<p>Somewhere in the middle of all this Stacey names the condition out loud — <em>it never ends, this crafting rabbit hole</em> — and senpai agrees, and neither of them stops.</p>
+<p>Early on he discovers you can read a skill book and watch an instructional VHS simultaneously, doubling the rate, and announces it with real joy:</p>
+<div class="log"><span class="ln">my brain is plugged into the matrix</span></div>
+<h3>Frank</h3>
+<p>He ends with Tailoring 10 and Carving 10 — the two most tedious skills in the game — because Frank does not really play Project Zomboid. Frank plays spreadsheet.</p>
+<div class="log"><span class="ln">spent all day picking twine from rags</span></div>
+<p>He found the loop and ran it for two real days: get to level one tailoring, gather rags, pick the rags for thread, weave the thread into cloth on a loom, sew the cloth into long johns, tear the long johns back into rags, repeat forever. Then he butchered the livestock Stacey had processed and made everybody jewellery out of the bones — a choker he claimed gave a hundred points of bite protection, and a pair of gloves — and left them in the fridge, where everything in this house ends up.</p>
+<p>They did not work. He got a severe scratch on his hand through the gloves and said so.</p>
+<p>And on the twenty-fifth, unprompted, Frank stated plainly what he actually wants out of a zombie apocalypse:</p>
+<div class="log"><span class="ln">this game amazing, but would probably be my favorite easily if it had community builder aspect, like people to do my weaving for me</span></div>
+<p><em>People to do my weaving for me.</em> The man is administrating a server, manufacturing explosives, and dying every four days, and his dream is middle management.</p>
+<p>When he can&#x27;t work something out he doesn&#x27;t consult a wiki. He consults Gemini — about plumbing a rain barrel into a washing machine, about where clay is found, about whether it&#x27;s more efficient to wash clothes by hand. He is not credulous about it, to his credit; asked about lighting, he relays the answer and immediately adds that he doesn&#x27;t trust it.</p>
+<p>Senpai asks an AI too, once, at the exact moment it matters most. On the morning of the twenty-seventh, standing at the base of a structure he is about to add a second storey to, he asks whether it needs a support system, and says he&#x27;d rather it didn&#x27;t collapse. Then, reassured:</p>
+<div class="log"><span class="ln">swet ai says no need to worry about load bearing</span></div>
+<p>Four hours later he will fall off that structure and die.</p>
+<p>Not because of load bearing.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch9" data-n="9" hidden><header class="ch-h"><p class="eyebrow">Chapter IX <span class="sep">/</span> Aug 21, 2026</p><h2>The Trailer</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-count">1 death</span></p></header><div class="prose"><p>Past the gas station, on the right, there is a trailer.</p>
+<p>Frank went into it at 10:26 on the morning of August 21 with four hundred and ninety hours behind him — his longest life to that point, nearly three weeks of survival, a mechanic&#x27;s levels, a truck idling outside with the engine running.</p>
+<p>There were three of them inside.</p>
+<div class="log"><span class="ln">there were 3z inside</span><span class="ln">my body still ded</span></div>
+<p>He described it that afternoon with a screenshot and no drama at all: instant death, more or less, and he thought he&#x27;d been killed in a single hit. Senpai&#x27;s first question was not what happened. It was whether the journal was current.</p>
+<p>It was. The religion works. Four hundred and ninety hours of carpentry and mechanics and reloading survived him in a notebook in a truck.</p>
+<p>But there is a detail in the first two minutes of Frank&#x27;s death worth putting on the record, because it is the most Frank thing in the entire archive. He is a corpse on the floor of a trailer. Stacey is driving into a horde to recover his belongings. And what he raises, three minutes in, is this:</p>
+<div class="log"><span class="ln">i left truck on, if you can turn off pls</span></div>
+<p>He is dead and he is worried about the battery.</p>
+<p>Stacey got everything. She drove in, pulled the horde off with the horn, went through his pockets and put the lot in the back of the white truck. Frank thanked her twice, in duplicate, because his client double-posts when he is excited.</p>
+<p>And then he came back, and the game rolled him a strength bonus and, at random, agoraphobia.</p>
+<div class="log"><span class="ln">came back as engi</span><span class="ln">with strong buff, but agoraphobic</span></div>
+<p>An engineer.</p>
+<p>Which means explosives.</p>
+<hr class="rule">
+<p>There is a line from two days earlier that reads differently once you know what&#x27;s coming. It is Frank, at twenty to nine in the evening, asking a logistical question about respawn points:</p>
+<div class="log"><span class="ln">Is there a way to spawn near you guys if i die tmrw</span></div>
+<p>Note the <em>tmrw</em>. Not <em>if I die</em> — <strong>if I die tomorrow.</strong> He was not asking a hypothetical. He was doing capacity planning.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch10" data-n="10" hidden><header class="ch-h"><p class="eyebrow">Chapter X <span class="sep">/</span> Aug 25-26, 2026</p><h2>Bomb Time</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-bombs">bombs</span><span class="tag t-count">1 death</span></p></header><div class="prose"><p>The shopping list starts on the twenty-first, and the politeness of it is what gets you.</p>
+<div class="log"><span class="ln">if fine, please bring home hair spray or insect repellant, pls</span><span class="ln">and sparklers</span><span class="ln">grab pipes if can, too, pls, for make bomb</span></div>
+<p>Foil. Cordless phones. Pagers. Television remotes. A motion sensor. All requested with <em>please</em>, over four days, from friends who were out looting for food.</p>
+<p>By midday on the twenty-fifth he had one built, with a remote detonator and an alarm clock for a timer, and he had a plan: gather a great many of them into one place, and then be somewhere else.</p>
+<div class="log"><span class="ln">bring them to me</span></div>
+<p>Senpai declined the invitation. Senpai had assessed the situation correctly and had somewhere else to be, and said so twice in case it hadn&#x27;t landed.</p>
+<p>So it was Stacey who went to fetch them. She found a mass near the storage units, got their attention, and drove. Frank was in position in a field with the trigger in his hand and reported, as they came into view, that they were faster than he&#x27;d expected.</p>
+<p>Then two minutes of nothing. Then:</p>
+<div class="log"><span class="ln">hm not working</span><span class="ln">rofl</span></div>
+<p>Seven hundred and nineteen hours. His longest life by half again. Gone in a field outside Irvington, surrounded by the dead his friend had driven to him at his own request.</p>
+<p>He worked out what had happened eight minutes later, and typed it, and it is the single greatest sentence in eighteen days of logs.</p>
+<div class="log"><span class="ln">i put the trigger in my hand, you&#x27;re supposed to right click it</span></div>
+<p>He held it. He held the detonator <em>and the bomb</em>, because they were the same object, because he had never done this before.</p>
+<p>Stacey drove past the crater a few minutes later and reported that his truck was absolutely surrounded — dozens of them — and Frank, dead, told her to leave it, he&#x27;d lure them off and sneak back in later.</p>
+<p>But here is the part that only surfaces that evening, and it recontextualizes the whole thing. He had made a run for the truck afterward, with about ten of them closing in, and he&#x27;d lasted longer than he expected to.</p>
+<div class="log"><span class="ln">Lolol i tried getting into the car, but I missed</span></div>
+<p>The bomb didn&#x27;t kill him.</p>
+<p>He detonated a pipe bomb in his own hand, <strong>survived it</strong>, ran for the door and died because he clicked one pixel wide of it. Stacey, who has clearly been there, said she hated that — feeling like you should be getting into the car and being a pixel off the angle.</p>
+<hr class="rule">
+<p>He learned nothing. That same night Stacey was already planning the sequel and had opinions about vehicle selection: everybody in sports cars this time, because they&#x27;d need to make quick turns.</p>
+<p>Round two went out the following afternoon. Frank brought escorts. Neither would touch the merchandise. He explained where the bombs were — a backpack in the living room, one pipe bomb and one detonator, link them, and bring the aerosol one as well — and got two refusals in a row.</p>
+<div class="log"><span class="ln">am leaving bombing to u guys</span><span class="ln">im not touching them</span><span class="ln">im gonna blow up just looking at them</span><span class="ln">aw man lol</span><span class="ln">ok i write journal</span></div>
+<p><em>Ok i write journal.</em> He has been blown up once. He has therefore accepted the sacrament.</p>
+<p>They drove out in three sports cars and could not find the horde. They found a smaller one instead, herded it into an intersection, and Frank set the charge and told everyone to hide when the noisemaker went off.</p>
+<p>Nothing happened. Or rather — something happened, silently and invisibly, in a way none of the three could confirm. Stacey thought she saw one go off, without audio. She saw them dying. Frank got no animation at all.</p>
+<p>Two days of collecting pipes and hairspray, one self-inflicted fatality, and the payoff was an explosion that made no sound and produced no light and killed an unknowable number of people who were already dead.</p>
+<p>Three days later, in the middle of an unrelated conversation:</p>
+<div class="log"><span class="ln">didnt realize i been sleeping in room with 2 aerosol bombs in nightstand</span></div>
+<hr class="rule"></div></article>
+<article class="ch" id="ch11" data-n="11" hidden><header class="ch-h"><p class="eyebrow">Chapter XI <span class="sep">/</span> Aug 22-29, 2026</p><h2>The Forge</h2><p class="tags"><span class="tag t-building">building</span></p></header><div class="prose"><p>Nobody asked for a forge.</p>
+<p>There was no forge shortage, no weapons crisis, no strategic gap a forge would close. Stacey simply decided, somewhere around the twenty-second of August, that the group was going to have a blacksmith&#x27;s forge — and then spent four days pursuing it down a chain of prerequisites that reads like a curse laid on a village.</p>
+<p>She lays it out herself, in six lines:</p>
+<div class="log"><span class="ln">need to craft large bellows tho</span><span class="ln">which needs leather</span><span class="ln">which needs a drying rack thing</span><span class="ln">which needs a fleshing tool</span></div>
+<p>And the leather takes seven in-game days to dry.</p>
+<p>Meanwhile senpai is downstream of her, trying to produce the wooden bucket the forge requires, and the game will not acknowledge that he is holding the parts — the recipe insists he has none of the two iron bands he is visibly carrying. For the pottery wheel he needs a large stone, and a large stone weighs forty pounds, which means dropping everything else he owns on the ground in order to pick it up. For the kiln he needs twenty clay. He has seventeen.</p>
+<p>Clay is foraged near water, and preferentially in the rain, and it has stopped raining — and Stacey, who spent five straight days complaining about the rain, is now incandescent that it&#x27;s gone.</p>
+<div class="log"><span class="ln">shouldve taken advantage of the last 5 DAYS!</span></div>
+<p>Somewhere in the middle of it she stops and says the truest thing anybody says about this hobby.</p>
+<div class="log"><span class="ln">i dont even know what im going to do with it</span><span class="ln">or how many more machines im going to need to build to make anything useful</span></div>
+<p>She finishes it on August 24, nine real days in, after five separate crafting stations.</p>
+<div class="log"><span class="ln">advanced forge COMPLETE</span><span class="ln">that took WAY too long</span></div>
+<p>And then the thing pays out, and it turns out Frank was right when he guessed: blacksmithing is completely broken.</p>
+<p>Blacksmithing 8 unlocks the sledgehammer — the most wanted object in the game, the one that turns walls into doorways, which senpai has been asking for since becoming a master carpenter incapable of making a hole in a wall. Stacey&#x27;s countdown on the morning of the twenty-seventh is the most excited anybody gets in eighteen days: <em>very SOON</em>, then <em>10min max</em>, then <em>coming UP</em>, and finally, with the thing in her hands:</p>
+<div class="log"><span class="ln">behold!</span></div>
+<p>At Blacksmithing 9 come machetes and longswords, at maximum damage and maximum condition, forged from scrap harvested off dismantled cars — which is to say, infinitely. Fifteen real-world minutes bought ten machetes, and she told the others to stop being precious about them, because they were effectively unlimited now.</p>
+<p>Stacey started this run by pointing out where the painkillers were.</p>
+<p>She ends it as an arms manufacturer with a production line, a rainwater system feeding four barrels into a plumbed industrial sink, a butcher&#x27;s hook behind the garage, a composter she cooks salads out of, a wood stove holding the house at seventy-five degrees, an animal processing operation, walls scrubbed with six bottles of bleach, and a bathroom of her own.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch12" data-n="12" hidden><header class="ch-h"><p class="eyebrow">Chapter XII <span class="sep">/</span> Aug 27, 2026</p><h2>No Wall</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-roofs">roofs</span><span class="tag t-count">1 death</span></p></header><div class="prose"><p>At 1:42 in the afternoon on August 27, Rafa was on the second storey he had built, trying to work out how to wrap the roof around the back of the house.</p>
+<p>He had nine planks on his back.</p>
+<div class="log"><span class="ln">rafa testing his limits</span></div>
+<p>Down in the yard Stacey stopped what she was doing and looked up, and then thought better of it and moved away.</p>
+<p>Because she had watched this once already. She had heard the groan and found the body on the ground and got there too late, in a different town, eleven days earlier.</p>
+<p>Up on the roof Rafa was being careful. He had a procedure now — an actual safety rule, arrived at the hard way, adopted after the last one went off a roof in Rosewood with no clothes on. The rule was: <em>hug the wall.</em> Stay against the structure. The wall keeps you.</p>
+<p>He hugged the wall.</p>
+<div class="log"><span class="ln">was trying to hug wall</span><span class="ln">no wall where i fell</span><span class="ln">rip rafa</span></div>
+<p>Eight hundred and eighty-five hours. Thirty-seven in-game days, the longest life any of senpai&#x27;s men ever held, ended by a ten-foot fall from a structure he had designed and built himself, at the one point along its edge where he had not yet installed the wall he was leaning on.</p>
+<p>The man who wrote in his journal <em>before going upstairs</em> died going upstairs.</p>
+<p>The investigation that evening is genuinely good detective work. Frank objected to the physics — a fall from ten feet shouldn&#x27;t be fatal — and senpai confirmed it had been instant, with no injury state at all, just dead. And then Stacey, who had been chewing on it for two hours, cracked it: she had seen people fall from much higher and live, but senpai was permanently hauling extreme loads around while building, and encumbrance eats your health.</p>
+<div class="log"><span class="ln">ja i had 9 planks on me lol</span></div>
+<p>Nine planks.</p>
+<p>He fell ten feet carrying nine planks, and the weight had already taken most of his health before he ever left the roof — and that is why he died, and it is <em>also</em> why the naked one died eleven days earlier, hauling lumber around a rooftop at four in the afternoon.</p>
+<p>The Carpenter curse, which an AI had named for them ten days before while inventing half the facts around it, turned out to be real, and turned out to be <em>carrying too much</em>.</p>
+<p>Stacey handled the funeral the way Stacey handles everything: she would sleep until morning and collect the body then, and he should make a new character while she did her workout.</p>
+<p>Six minutes of downtime. Then senpai came back with a new man and announced him with the confidence of somebody who has learned absolutely nothing.</p>
+<div class="log"><span class="ln">junji morimoto gonna finish that roof</span></div>
+<hr class="rule"></div></article>
+<article class="ch" id="ch13" data-n="13" hidden><header class="ch-h"><p class="eyebrow">Chapter XIII <span class="sep">/</span> Aug 27-28, 2026</p><h2>Sixty Seconds</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-count">2 deaths</span></p></header><div class="prose"><p>Junji Morimoto did not finish that roof.</p>
+<p>Junji Morimoto died at 6:25 that same evening, fifty-eight in-game hours after taking the name, somewhere inside the house he had promised to complete. Nobody was online. Nobody saw it. There is no chat around it at all — just a line in the server log, and, the next morning, a slowly dawning problem.</p>
+<p>Senpai wanted to know whether Junji had turned. Stacey asked where he&#x27;d died. Senpai thought by the loading bay. Stacey couldn&#x27;t see anything there. Senpai revised: possibly upstairs, he couldn&#x27;t remember now.</p>
+<p>They could not find him.</p>
+<p>Three men, in a house they had built with their own hands, spent the next several minutes shouting into it — <code>HEY!</code>, <code>OVER HERE!</code>, <code>HEY YOU!</code> — thirty-five times in two minutes, nearly a tenth of every shout in the entire eighteen-day archive, trying to bait a corpse into revealing itself.</p>
+<div class="log"><span class="ln">well, wheres the dang body!?</span></div>
+<p>They never found him.</p>
+<p>The explanation exists only because senpai confessed it three hours after the fact, alongside a screenshot, in the tone of a man reporting he&#x27;d left the oven on.</p>
+<div class="log"><span class="ln">lol i forgot to exit game</span><span class="ln">rip junji</span></div>
+<p>He had stood up from the desk. That&#x27;s all. He had walked away from the computer and left Junji Morimoto standing in a doorway in Kentucky, and something had wandered in, and by the time anybody looked at the screen again Junji had been dead for hours in a room nobody could identify.</p>
+<hr class="rule">
+<p>The next morning is the one I keep coming back to.</p>
+<p>At 9:46 senpai is choosing an occupation, and he is taking it seriously — weighing what the group actually needs, working around the fact that he has already maxed carpentry and shouldn&#x27;t waste the slot. He settles on DIY expert, so he can push masonry and max out maintenance. Frank agrees that maintenance would be big.</p>
+<p>At 9:49 he loads in, and says he hopes he doesn&#x27;t die this time.</p>
+<p>At 9:50 he announces the new man to his friends:</p>
+<div class="log"><span class="ln">marco bernal-casillas gonna fix up everything</span></div>
+<p>At 9:51:</p>
+<div class="log"><span class="ln">nvm</span></div>
+<p>Sixty seconds.</p>
+<p>Marco Bernal-Casillas existed for one minute. He was a DIY expert. He was going to fix up everything. The game dropped him into Rosewood — a town they had abandoned nine days earlier, an hour of highway from every friend he had — into a room with ten of them, and the complete surviving record of his life is a name, a mission statement, and the word <em>nvm</em>.</p>
+<p>Senpai&#x27;s own summary of his architectural career, delivered the following morning without a trace of self-pity:</p>
+<div class="log"><span class="ln">many lives lost building 2nd floor</span></div>
+<p>The second storey was finished. It was also, it turned out, unwalkable — the new boards rendered in the same shade as the boards below them, so that standing up there you genuinely could not tell where the floor ended and the drop began. Frank went up to look and could not distinguish the first storey from the second, and turned around and came back down.</p>
+<p>So the master carpenter completed his masterwork by refusing to use the movement keys at all. He clicked destination tiles with the mouse, one at a time, and let the game walk him — the way you would cross a minefield.</p>
+<p>And the following day, the final indignity:</p>
+<div class="log"><span class="ln">fog helped me figure out where floor ended lol</span></div>
+<p>He needed weather to see his own building.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch14" data-n="14" hidden><header class="ch-h"><p class="eyebrow">Chapter XIV <span class="sep">/</span> Aug 29, 2026</p><h2>This Is Fine</h2><p class="tags"><span class="tag t-building">building</span></p></header><div class="prose"><p>On the morning of August 29, senpai put a bowl of food in the microwave and burned down part of the kitchen.</p>
+<div class="log"><span class="ln">rofl microwave caught on fire</span><span class="ln">had to use extinguisher</span></div>
+<p>He reported the damage — a burnt-out counter, a burnt-out wall, no more microwave — and posted a picture of it. Frank opened the investigation immediately, because Frank has watched enough of these, and asked whether he&#x27;d put metal in. He had not. It was a bowl of food.</p>
+<p>Stacey arrived, surveyed the scene, and did not comment on the fire at all. What she said was that she never warms those bowls up, and that they were lucky Frank had turned fire spread off at the server level weeks earlier.</p>
+<div class="log"><span class="ln">forgot about that, would&#x27;ve pulled a frank</span><span class="ln">lol entire house wood</span><span class="ln">wouldve been amazing</span></div>
+<p><em>Would&#x27;ve pulled a frank.</em> He said it about himself, four days after the pipe bomb. It is a verb now and he has accepted it.</p>
+<p>And then Stacey — who has maxed four skills, forged the machetes, built the forge and scrubbed the walls with six bottles of bleach — quietly repaired the crime scene while the other two talked about it. She replaced the floor. She tried a basic wooden wall, decided it looked like poop, and put up a brick one instead. She moved three crates over to cover the seam. She installed a new mini fridge in the gap where the crates had been.</p>
+<div class="log"><span class="ln">itll be like it never happened!</span></div>
+<p>Total elapsed time: forty-eight minutes.</p>
+<p>Senpai&#x27;s entire contribution to the cleanup was a &quot;This Is Fine&quot; dog, captioned:</p>
+<div class="log"><span class="ln">me trying to have breakfast</span></div>
+<hr class="rule"></div></article>
+<article class="ch" id="ch15" data-n="15" hidden><header class="ch-h"><p class="eyebrow">Chapter XV <span class="sep">/</span> Aug 31, 2026</p><h2>Christmas Eve</h2><p class="tags"><span class="tag t-deaths">deaths</span><span class="tag t-count">1 death</span></p></header><div class="prose"><p>The last death in the archive is the only one anybody plans.</p>
+<p>It happens near the community college on the afternoon of August 31. He had nearly been caught there twice already that day and had said so out loud — two bites at the ankle that somehow left no damage state — and then he went back in, because there was a library on the second floor and the library had books they still needed.</p>
+<div class="log"><span class="ln">got bit</span><span class="ln">gonna head to safehouse and put stuff in locker</span></div>
+<p>There is no cure for a bite. Everyone knows this. So he did the arithmetic.</p>
+<p>He drove home. The drive was not good — he was bleeding, he was panicking, and by his own count he hit five trees and utility poles between the college and the house. He got there. He emptied his pockets into the lockers he had built with his own hands two days earlier: the machete, the guns, the maps, the books from the college library, all of it filed where the next man would find it. He wrote in the journal.</p>
+<p>And then he drove back out, because a body inside the base is a body you have to fight indoors.</p>
+<div class="log"><span class="ln">gonna die down the road from safehouse near hay building</span><span class="ln">k</span></div>
+<p><em>k.</em> A man announces the coordinates of his own death and Stacey says <em>k</em>, because Stacey is going to have to come and collect the body in the morning and it is genuinely useful to know where it will be.</p>
+<p>Then, waiting to die in a field:</p>
+<div class="log"><span class="ln">doing burpees while bleeding out</span></div>
+<p>He is doing calisthenics. He is bleeding out in a field outside Irvington on Christmas Eve and he is doing burpees, because Fitness XP is Fitness XP, and Frank had buffed exercise experience tenfold four days earlier, and the journal in his bag will carry every point of it forward to whoever comes next.</p>
+<p>It took a while. He said so.</p>
+<div class="log"><span class="ln">taking forever to die</span><span class="ln">walk through more bushes to get cuts</span></div>
+<p>Stacey, offering hospice care.</p>
+<hr class="rule">
+<p>The record ends that evening. In the game it is December 24th. The power has been out for two weeks, there is snow on the second storey senpai built, and it is snowing at fifty degrees Fahrenheit, which Frank has confirmed is a bug.</p>
+<p>Stacey is wearing a Santa jacket she has objections to. It is better than leather for the cold, which she concedes, but it is green.</p>
+<div class="log"><span class="ln">what kind of santa wear GREEN?</span></div>
+<p>Irvington is cleared. The base has a second storey, a forge, a warehouse, plumbing, floodlights, antique lamps from City Hall, lockers, and a mini fridge covering a burn mark. There is nothing left to be afraid of within a day&#x27;s drive.</p>
+<p>Which is a problem, and Stacey — who saw it coming a week out — is the one who raises it. They had cleared the town. They had just finished decking out the base. And you cannot simply move and leave it behind.</p>
+<p>They settle on Brandenburg, to the north, because of something Stacey found weeks ago on a paper flier in a dead man&#x27;s house and has not stopped thinking about since: a haunted sanatorium.</p>
+<p>They do not appear to know what Brandenburg is. Brandenburg is one of the four places the army named when it drew the line on the sixth of July — Muldraugh, West Point, Fort Knox, and Brandenburg. It is not a town they are driving <em>to</em>. It is a corner of the original cordon, one of the spots where somebody decided this far and no further, and was wrong.</p>
+<p>Beyond it is Louisville, which is where the line failed and the infection got out into the world, and which is the place all three of them have been idly describing as the eventual destination — the big city, the last one, the one you go to when you have run out of smaller places to be careful in. Frank&#x27;s stated ambition for Louisville has never been more specific than shooting things and blowing things up there.</p>
+<p>And then, that evening, having spent the whole afternoon alone on the highway clearing wrecks so the other two could drive it safely:</p>
+<div class="log"><span class="ln">then we all go die in haunted sanatorium</span><span class="ln">that will be our next base</span><span class="ln">lol no z can stop us</span><span class="ln">only ten z from all directions</span></div>
+<p><em>Then we all go die in haunted sanatorium.</em> / <em>That will be our next base.</em></p>
+<p>Both true. Both plans. The same plan.</p>
+<hr class="rule">
+<p>The last thing that happens in the game is Stacey giving driving directions, at length, to two men she knows perfectly well will not follow them. The road is clear, she says, up until the city sign — after that she doesn&#x27;t know. Go slow. The highway splits into two lanes with trees down the middle, and there are dead groups on the tarmac that might flip a car.</p>
+<div class="log"><span class="ln">def will hit at least 3 of the trees</span></div>
+<p>And the last thing in the record at all is posted three hours later by a man who has died six times, blown himself up, lost his glasses, lost his keyring, lost his journal, crashed five cars in one night, and diagnosed every one of his own deaths as a server fault:</p>
+<div class="log"><span class="ln">Swettt I&#x27;m still gonna get lost</span></div>
+<hr class="rule">
+<p>The game opened by telling them there was no hope of survival, and it was right, and it will go on being right: whoever is walking around in that house tonight will also die, and so will the one after him, and the record will keep a name and an hour for each of them.</p>
+<p>But the game only ever promised the first half of the sentence. It said <em>this is how you died</em>. It never said anything about what you&#x27;d be doing at the time.</p>
+<p>Eighteen days in, the answer is: arguing about whether Santa wears green, hiding a scorch mark behind a mini fridge, carrying a dead man&#x27;s ID card in your pocket for thirty-seven days, doing burpees in a field to leave your friends a slightly better book — and planning, on Christmas Eve, with real enthusiasm, to drive north into the place the army gave up on, in order to sleep in a haunted building.</p>
+<hr class="rule"></div></article>
+<article class="ch" id="ch16" data-n="16" hidden><header class="ch-h"><p class="eyebrow">Appendix <span class="sep">/</span> Aug 14-31, 2026</p><h2>The Ledger</h2><p class="tags"></p></header><div class="prose"><p>Three people who arranged their days around meeting up every evening in a fictional Kentucky to argue about where the sledgehammers were. Frank ran the server off a second machine and rebooted it whenever asked, at any hour, apologizing when he slept in.</p>
+<p>Nobody missed a day.</p>
+<h3>Final standing</h3>
+<div class="tw"><table><thead><tr><th></th><th><strong>stacey</strong></th><th><strong>senpai</strong></th><th><strong>frank</strong></th></tr></thead><tbody><tr><td>Deaths</td><td><strong>0</strong></td><td>5 (+2 before the record)</td><td>6</td></tr><tr><td>Longest single life</td><td><strong>2,713 hrs</strong></td><td>885 hrs</td><td>719 hrs</td></tr><tr><td>Logins</td><td>73</td><td>115</td><td>56</td></tr><tr><td>In-game messages</td><td>2,002</td><td>1,353</td><td>981</td></tr><tr><td>Discord messages</td><td>999</td><td>525</td><td>390</td></tr><tr><td>Maxed skills</td><td>Cooking, Foraging, Butchering, Blacksmithing</td><td>Carpentry</td><td>Tailoring, Carving</td></tr><tr><td>Vehicles entered</td><td>1,742</td><td>579</td><td>737</td></tr><tr><td>Signature</td><td><code>swet</code> / <code>wowee</code></td><td><code>swett</code></td><td><code>swettt</code> / <code>heck yeah</code></td></tr></tbody></table></div>
+<p>Stacey never died. Not once, in either archive — two thousand seven hundred and thirteen consecutive in-game hours, one hundred and thirteen days, starting before the record opens and running unbroken past the end of it. She supplied the weapons, the food, the water, the clothes, the cigarettes, the ammunition, the spare glasses Frank kept losing, the bone jewellery, the sledgehammer and the machetes. She retrieved Frank&#x27;s body twice. She killed one of senpai&#x27;s characters personally. She rebuilt the kitchen after the fire and hid the seam behind crates.</p>
+<p>Stacey is not playing the same game as these men.</p>
+<h3>The eleven deaths</h3>
+<div class="tw"><table><thead><tr><th>#</th><th>Date</th><th>Who</th><th>Survived</th><th>Cause</th></tr></thead><tbody><tr><td>1</td><td>Aug 15, 10:40</td><td>frank</td><td>36 hrs</td><td>Bitten, eleven minutes after joining</td></tr><tr><td>2</td><td>Aug 15, 10:53</td><td>frank</td><td>3 hrs</td><td>Unknown; blamed his own admin privileges</td></tr><tr><td>3</td><td>Aug 15, 13:54</td><td>frank</td><td>0 hrs</td><td>Spawned into a room full of them</td></tr><tr><td>4</td><td>Aug 16, 15:18</td><td>senpai (<strong>Mateo</strong>)</td><td>270 hrs</td><td>Fell off a roof, naked, missed the stairs by one tile</td></tr><tr><td>5</td><td>Aug 18, 06:17</td><td>frank</td><td>167 hrs</td><td>Police station. Pushed a standing one, hit a fallen one</td></tr><tr><td>6</td><td>Aug 21, 10:26</td><td>frank</td><td>490 hrs</td><td>Three of them in a trailer. One-shotted</td></tr><tr><td>7</td><td>Aug 25, 12:41</td><td>frank</td><td>719 hrs</td><td><strong>Held his own pipe bomb.</strong> Survived it. Then missed the car door</td></tr><tr><td>8</td><td>Aug 27, 13:48</td><td>senpai (<strong>Rafa</strong>)</td><td>885 hrs</td><td>Hugged a wall that wasn&#x27;t there. Nine planks on his back</td></tr><tr><td>9</td><td>Aug 27, 18:25</td><td>senpai (<strong>Junji Morimoto</strong>)</td><td>58 hrs</td><td>Alt-tabbed. Body never recovered</td></tr><tr><td>10</td><td>Aug 28, 06:51</td><td>senpai (<strong>Marco Bernal-Casillas</strong>)</td><td>0 hrs</td><td>Sixty seconds. <code>nvm</code></td></tr><tr><td>11</td><td>Aug 31, 14:38</td><td>senpai</td><td>369 hrs</td><td>Bitten. Died doing burpees, on schedule, at announced coordinates</td></tr></tbody></table></div>
+<p>Roof deaths: 2. Self-inflicted explosive deaths: 1. Deaths caused by admin privileges: 0, whatever Frank says.</p>
+<p>Two more predate the record: <strong>Dragoș</strong>, who wandered into the best farm in Rosewood and died there without noticing, and <strong>Mateo</strong>, in a bar north of the driving school. There may also have been a <strong>Cătălin</strong> — senpai had been feeding the run to an AI and posting its dramatic recaps, and at some point the names drifted. By the group&#x27;s own documents Mateo dies twice, in two different places. It will never be resolved.</p>
+<h3>Artifacts recovered</h3>
+<p><strong>The gnome.</strong> August 24. Senpai, back from a supply run, announced that he had brought home the most important item in the game. Frank asked what it was. It was a gnome.</p>
+<p><strong>LARRY&#x27;S RAP DEMO (PRACTICE).</strong> A VHS from the Rosewood base. Stacey believed it rare. Never checked for XP value. Transported to Irvington anyway and mentioned again a week later, in capitals, unprompted.</p>
+<p><strong>The sexy keyring (pink).</strong> Found August 26 by senpai, who called it the best item he&#x27;d seen. Left on the kitchen shelf in the corner. Stacey was on her way before he finished typing.</p>
+<p><strong>Cherry Love.</strong> A zombie killed near the community college on August 31. Senpai fled without her ID and drove back thirty-eight minutes later specifically to get it.</p>
+<p><strong>Mateo&#x27;s ID card.</strong> Carried by Rafa for eight hundred and eighty-five hours. Still in his pocket when he hit the ground.</p>
+<p><strong>180 fresh eggs.</strong> Found at the tree line they had been logging beside for a week. Cooking eggs and mushrooms gives absurd XP; Frank got 600 from a single batch and concluded his mother must be a level 10 cook.</p>
+<p><strong>Frank&#x27;s glasses.</strong> Lost at a jerky factory. Stacey handed him a spare pair, at which point he discovered they were the wrong prescription and he was still blind. She began stockpiling glasses in the hitch trailer as standing policy.</p>
+<p><strong>Frank&#x27;s keyring.</strong> Lost August 25, mourned for four days, found by Stacey in the yard on the 29th with no keys on it.</p>
+<p><strong>Thirty-seven blunt scissors.</strong> Part of Stacey&#x27;s stockpile of dull objects, maintained specifically so the others could grind Maintenance XP by sharpening them.</p>
+<p><strong>Handrails.</strong> Suggested August 17. Never built. Second roof death, August 27.</p>
+<p><strong>The naked zombie in the Rosewood police station.</strong> Frank, notifying the group of his fifth death with the consideration of a man leaving a note on a windshield: <em>&quot;i died in police station btw, in case you see a naked z.&quot;</em></p>
+<p><strong>The zombie in Frank&#x27;s bedroom, standing over Frank&#x27;s diary.</strong> Status unresolved.</p>
+<hr class="rule">
+<p><em>Faction: swet. Population: 3. Casualties: 13. Cigarettes: eventually.</em></p></div></article>
+    <p class="empty" id="emptyNote" hidden>
+      <b>No chapters match those filters.</b><br>Loosen one and the record comes back.
+    </p>
+    <nav class="pager" id="pager">
+      <button class="pg prev" id="prevBtn"><span class="k">← Previous</span><span class="v" id="prevV"></span></button>
+      <button class="pg next" id="nextBtn"><span class="k">Next →</span><span class="v" id="nextV"></span></button>
+    </nav>
+  </main>
+</div>
+
+<script>
+(function(){
+  var rows  = Array.prototype.slice.call(document.querySelectorAll('.navrow'));
+  var arts  = Array.prototype.slice.call(document.querySelectorAll('.ch'));
+  var chips = Array.prototype.slice.call(document.querySelectorAll('.chip'));
+  var spine = document.getElementById('spine');
+  var pager = document.getElementById('pager');
+  var emptyNote = document.getElementById('emptyNote');
+  var countLine = document.getElementById('countLine');
+  var clearBtn  = document.getElementById('clearBtn');
+  var prevBtn = document.getElementById('prevBtn'), nextBtn = document.getElementById('nextBtn');
+  var prevV = document.getElementById('prevV'), nextV = document.getElementById('nextV');
+
+  var fWho = [], fTh = [], current = 1;
+
+  function titleOf(n){
+    var r = rows.filter(function(x){return +x.dataset.n === n;})[0];
+    return r ? r.querySelector('.nr-title').textContent : '';
+  }
+  function matches(r){
+    if (r.classList.contains('pinned')) return true;
+    var who = r.dataset.who.split(' '), th = r.dataset.threads.split(' ');
+    var okW = !fWho.length || fWho.some(function(v){return who.indexOf(v) > -1;});
+    var okT = !fTh.length  || fTh.some(function(v){return th.indexOf(v) > -1;});
+    return okW && okT;
+  }
+  function visible(){
+    return rows.filter(matches).map(function(r){return +r.dataset.n;});
+  }
+  function save(n){ try{ localStorage.setItem('swet:ch2', String(n)); }catch(e){} }
+
+  function show(n){
+    current = n;
+    arts.forEach(function(a){ a.hidden = (+a.dataset.n !== n); });
+    rows.forEach(function(r){
+      r.setAttribute('aria-current', (+r.dataset.n === n) ? 'true' : 'false');
+    });
+    var vis = visible(), i = vis.indexOf(n);
+    var p = (i > 0) ? vis[i-1] : null, q = (i > -1 && i < vis.length-1) ? vis[i+1] : null;
+    prevBtn.disabled = !p; nextBtn.disabled = !q;
+    prevV.textContent = p ? titleOf(p) : '—';
+    nextV.textContent = q ? titleOf(q) : '—';
+    prevBtn.dataset.go = p || ''; nextBtn.dataset.go = q || '';
+    save(n);
+  }
+
+  function apply(){
+    var vis = visible();
+    rows.forEach(function(r){ r.hidden = !matches(r); });
+    var storyCount = vis.filter(function(n){ return n !== 16; }).length;
+    countLine.textContent = storyCount + (storyCount === 1 ? ' chapter' : ' chapters')
+      + ((fWho.length || fTh.length) ? ' of 15' : '');
+    clearBtn.hidden = !(fWho.length || fTh.length);
+    var none = storyCount === 0;
+    emptyNote.hidden = !none;
+    pager.hidden = none;
+    arts.forEach(function(a){ if (none) a.hidden = true; });
+    if (none) { rows.forEach(function(r){ r.setAttribute('aria-current','false'); }); return; }
+    show(vis.indexOf(current) > -1 ? current : vis[0]);
+  }
+
+  spine.addEventListener('click', function(e){
+    var r = e.target.closest('.navrow'); if (!r) return;
+    show(+r.dataset.n);
+    document.getElementById('read').scrollIntoView({block:'start', behavior:'smooth'});
+  });
+
+  chips.forEach(function(c){
+    c.addEventListener('click', function(){
+      var on = c.getAttribute('aria-pressed') === 'true';
+      c.setAttribute('aria-pressed', on ? 'false' : 'true');
+      var arr = (c.dataset.f === 'who') ? fWho : fTh, v = c.dataset.v, ix = arr.indexOf(v);
+      if (on) { if (ix > -1) arr.splice(ix,1); } else if (ix === -1) { arr.push(v); }
+      apply();
+    });
+  });
+
+  clearBtn.addEventListener('click', function(){
+    fWho = []; fTh = [];
+    chips.forEach(function(c){ c.setAttribute('aria-pressed','false'); });
+    apply();
+  });
+
+  [prevBtn, nextBtn].forEach(function(b){
+    b.addEventListener('click', function(){
+      if (!b.dataset.go) return;
+      show(+b.dataset.go);
+      document.getElementById('read').scrollIntoView({block:'start', behavior:'smooth'});
+    });
+  });
+
+  document.addEventListener('keydown', function(e){
+    if (e.metaKey || e.ctrlKey || e.altKey) return;
+    var t = e.target.tagName;
+    if (t === 'INPUT' || t === 'TEXTAREA') return;
+    if (e.key === 'ArrowLeft'  && !prevBtn.disabled) { prevBtn.click(); }
+    if (e.key === 'ArrowRight' && !nextBtn.disabled) { nextBtn.click(); }
+  });
+
+  var toggle = document.getElementById('sideToggle'), side = document.querySelector('.side');
+  toggle.addEventListener('click', function(){
+    var open = side.dataset.open === 'true';
+    side.dataset.open = open ? 'false' : 'true';
+    toggle.setAttribute('aria-expanded', open ? 'false' : 'true');
+    document.getElementById('caret').textContent = open ? '▾' : '▴';
+  });
+
+  var start = 1;
+  try { var s = localStorage.getItem('swet:ch2'); if (s && +s >= 1 && +s <= 16) start = +s; } catch(e){}
+  current = start;
+  apply();
+})();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,8 @@
+# raw server logs and chat exports — contain account identifiers, keep them out
+logs/
+*_chat.txt
+*_user.txt
+*_PerkLog.txt
+*DebugLog*
+chat_all.txt
+discord*.txt
