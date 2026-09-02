@@ -1078,6 +1078,8 @@ He hugged the wall.
 
 `rip rafa`
 
+<!--RECON5-->
+
 Eight hundred and eighty-five hours. Thirty-seven days by the county's clock, the longest life any of senpai's men ever held, ended by a ten-foot fall from a structure he had designed and built himself, at the one point along its edge where he had not yet installed the wall he was leaning on.
 
 The man who wrote in his journal *before going upstairs* died going upstairs.
