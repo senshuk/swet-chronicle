@@ -1548,7 +1548,17 @@ Two chronologies run through this document and only one of them is fiction.
 | **Aug 30** | Snow at fifty degrees Fahrenheit, confirmed as a bug. |
 | **Aug 31** | **The turn north.** A forward camp beyond Ekron. Senpai is bitten at the community college, drives home, files his gear, and dies on schedule in a field. That evening Teodor Dragomir wakes in the safehouse and inherits the line, and the record ends with him standing. By the county's calendar it is Christmas Eve. |
 
-At the close of the record the survivors have been in Knox County for roughly a hundred and sixty-nine days by the county's own calendar. The cordon has been broken for a hundred and sixty-two of them.
+### The county's own clock
+
+Stacey never died. Her survival counter therefore runs unbroken from the first line of the record to the last, and it is the only continuous clock the archive contains. Between those two lines it advances two thousand six hundred and five hours.
+
+That is a hundred and eight days. Eighteen days of talking produced a hundred and eight days of weather, and on the last afternoon Stacey checked the calendar and reported what it said:
+
+`xmas eve!`
+
+So the exchange rate is roughly six county days for every real one, and almost everything in this account is longer than it reads. The second storey was not built in a fortnight; it took a season. Rafa's eight hundred and eighty-five hours are thirty-seven days. Frank's six deaths are spread across three and a half months, not three weeks. And the two roof deaths — eleven days apart in the record, and the second man carrying the first man's safety rule — are ten weeks apart in the county. One of them falls in weather warm enough to work with no clothes on. The other falls into snow.
+
+Where the county's own calendar begins cannot be recovered from the record. Where it ends can.
 
 ---
 <!-- CH:25 | Appendix B — The Line of Senpai | Aug 14-31 | senpai | reference -->
