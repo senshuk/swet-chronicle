@@ -1288,9 +1288,19 @@ And on the chart, further north still, past the top of every road any of them ev
 
 They settle on Brandenburg because of something Stacey found weeks ago on a paper flier in a dead man's house and has not stopped thinking about since: a haunted sanatorium.
 
-It is called Sunderland Hills. It opened in 1910 as a tuberculosis hospital, grew until it could hold four hundred patients at once, and killed a great many of them, because in 1910 there was nothing much to be done for tuberculosis except put a person somewhere with good air and wait. By the nineties it had spent decades being sold to visitors as the most haunted building in the state.
+It is called Sunderland Hills, it stands outside Brandenburg, and the flier does not undersell it.
 
-And underneath it there is a tunnel.
+<!--FLIERFIG-->
+
+*Hunt ghosts in one of America's most HAUNTED locations every Sunday.* It opened in 1910, the flier says, to deal with the white plague — tuberculosis — and hundreds of patients died there before it closed in 1961. On moonlit nights some say you can still hear them. Are you brave enough to join us. Call 943-555-SPOOK to book your tour.
+
+And then, in the middle of it, printed and photographed and folded into a leaflet and left in a house in Kentucky some time before the sixth of July:
+
+> *Thankfully the days of plague are now LONG behind us.*
+
+---
+
+Underneath the building there is a tunnel.
 
 It was built to carry steam and supplies up the hill from the heating plant, and it had a cable car in it for hauling things through.
 
@@ -1309,6 +1319,8 @@ They do not appear to know what Brandenburg is. Brandenburg is one of the four p
 It had also already been destroyed once that year. On the eighteenth of April a tornado came through the northeast of the town, killed three people, injured dozens and levelled houses; four in ten homes and three in ten businesses were damaged. Hundreds of residents were still in hotels and trailer parks in July, still waiting on federal money the Governor kept saying was on the way, with the damage patched over in bare wood. The county paper was still chasing that story on the first of July.
 
 The money never arrived. Five days later the army drew a line that put the town inside it.
+
+<!--SHELTERFIG-->
 
 So the place these three are driving toward on the last afternoon in the record is a town that was flattened in the spring, abandoned by the state in the summer, and then sealed in — and the reason they are going is that there is a haunted hospital near it.
 
