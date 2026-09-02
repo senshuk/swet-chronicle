@@ -1278,6 +1278,8 @@ The crosses are where people stopped.
 
 The two moments where the tracks leave the road system entirely are worth finding. One is the nineteenth, cutting the corner between the towns. The other is the last afternoon, running dead straight up the highway to the north, on a road Stacey had spent the day clearing wrecks off so the other two could take it at speed.
 
+And at the top of the sheet, marked and named, is Sunderland Hills — the sanatorium with the tunnel under it, the place all three of them had agreed to move into. It is about five thousand four hundred tiles from the forward camp, which is further than any single day's driving in the whole record. The last position anybody logged is at the bottom of that gap.
+
 <!--MAP-->
 
 Marked deaths, by numeral: **I–III** Frank's first afternoon, three men in four hours. **IV** the roof. **VI** the trailer past the gas station. **VII** the bomb. **VIII** Rafa, at the house, twelve tiles from where Junji would die that evening. **X** the first Marco Bernal-Casillas, sixty seconds, in a town the others had abandoned nine days earlier — note how far he is from every route on the map, and that nobody ever drove out to him. **XI** the second Marco, in a field down the road from the safehouse, near the hay building, at coordinates he announced in advance so the body would be easy to find.
