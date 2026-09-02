@@ -55,15 +55,19 @@ Senpai cannot sleep. Not *chooses not to* — cannot. He takes painkillers and l
 
 So they lie in adjacent beds in a dead woman's house, two grown men unable to sleep, waiting for six in the morning — because at six in the morning a television station that no longer employs anybody will broadcast a home-improvement program, and if they watch it they will get better at carpentry.
 
-The channel is called Life and Living, and it is the most quietly horrifying object in the county. Somewhere outside the cordon, before everything stopped, a broadcaster queued up nine days of daytime programming — cookery, woodwork, fishing, gardening — and then the people who made it stopped existing, and the tapes kept rolling on schedule into a county with nobody left to watch them. It runs at midnight, six, noon and six for nine days. On the tenth it stops forever.
+The channel is called Life and Living, and it is the most quietly horrifying object in the county. Somewhere outside the cordon, before everything stopped, a broadcaster queued up twelve days of instructional daytime television and went home. There are three programmes and they rotate. *The Cook Show*, which is sponsored by a knife company. *Woodcraft*, which is a home-improvement hour. And *Exposure Survival*, presented by a man called Dean who opens every episode by announcing that he is going back to nature.
 
-Stacey has set an alarm for ten to six. She has, in fact, memorized the whole schedule, and she believes the channel dies around the seventeenth or eighteenth.
+They play at midnight, six in the morning, noon and six in the evening, from the ninth of July to the twentieth. Then the tape runs out and the channel is silent for good.
 
-That casual aside dates the entire run. If the broadcasts end on the seventeenth, then day one was the ninth of July — the first day of the Knox Event, the morning the county's clock starts. She did not look that up. She just knew when the television stopped.
+The people who made those programmes stopped existing somewhere in the first week. The tapes kept rolling on schedule into a county with nobody left to watch them, teaching cookery and carpentry and how to live off the land to an empty state, four times a day, for twelve days.
+
+Stacey has set an alarm for ten to six. She has the schedule roughly by heart and reports that the channel dies around the seventeenth or eighteenth.
+
+She is going from memory and she is two or three days short. But she is close enough that they plan around it, and she is right about the thing that matters, which is that the television is a resource with an expiry date and every missed broadcast is carpentry nobody gets back.
 
 The television is not the only thing still talking. Somewhere on the dial, the Automated Emergency Broadcast System is running too, and what it mostly does is read out the weather. Frank tunes into it on his first afternoon and relays the forecast to the others like a man checking whether to bring a coat: thunderstorm tomorrow morning. Nobody built that system to survive its operators. It simply has no instruction telling it to stop, so it goes on issuing small-craft advisories over a quarantined county, on schedule, indefinitely.
 
-Between them, the TV and the radio are the entire remaining output of human civilization in Knox County: nine days of cookery programming and an indefinite run of weather.
+Between them, the TV and the radio are the entire remaining output of human civilization in Knox County: twelve days of cookery, carpentry and back-to-nature, and an indefinite run of weather.
 
 Outside, in the fog, something walks past the window and does not come in.
 
@@ -1121,9 +1125,10 @@ Two chronologies run through this document and only one of them is fiction.
 |---|---|
 | **4 July** | The Knox Event begins. |
 | **6 July** | The military declares the Exclusion Zone and draws the cordon around Muldraugh, West Point, **Brandenburg**, and Fort Knox. |
-| **9 July** | Day One. The Life and Living channel begins its nine-day run of cookery and woodwork. |
+| **9 July** | Day One. Life and Living TV begins a twelve-day run — *The Cook Show*, *Woodcraft*, *Exposure Survival* — four broadcasts a day. |
 | **14–15 July** | The infected breach the perimeter fence. The sound of the fighting draws thousands more. Military units begin pulling back north. |
-| **17 July** | The infection is reported in Cincinnati and Columbus; then Newcastle, London, Seoul, Okinawa. The same day, Life and Living broadcasts for the last time. |
+| **17 July** | The infection is reported in Cincinnati and Columbus; then Newcastle, London, Seoul, Okinawa. |
+| **20 July** | Life and Living broadcasts for the last time, at six in the evening. Nothing is scheduled after it. |
 | **18 July →** | The remaining transmissions degrade into static. The Automated Emergency Broadcast System continues issuing weather. |
 
 ### The record's reckoning — eighteen days
