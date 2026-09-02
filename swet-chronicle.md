@@ -692,9 +692,17 @@ He also acquires things, and cannot always account for them.
 
 `used for tanning iirc`
 
-Stacey had been putting animal brains in Frank's backpack. Not secretly — it does not seem to have occurred to her that it needed mentioning. And when he finally notices and asks, she does not say *I put them there*; she explains what they are for, which is tanning, which is leather, which is the large bellows, which is the advanced forge she spent four days chasing down a chain of prerequisites to build.
+Somebody had put animal brains in Frank's backpack.
 
-Frank had been carrying a component of the forge around in his bag for days without knowing it. He never asks a follow-up question. Ninety seconds later he is shouting at the dead again.
+Frank asks the room. Stacey answers — helpfully, and beside the point — that she had brains from butchering and that they are used for tanning. She is explaining what the object is. She is not the one who put it in his bag, and it does not appear to occur to anybody that this is the question on the table.
+
+The record is circumstantial but it is not shy. Nine minutes earlier, senpai had been at a workbench trying to craft, held up by a requirement the recipe had not disclosed:
+
+`ai says i need leather strips even tho it doesnt show in the recipe`
+
+Leather strips are tanned. Tanning takes brains. The one man in Knox County who had spent that morning thinking hard about tanning materials was standing in the same building as Frank's backpack, and six minutes after the brains surfaced he announced he was going to lunch.
+
+Frank never asks a follow-up question. Ninety seconds later he is shouting at the dead again, carrying an unexplained quantity of brain, and the matter is closed for the remaining ten days of the record.
 
 And on the twentieth he found the single greatest object in Knox County, which he reported at ten past five in the morning:
 
