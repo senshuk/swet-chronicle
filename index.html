@@ -1531,16 +1531,27 @@ td strong{color:var(--ink)}
   function pickVoices(){
     voices = englishVoices();
     if (!voices.length) return false;
-    var narrPref = [/samantha/i,/serena/i,/ava/i,/daniel/i,/karen/i,/google us english/i,
-                    /microsoft (aria|jenny|libby)/i,/english/i];
-    var linePref = [/alex/i,/fred/i,/tom/i,/daniel/i,/google uk english male/i,
-                    /microsoft (guy|ryan|david)/i];
+    /* narrator: the deepest, most human male voice the device has */
+    var narrPref = [/\balex\b/i,/\breed\b/i,/\brocko\b/i,/\beddy\b/i,/\bdaniel\b/i,
+                    /\btom\b/i,/\baaron\b/i,/\bfred\b/i,
+                    /microsoft (david|guy|mark|ryan)/i,/google uk english male/i,
+                    /google us english/i,/\bmale\b/i];
+    /* survivors: anything clearly not the narrator */
+    var linePref = [/\bsamantha\b/i,/\bava\b/i,/\bserena\b/i,/\bkaren\b/i,/\bmoira\b/i,
+                    /microsoft (aria|jenny|libby|zira)/i,/google uk english female/i];
     var byN = voices.slice().sort(function(a,b){ return score(b,narrPref)-score(a,narrPref); });
     var byL = voices.slice().sort(function(a,b){ return score(b,linePref)-score(a,linePref); });
     vNarr = byN[0];
     vLine = null;
     for (var i=0;i<byL.length;i++){ if (byL[i] !== vNarr){ vLine = byL[i]; break; } }
     if (!vLine) vLine = vNarr;
+    try {
+      var sn = localStorage.getItem('swet:vnarr'), sl = localStorage.getItem('swet:vline');
+      for (var k=0;k<voices.length;k++){
+        if (sn && voices[k].name === sn) vNarr = voices[k];
+        if (sl && voices[k].name === sl) vLine = voices[k];
+      }
+    } catch(e){}
     return true;
   }
 
@@ -1645,8 +1656,8 @@ td strong{color:var(--ink)}
     if (pi >= seg.parts.length){ si++; pi = 0; speakNext(); return; }
     var u = new SpeechSynthesisUtterance(seg.parts[pi]);
     u.voice = seg.kind === 'line' ? vLine : vNarr;
-    u.rate  = seg.kind === 'line' ? rate * 0.97 : rate;
-    u.pitch = seg.kind === 'line' ? 0.94 : 1;
+    u.rate  = seg.kind === 'line' ? rate * 1.0 : rate * 0.94;
+    u.pitch = seg.kind === 'line' ? 1.0 : 0.82;
     u.onend = function(){
       if (stopping || !playing) return;
       done++; pi++;
@@ -1715,7 +1726,8 @@ td strong{color:var(--ink)}
         '<option value="0.85">0.85×</option><option value="1" selected>1×</option>' +
         '<option value="1.15">1.15×</option><option value="1.3">1.3×</option>' +
         '<option value="1.5">1.5×</option></select>' +
-      '<select class="pl-sel pl-voice" aria-label="Narrator voice"></select>' +
+      '<select class="pl-sel pl-voice" aria-label="Narrator voice" title="Narrator"></select>' +
+      '<select class="pl-sel pl-voice2" aria-label="Survivor voice" title="The survivors"></select>' +
       '<div class="pl-bar"><div class="pl-fill"></div></div>';
     host.appendChild(p);
 
@@ -1727,7 +1739,8 @@ td strong{color:var(--ink)}
       meta:p.querySelector('.pl-meta'),
       fill:p.querySelector('.pl-fill'),
       rate:p.querySelector('.pl-rate'),
-      voice:p.querySelector('.pl-voice')
+      voice:p.querySelector('.pl-voice'),
+      voice2:p.querySelector('.pl-voice2')
     };
     bar.btn.addEventListener('click', toggle);
     bar.rate.addEventListener('change', function(){
@@ -1735,11 +1748,18 @@ td strong{color:var(--ink)}
       if (playing){ stop(); setTimeout(function(){ playing=true; stopping=false; tick(); speakNext(); }, 120); }
       paint();
     });
+    function restart(){
+      if (playing){ stop(); setTimeout(function(){ playing=true; stopping=false; tick(); speakNext(); }, 120); }
+    }
     bar.voice.addEventListener('change', function(){
       var v = voices[+this.value]; if (!v) return;
-      vNarr = v;
-      for (var i=0;i<voices.length;i++) if (voices[i] !== vNarr){ vLine = voices[i]; break; }
-      if (playing){ stop(); setTimeout(function(){ playing=true; stopping=false; tick(); speakNext(); }, 120); }
+      vNarr = v; try{ localStorage.setItem('swet:vnarr', v.name); }catch(e){}
+      restart();
+    });
+    bar.voice2.addEventListener('change', function(){
+      var v = voices[+this.value]; if (!v) return;
+      vLine = v; try{ localStorage.setItem('swet:vline', v.name); }catch(e){}
+      restart();
     });
     fillVoices();
     if (build()) paint();
@@ -1747,12 +1767,14 @@ td strong{color:var(--ink)}
 
   function fillVoices(){
     if (!bar || !voices.length) return;
-    var html = '';
+    var a = '', b = '';
     for (var i=0;i<voices.length;i++){
-      var nm = voices[i].name.replace(/\s*\(.*?\)\s*/g,'').slice(0,22);
-      html += '<option value="'+i+'"'+(voices[i]===vNarr?' selected':'')+'>'+nm+'</option>';
+      var nm = voices[i].name.replace(/\s*\(.*?\)\s*/g,'').slice(0,20);
+      a += '<option value="'+i+'"'+(voices[i]===vNarr?' selected':'')+'>'+nm+'</option>';
+      b += '<option value="'+i+'"'+(voices[i]===vLine?' selected':'')+'>'+nm+'</option>';
     }
-    bar.voice.innerHTML = html;
+    bar.voice.innerHTML = a;
+    bar.voice2.innerHTML = b;
   }
 
   function onChapterChange(){
