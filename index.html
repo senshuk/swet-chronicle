@@ -416,6 +416,7 @@ td strong{color:var(--ink)}
   font-family:var(--f-mono);font-size:10px;letter-spacing:.08em;color:var(--muted);
   flex:1 1 90px;min-width:90px;
 }
+.player[data-mode="file"] .pl-bar{height:4px}
 .pl-bar{flex:1 1 100%;height:2px;background:var(--rule-soft);border-radius:2px;overflow:hidden}
 .pl-fill{height:100%;width:0;background:var(--amber);transition:width .25s linear}
 .pl-sel{
@@ -1518,6 +1519,7 @@ td strong{color:var(--ink)}
   var voices = [], vNarr = null, vLine = null, rate = 1;
   var segs = null, segCh = null, si = 0, pi = 0, playing = false, stopping = false;
   var bar = null, done = 0, total = 0, resumeTimer = null;
+  var mode = 'tts', au = null;
 
   function englishVoices(){
     var all = synth.getVoices() || [];
@@ -1630,8 +1632,22 @@ td strong{color:var(--ink)}
     return m + ':' + (s<10?'0':'') + s + ' left';
   }
 
+  function clock(s){
+    if (!isFinite(s)) return '';
+    s = Math.max(0, Math.round(s));
+    var m = Math.floor(s/60);
+    return m + ':' + (s%60<10?'0':'') + (s%60);
+  }
   function paint(){
     if (!bar) return;
+    if (mode === 'file' && au){
+      var d = au.duration || 0;
+      bar.meta.textContent = d ? (clock(au.currentTime) + ' / ' + clock(d)) : 'read aloud';
+      bar.fill.style.width = d ? ((au.currentTime/d)*100).toFixed(2) + '%' : '0%';
+      bar.ico.textContent = au.paused ? '▶' : '❚❚';
+      bar.label.textContent = au.paused ? (au.currentTime ? 'resume' : 'listen') : 'pause';
+      return;
+    }
     bar.meta.textContent = playing ? estimate()
       : (segs && done ? estimate() : (total ? 'about ' + estimate().replace(' left','') : ''));
     bar.fill.style.width = total ? ((done/total)*100).toFixed(1) + '%' : '0%';
@@ -1699,6 +1715,10 @@ td strong{color:var(--ink)}
   }
 
   function toggle(){
+    if (mode === 'file' && au){
+      if (au.paused){ au.play(); } else { au.pause(); }
+      return;
+    }
     if (playing){ stop(); return; }
     if (!vNarr && !pickVoices()) return;
     var art = currentArticle();
@@ -1745,6 +1765,7 @@ td strong{color:var(--ink)}
     bar.btn.addEventListener('click', toggle);
     bar.rate.addEventListener('change', function(){
       rate = parseFloat(this.value) || 1;
+      if (mode === 'file' && au){ au.playbackRate = rate; paint(); return; }
       if (playing){ stop(); setTimeout(function(){ playing=true; stopping=false; tick(); speakNext(); }, 120); }
       paint();
     });
@@ -1761,6 +1782,40 @@ td strong{color:var(--ink)}
       vLine = v; try{ localStorage.setItem('swet:vline', v.name); }catch(e){}
       restart();
     });
+    bar.barEl = p.querySelector('.pl-bar');
+    bar.barEl.addEventListener('click', function(e){
+      if (mode !== 'file' || !au || !au.duration) return;
+      var r = this.getBoundingClientRect();
+      au.currentTime = ((e.clientX - r.left) / r.width) * au.duration;
+    });
+
+    /* try a recorded reading for this chapter; fall back to speech synthesis */
+    au = new Audio();
+    au.preload = 'metadata';
+    au.addEventListener('loadedmetadata', function(){
+      mode = 'file';
+      bar.voice.hidden = true; bar.voice2.hidden = true;
+      bar.barEl.style.cursor = 'pointer';
+      bar.root.setAttribute('data-mode','file');
+      paint();
+    });
+    au.addEventListener('error', function(){ mode = 'tts'; paint(); });
+    au.addEventListener('timeupdate', paint);
+    au.addEventListener('play',  paint);
+    au.addEventListener('pause', paint);
+    au.addEventListener('ended', function(){
+      var rows = [].slice.call(document.querySelectorAll('.navrow'));
+      var art = currentArticle();
+      var idx = rows.findIndex(function(r){ return r.getAttribute('data-slug') === (art && art.id); });
+      if (idx > -1 && idx + 1 < rows.length && +rows[idx+1].getAttribute('data-n') <= 22){
+        setTimeout(function(){
+          rows[idx+1].click();
+          setTimeout(function(){ if (au && mode === 'file') au.play(); }, 500);
+        }, 1200);
+      }
+    });
+    au.src = 'audio/' + art.id + '.mp3';
+
     fillVoices();
     if (build()) paint();
   }
@@ -1779,6 +1834,8 @@ td strong{color:var(--ink)}
 
   function onChapterChange(){
     stop();
+    if (au){ try{ au.pause(); }catch(e){} au.src=''; au = null; }
+    mode = 'tts';
     segs = null; segCh = null; done = 0; total = 0;
     bar = null;
     makeBar();
