@@ -1438,138 +1438,76 @@ And the last thing in the record at all comes three hours later, from a man who 
 <!-- CH:23 | Christmas Day | Sep 1 | frank,stacey,senpai | driving,journal,deaths -->
 ## XXIII. Christmas Day
 
-They turned north on the last afternoon of August and they arrived the next morning, which by the county's calendar was Christmas Day.
-
-Stacey said so first.
+They turned north on the last afternoon of August and arrived the next morning, which by the county's calendar was Christmas Day. Stacey said so first, and Frank answered in his own register, and that was the whole of the observance.
 
 `Christmas!`
 
 `swettt mxmas`
 
-Then Frank went to fetch a generator, and the three of them drove ninety-odd miles of cleared highway to a town none of them had seen, and two of the three crashed on the way in.
+What followed was a convoy of three people driving a cleared highway to a town none of them had seen, and two of the three crashed on the way in. Frank put a truck into something and reported the end of its mint condition. Stacey answered in capitals that she had done the same. Senpai, arriving third and last, hit a wreck at full speed, went through a horde sideways, and left the police cruiser where it stopped rather than find out whether it would move again. In eighteen days of the first record nobody had crashed on arrival anywhere. On the first morning of the second, all three of them did.
 
-`there goes mint condition of this truck`
+It is worth saying what Brandenburg was to them before they saw it. They had been describing it as the destination for a fortnight — the big town at the top of the county, the one past the forward camp, the place the road north goes. They had marked a house there on a shared chart from four hundred tiles away, in a town they had not finished stripping, on the strength of a flier Stacey had read in a dead man's kitchen. Everything they had built at Irvington was, by the end, a staging post for getting there.
 
-`LOL I CRASHED TOO`
+Frank's verdict, four hours in, was that it was a lame town and almost all residential.
 
-Senpai, arriving third, hit a wreck at full speed, went through a horde sideways and abandoned the cruiser where it stopped. In eighteen days of the previous record nobody had crashed a vehicle on arrival anywhere. On the first morning of this one, all three of them did.
-
-Brandenburg is the town they had been describing for two weeks as the destination. They had marked it on a chart from four hundred tiles away, in a house they had not yet finished building, on the strength of a flier Stacey read in a dead man's kitchen. The first thing any of them says about it, four hours in, is Frank's.
-
-`not much though lame town`
-
-`like almost all residential so far`
-
-It has a police station with a key in it, a grindstone, a basement with fifty logs and an old fireplace, and street after street of boarded houses with nothing inside. Stacey opens one expecting a haul and finds one of them waiting.
-
-`went into boarded up house thinking would be good. literally nothing but a z that pwnt me`
-
-`i did same, thought was survivor`
-
-They make a safehouse out of a building on the north edge, mark it, and get on with it. Stacey runs the road back to Irvington for cigarettes and machetes. Frank finds an ammunition store behind a security shutter, cannot open it with welding, and comes back with the sledgehammer.
+It had a police station with the key still in it, a grindstone, an ammunition store behind a security shutter that welding would not open and a sledgehammer would, and a basement holding fifty logs and an old fireplace. It had street after street of boarded houses, and behind the boards there was nothing. Stacey opened one expecting a haul and found one of them waiting; Frank did the same thing an hour later, having thought — briefly, and for the second time in the whole account — that a boarded house meant a person. They made a safehouse out of a building on the north edge and got on with it. Stacey drove the road back to Irvington for cigarettes and machetes before the day was out.
 
 ---
 
-At five past twelve Frank reports the thing that ends his life.
+At five past twelve Frank reported the thing that ended his life.
 
 `got bitten infected`
 
-`poop`
+Stacey's response was immediate and entirely practical. He had three days at most; the base was half a county away; and a man who dies in a place wakes up in that place. So he should put his gear in the house, die, make a new character, and respawn here, and they would carry on together.
 
-Stacey's plan is immediate and entirely practical. He is going to die in three days anyway; the base is half a county away; a man who dies here wakes up here.
-
-`put stuff in house, die, make char, and respawn here`
-
-`we come back together`
-
-Frank declines. Not the plan — the timing.
+Frank declined — not the plan, the timing.
 
 `nay, i need journal`
 
-`ok omw`
-
-She drives to him. He is in a trailer. She puts the book on the floor and asks the only question that matters.
-
-`u have pen?`
-
-`up hjere i do`
-
-And then there is a stretch of two or three minutes where the server stops agreeing with itself — she watches him jump off a staircase and land on a table, in a place he is not standing — and the one thing that comes through clean is the sound.
-
-`lol game oos for sure. saw you somehow jump off stairs and land on table`
+She drove to him. He was in a trailer. She put the book on the floor and asked the only question that mattered, which was whether he had a pen; he did, upstairs. And then there is a stretch of two or three minutes where the server stops agreeing with itself. She watched him jump off a staircase and land on a table in a place he was not standing. What came through clean was the sound.
 
 `but heard you writing in journal`
 
-Four hundred and eighty-one hours of mechanics and carpentry and tailoring, written down by a man who has been bitten, in a trailer in a town he has already decided is lame, while the game loses track of where he is standing.
+Four hundred and eighty-one hours of mechanics, carpentry and tailoring, set down by a man who had been bitten, in a trailer, in a town he had already dismissed, while the county lost track of where he was.
 
 ---
 
-What follows is the strangest quarter of an hour in the whole account, because having decided to die he cannot manage it.
+What followed is the strangest quarter of an hour in either record, because having decided to die he could not manage it.
 
-Stacey offers to drive him up the street to where the dead are. He wants something better.
+Stacey offered to drive him up the street to where the dead were. He wanted something with more ceremony.
 
 `i wanna fall to death`
 
-She explains that falling stops hurting you at about thirty per cent. They turn player-versus-player on, both of them, so she can run him over. She drives at him and passes straight through.
+She explained that falling stops hurting you at about thirty per cent — which is, in passing, her diagnosis of eight of the deaths in the first record, and she said so: senpai always died because he was at thirty per cent from carrying too much. They turned player-versus-player on, both of them, so that she could run him over. She drove at him and passed straight through. He could see her moving on the minimap and not on his screen. They tried again. No damage.
 
-`you just glitch through`
+He announced he was going to pick up something heavy.
 
-`i see you moving in minimap, but nothing on screen`
-
-`lame`
-
-`no damage lol`
-
-He announces he is going to pick up something heavy. She reminds him that heavy loads only take you down so far — which is, in passing, her explanation for eight of the deaths in the previous record.
-
-`lmao senpai always died cuz he was like 30% hp from always heavy load`
-
-In the end the county does it the ordinary way, on its own schedule, and the transition is instant enough to catch her mid-meal.
-
-`lol you zombified right away`
+In the end the county did it the ordinary way, on its own schedule, and the turn was fast enough to catch her mid-meal.
 
 `was trying to eat some carrots and you rushed me`
 
-Five minutes later the weather arrives.
-
-`super storm. house sounds like shaking`
-
-`never seen this kind of storm so cool`
+Five minutes later the weather arrived — a storm neither of them had seen before, loud enough that the house sounded like it was shaking, and Stacey would not go out in it. It took the snow with it.
 
 `just when all the snow melted too`
 
-Christmas Day. The snow that had been on the roof since the middle of December is gone by evening, a storm is taking the walls apart, and the man who spent the morning saying the town was lame has been dead for half an hour and is already making his next one.
+Christmas Day. The snow that had been on the roof since the middle of December was gone by evening, a storm was taking the walls apart, and the man who had spent the morning calling the town lame had been dead half an hour and was already building his replacement.
 
 ---
 
 <!-- CH:24 | What the Nurses Used | Sep 3 | stacey,senpai,frank | building -->
 ## XXIV. What the Nurses Used
 
-The sanatorium is not where they thought it was.
+The sanatorium was not where they thought it was.
 
-`hm is not actually sanatorium but just north`
+Senpai spent the morning of the third in the wrong building — a factory north of the real one, mostly abandoned, which he liked the look of for about four minutes and then did not. It had no water in the bathrooms. He worked south and east through a country that kept not containing anything: a broadcast station, an upscale neighbourhood with nothing in the kitchens, and then a trail that spiralled in on itself toward something he could not see the middle of.
 
-Senpai spends the morning of the third in the wrong place — a factory, mostly abandoned, that he likes the look of and then does not.
-
-`couldve been swet base`
-
-`nm this place has poop`
-
-`bathrooms dont even have water cmon`
-
-He works his way south and east through a country that keeps not containing anything, past a broadcast station, onto a trail that spirals in on itself toward something he cannot see the middle of.
-
-`ended up on some weird spiral trail`
-
-`not sure whats in the middle`
-
-`we will see`
+The thing in the middle was Sunderland Hills.
 
 ---
 
-Here is what they had been told about the building, and where they got it.
+Here is what they had been told about that building, and where they got it.
 
-The chronicle noted a fortnight earlier that the legend attached to Sunderland Hills is a body chute: a tunnel under the hill, built so that the dead could be taken out of the building without the living patients watching it happen. The chronicle also noted, because it is true, that the story is anecdotal and nobody has ever documented it — and then it said this, about three people who had never quietly moved anything in their lives:
+This account noted a fortnight earlier that the legend attached to the place is a body chute — a tunnel under the hill, built so the dead could be taken out without the living patients watching it happen. It also noted, because it is true, that the story is anecdotal and that nobody has ever documented it. And then it said this, about three people who had never quietly moved anything in their lives:
 
 *They are not going to use the tunnel.*
 
@@ -1577,66 +1515,46 @@ On the afternoon of the third of September, Stacey found the tunnel.
 
 `found some weird underground tunnel way into sanatorium`
 
-`scarier and fun!`
-
-Senpai, who had read the same story she had, supplied the reason it exists.
-
-`that was in the lore i read`
+Senpai, who had read the same story she had, supplied the reason it exists — and he did not present it as a rumour, because by then they were standing in it.
 
 `nurses wheeled out ded patients thru tunnel to avoid scaring patients`
 
-She went down it. There were some of them down there, and she did what she always does, which is rearrange the furniture until the problem is somewhere else.
-
-`there are z down there too, but i blocked them off by placing furniture`
-
-`was some barricaded restricted area`
+She went down. There were some of them down there, in a barricaded section she describes as restricted, and she did what she always does, which is move the furniture until the problem is somewhere else. It cost her.
 
 `thats where i got pwnt`
 
-A laceration. Twenty-five per cent, she thinks, or thirty-three — she has survived one before and she checks the number out loud with senpai before going back to work. There is no moodle afterwards. She decides she is probably fine and sleeps on it, which is the entire medical procedure available in Knox County.
+A laceration. Twenty-five per cent, she thought, or thirty-three; she checked the number out loud with senpai, established that she had survived one of these before, and went back to work. There was no moodle afterwards. She decided she was probably fine and slept on it, which is the entire medical procedure available in Knox County.
 
-And senpai, watching all of this, says the only line in the whole archive where anybody acknowledges that any of it is being written down.
+What is worth holding onto is the order of events. The chronicle said they would not use the tunnel because nobody in the record had ever moved a body quietly — they shout across whole houses, they announce the coordinates of their own corpses in advance. That was true of the first eighteen days and it stayed true. They did not use the tunnel quietly. They used it because it was a way in that only admitted one of them at a time, and two days later they would use it again for exactly that reason, and call it a good choke point.
+
+The nurses built it to hide the dead from the living. Ninety years later, three people used it to get at the dead more efficiently, and the only one who went down it first came back up bleeding.
+
+Senpai, watching all of this, said the only line in the whole archive where anybody acknowledges that any of it is being written down.
 
 `this will add intrigue to story!`
-
-`true!`
 
 ---
 
 <!-- CH:25 | Beta Blockers | Sep 5 | stacey,frank,senpai | deaths,bombs -->
 ## XXV. Beta Blockers
 
-They went in on the fifth of September, in the afternoon, in a thunderstorm, and they prepared for it more carefully than they have prepared for anything.
+They went in on the fifth of September, in the afternoon, in a thunderstorm, and they prepared for it more carefully than for anything else in either record.
 
-Two days of it: ammunition sorted into crates and then into bandoliers; magazines counted; flashlight batteries swapped for fresh ones out of the middle top box; sneakers for the drive and boots for the building; the m16s zeroed and a shotgun each because senpai had worked out what the corridors were going to be like.
+Two days of it. Ammunition sorted into crates and then into bandoliers. Magazines counted and a spare found for the man who did not have one. Flashlight batteries swapped for fresh ones out of the middle top box. Sneakers for the drive and boots for the building, because sneakers are faster and boots are for when there are bodies. A shotgun each rather than a rifle, because senpai had worked out what the corridors were going to be like — he said afterwards he would have died carrying the m16. Respirators were discussed and not yet found; on the fifth they had a bandana, and Stacey reported what a bandana was worth, which was nothing.
 
-`so glad i brought shotty`
-
-`would be dead if m16`
-
-And then the item that has no equivalent anywhere else in the record.
+And one item with no equivalent anywhere in the first record.
 
 `take beta blockers`
 
-`bottom left crate`
+Nobody in eighteen days had ever medicated themselves for a feeling. Here it was on the packing list between the ammunition and the cigarettes, and Stacey had worked out the timing: not on the drive, not on arrival, but immediately before the encounter, because she did not know how long they lasted.
 
-Nobody in eighteen days of the first record ever medicated themselves for a feeling. Here they do it on a schedule, and Stacey has worked out the timing.
-
-`i take right before`
-
-`not sure how long they last`
-
-`right before actual encounter`
-
-Senpai reports the weather with some satisfaction.
+Senpai reported the weather with some satisfaction.
 
 `thunderstorm during sanatorium raid`
 
 `perfect`
 
-They went in through the tunnel. Frank asked once, to be sure.
-
-`tunnel again?`
+They went in through the tunnel. Frank asked once whether they were using it again, and senpai gave the reason, and the reason was not the legend.
 
 `ja is good choke pt`
 
@@ -1644,146 +1562,82 @@ They went in through the tunnel. Frank asked once, to be sure.
 
 The building did not behave like a building.
 
-Within six minutes Stacey is at the wall she cannot get past — not a physical one.
-
-`1s need to smoke the panic away`
-
-`at breaking point`
-
-`couldnt stay there. muyst have been one of the debuff traits i picked`
+Within six minutes Stacey hit a wall that was not physical. She smoked almost an entire packet of cigarettes and the stress would not shift; she put it down to a trait she had picked at creation and could not now unpick. Senpai was at breaking point beside her and reported, in the flattest available register, that his man was becoming depressed. Frank spent the afternoon asking what breaking point actually does, and whether it can kill you, and got no answer from either of them, because neither of them knew.
 
 `smoked almost full pack of cigs and couldnt kick stressed moodle`
 
-A full packet of cigarettes and the moodle does not move. Senpai is at breaking point beside her. He reports, in the flattest possible register, that his man is now becoming depressed. Frank, who has been asking what happens if you reach breaking point and whether it can kill you, gets no answer from anyone because nobody knows.
-
-Then the smell.
-
-`overwhelming stench`
+Then the smell. The dead they had already killed began doing more damage than the ones they had not, and it came off the piles in the corridors, and it took health directly.
 
 `losing hp from smell. careful`
 
-`still getting agitated from no z here`
+Stacey, standing in a room with nothing alive in it, reported that she was still becoming agitated from the bodies. This is the county's last refinement: having spent a month teaching them that the danger is the thing in front of you, it introduced a danger that is the accumulated evidence of your own work.
 
-The dead they have already killed are doing more damage than the ones they haven't. Frank has a respirator eventually; on the fifth he has a bandana, and Stacey tells him what a bandana is worth.
-
-`i had bandana covering face and did nothing`
-
-Frank forgets the bombs in the first assault and says, correctly, that this is probably for the best. He goes back for them anyway. Inside an hour he has done to himself exactly what he did on the twenty-fifth of August.
-
-`i think i damaged myself with bomb lol`
-
-`got scratched on left leg lol`
-
-`no z around me, had to have been bomb`
+Frank forgot the bombs on the first assault and observed, correctly, that this was probably for the best. He went back for them. Within the hour he had done to himself precisely what he did on the twenty-fifth of August — a scratch on the left leg with no one near him, and only one possible source.
 
 ---
 
-Partway through, Frank turns on sprinting zombies.
+Partway through, Frank turned on sprinting zombies.
 
-Not as a surprise — he announces it, he waits until he is somewhere safe, and he tells them the number.
-
-`i turned multihit on, let know when r for sprinting z`
-
-`sprinting z inside close quarters? thatll be fun!`
-
-`i get to safety then turn on fast z`
-
-`fast z on, also increased their navigation ability`
-
-`wht % did you put`
-
-`i put 3`
-
-Three per cent. He lowers it to one the following day. The verdict on the experiment is his own, and it is the only time in the entire archive that any of the three admits to a feeling in the room they are actually sitting in.
-
-`fast z are awful, i panic irl`
-
-Stacey's ambition for the raid had been different, and she gives it up on the sixth with something close to regret.
+He did not spring it on them. He announced it, waited until he was somewhere defensible, told them the percentage, and let them get ready. Three per cent. He lowered it to one the following day. Stacey's reaction to the proposal was that sprinting dead in close quarters would be fun, and she was not being sarcastic; she had spent the previous evening complaining that she could not schedule the raid for after dark.
 
 `i initially wanted to go at NIGHT to make it spooky`
 
-`NOT POSSIBLE`
+That plan died on the arithmetic. Frank called it sure death and she agreed, and the compromise was a thunderstorm in daylight with the lights off.
 
-`sure death`
+The verdict on the sprinting experiment came from Frank, and it is the only moment in the entire archive where any of the three admits to a feeling in the room they are physically sitting in.
 
-By the end of the first visit senpai has a number.
+`fast z are awful, i panic irl`
+
+By the end of the first visit senpai had a number, and it is larger than the total of everything the three of them killed in the first record's opening fortnight.
 
 `lol 996 kills`
-
-`just in that one visit`
 
 ---
 
 <!-- CH:26 | Rubberbanded | Sep 5 | senpai,stacey,frank | deaths,journal -->
 ## XXVI. Rubberbanded
 
-At thirty-four minutes past two, in the middle of the fight, senpai mentions a fever.
+At thirty-four minutes past two, in the middle of the fight, senpai mentioned a fever and said he did not know where it had come from.
 
-`dang i got fever`
-
-`so soon?`
-
-`dunno how that happened`
-
-Six minutes later he is dead, and the sequence he gives is four words long.
+Six minutes later he was dead, and the account he gave of it is one sentence long.
 
 `one sec i was in car and then it lag spiked to ded`
 
-Frank, who has asked the only question that matters to this group, asks it before anybody asks what happened.
+Frank asked the only question this group considers urgent, and he asked it before anyone asked what had happened.
 
 `did you journal`
 
-`earlier today ja`
+He had, earlier that day. So the carpentry survived, and the man did not, and the order of those two facts is the entire religion of the first record restated in eleven words.
 
-Then they go looking for a cause, and they do not find one. Stacey asks whether the logs record it. Frank goes and checks, and comes back with the line itself, pasted into the chat like a coroner reading out a form with the important field left empty.
+Then they went looking for a cause and could not find one. Stacey asked whether the logs record how a person died. Frank went and checked and came back with the line itself, pasted into the chat like a coroner reading out a form with the important field left blank.
 
 `[05-09-26 14:40:33.980] user senpai died at (4080,6496,0) (non pvp).`
 
-That is all the county is prepared to say.
+That is everything the county was prepared to say.
+
+They worked it the way they work everything. Not the smell — too slow. Not the sickness — he was not far enough along. Something to do with the lag, probably, because Stacey had seen the traffic cones that appear when the map cannot load fast enough, and she had noticed the stutter on the drive back. *Probably* does a great deal of work in that conversation, and nobody pretends otherwise.
 
 `still not sure how i died`
 
-`was driving and rubberbanded to random spot and ded`
-
-`framk checked logs. it didnt even say`
-
-They work through it the way they work through everything. Not the smell — the damage is too slow. Not the sickness — he was not far enough gone. Something to do with the lag, probably, because Stacey had seen the traffic cones that appear when the map cannot load fast enough. Probably. The word does a lot of work.
-
-`i doubt was from the smell. maybe framk died same way`
-
-She is right to raise it. Two days earlier, on the third, Frank had died in exactly the same way — mid-sentence, three lines after mentioning that one of them had a machete, with no more explanation than senpai gets here.
-
-`wat`
-
-`how`
-
-`rofl no idea`
+She was right to raise it, because it had happened before. Two days earlier Frank had died the same way — mid-sentence, three lines after remarking that one of them was carrying a machete, with no more explanation than senpai got.
 
 `nausea i guess`
 
-`only thing afflicting me`
-
-Two of the three deaths in this half of the record have no stated cause. In the first record, every single one of the eleven had one: a bite, a fall, a trailer, a wall that was not there, sixty seconds in a room. Then the county stopped explaining itself, and the men who had spent a month keeping meticulous notes on how to survive it were reduced to guessing.
+Two of the three deaths in this half of the record have no stated cause. In the first record every one of the eleven had one: a bite, a fall, a trailer, a wall that was not there, sixty seconds in a room in a town nobody had reason to be in. The men who had spent a month keeping meticulous notes on how to survive the place were reduced, at the end, to guessing why they had stopped.
 
 ---
 
 His name was Teodor Dragomir and he was the eighth of the line. He lasted three hundred and forty-two hours.
 
-He is the one the record never gave an ending to, and now it has: he died of nothing anyone can name, somewhere on the back side of a tuberculosis sanatorium, in a thunderstorm, five days after the previous chronicle closed with him standing in a finished house with a dead man's notebook in his bag.
+He is the one the first record left without an ending, and this is it: he died of nothing anybody can name, on the back side of a tuberculosis hospital, in a thunderstorm, five days after the previous account closed with him standing in a finished house holding a notebook he had not written.
 
-What he did with his life, according to the only obituary anybody offers him, was get fat.
+What he did with the time, according to the only obituary anyone offers him, was get fat.
 
-`too bad fat teodor couldnt finish weight loss challenge`
+It had been running for days. Eighty-five kilos with two arrows up. Eighty-eight after peanut butter. A fitness level surrendered to it. Frank sourcing produce and olive oil and reporting that ten kilos come off easily on a vegetable diet; senpai complaining that his man was too out of shape to swing a sledgehammer without needing to stop. He was trending down at the end, and had said so within the hour.
 
 `died around 90kg`
 
-It had been going on for days by then — eighty-five with two arrows up, eighty-eight after peanut butter, a fitness level surrendered, Frank sourcing produce and olive oil and reporting that you can lose ten kilos on a vegetable diet, senpai complaining that his man was too out of shape to swing a sledgehammer without stopping. He was trending down at the end. He had said so an hour before he died.
-
-`trending down!`
-
-`wat lol`
-
-And the next day, when Stacey mentions she has got her own weight back up with double chevrons, senpai writes the sentence that closes him out.
+And the next morning, when Stacey mentioned she had got her own weight back up, senpai wrote the line that closes him out.
 
 `that was teodor's entire life`
 
@@ -1792,61 +1646,55 @@ And the next day, when Stacey mentions she has got her own weight back up with d
 <!-- CH:27 | The Ninth Man | Sep 6-8 | senpai,frank,stacey | journal,building -->
 ## XXVII. The Ninth Man
 
-The ninth arrives four minutes after the eighth dies, and the entire announcement is three words.
+The ninth arrived four minutes after the eighth died, and the entire announcement was three words.
 
 `swet back as veteran`
 
-That is it. No name. In the whole of the first record the naming was the ritual — two hours and two rejected candidates to arrive back at *Mateo Zúñiga*; *Bastien Moreau it is*, announced and never used; a Marco made twice because the first one was never given a fair trial; a man called Dragoș at one end and a man called Dragomir at the other, both of them meaning beloved, neither of them chosen. Eight bearers, six names, and an appendix to keep them straight.
+That was all of it. No name.
 
-The ninth man is a veteran and nothing else. Nobody names him. Nobody mentions that nobody named him.
+In the first record the naming was the ritual. Two hours and two rejected candidates to arrive back at the name of the man being replaced. *Bastien Moreau it is*, announced and never used. A Marco made twice, because the first one was killed in sixty seconds and the build had never been given a fair trial. A man called Dragoș at one end of the line and a man called Dragomir at the other, both descending from the same root, neither chosen by anybody. Eight bearers, six names, and an appendix to keep them in order.
 
-He inherits in the ordinary way, which is to say completely. He inherits the journal, and the first thing he has to say about it is a complaint.
+The ninth is a veteran and nothing else. Nobody named him. Nobody remarked on the fact that nobody named him. The line that had generated seven ceremonies in eighteen days generated none in the twelve that followed, and the work carried on exactly as before.
+
+Because he inherits in the ordinary way, which is to say completely.
+
+He inherits the journal, and his first recorded opinion of it is a complaint about the handwriting of a man he never met.
 
 `i cant understand frank's handwriting when reading his journal lol`
 
-He inherits the habit that killed nobody and saved everything, and refines it on the road.
+He inherits the habit, and refines it on the road — he can write a detailed entry while driving, he notes, though he cannot reload a gun while driving, which he considers the wrong way round.
 
-`can write detailed journal while driving but not reload a gun`
-
-He inherits the carpentry, and he says where it came from, which is a man who has been dead since the twenty-seventh of August.
+He inherits the carpentry, and he says where it came from. Rafael Morales died on the twenty-seventh of August hugging a wall that had not been built yet, with nine planks on his back, and eleven days later the man who never knew him is building upward and crediting him by name.
 
 `i have learned from rafa the ways of building upward`
 
-And when they take a house on the eighth — a place with a huge garage and a well in the back garden and a layout nobody likes — he measures it against the same dead man.
+And when they take a house on the eighth, he measures its roof against the same dead man's standard.
 
 `now this is a roof rafa would approve`
 
 ---
 
-There is one more line, and it is the one that closes the circle the whole account has been drawing.
+There is one more line, and it closes the circle the whole account has been drawing since its first page.
 
-On the eleventh of September, in passing, in the middle of a conversation about gear, the ninth man notes what he is wearing.
+On the eleventh of September, in passing, in the middle of a conversation about equipment, the ninth man mentions what he is wearing.
 
 `i have the same hand me down gear since dragos i think`
 
-Dragoș Muresan walked in a straight line into the best farm in Rosewood on the fourteenth of August and died there without noticing. He was the first. He accomplished nothing, learned nothing, and the only mark anybody made for him is a drawing of an animal's foot on the field where they put him down.
+Dragoș Muresan walked in a straight line into the best farm in Rosewood before the record opened and died there without noticing what he had found. He was the first. He accomplished nothing and learned nothing, and the only permanent mark anybody made for him is a drawing of an animal's foot on the field where Stacey had to put him down.
 
-Twenty-nine days and eight successions later, the clothes are still in service.
+Twenty-nine days and eight successions later, an unnamed man was still wearing his clothes at the bottom of the county.
 
 ---
 
-Two other things happen in this stretch, and both of them are about names.
+Two other things happened in this stretch, and both are about names.
 
-On the seventh, clearing the top floors, Frank finds one of the dead wearing his own.
+On the seventh, clearing the upper floors, Frank found one of the dead wearing his.
 
 `i found a picarnitas z swett`
 
-Jean-Luc Picarnitas has been Frank's man, on and off, through six deaths and two rebuilds. The county has now produced another one, already dead, in a sanatorium corridor a hundred miles from anywhere Frank has ever lived. He mentions it once. Nobody follows up.
+Jean-Luc Picarnitas had been Frank's man, on and off, through six deaths and two rebuilds. The county had now produced another one — already dead, in a sanatorium corridor, a hundred miles from anywhere Frank had ever lived. He mentioned it once. Nobody followed up.
 
-And on the tenth, when Stacey catches him sleeping on the sofa he has used every night for a month and starts hammering anyway, he answers for the man rather than for himself.
-
-`orange couch been my bed for the past month`
-
-`lmao didnt know u were sl`
-
-`forgot u do couches`
-
-`im hammering away like a fool`
+And on the tenth, when Stacey caught him asleep on the sofa he had used every night for a month and started hammering anyway, he answered for the man rather than for himself, which is the closest thing to an epitaph anyone in this account gets while still alive.
 
 `picarnitas dreaming of tacos, doesn't even care`
 
@@ -1857,164 +1705,80 @@ And on the tenth, when Stacey catches him sleeping on the sofa he has used every
 
 On the eighth they gave up Brandenburg.
 
-It had taken eight days, two deaths, a sanatorium and the better part of the county's ammunition to get there and clear it, and when it was done they packed the box truck and the trailer to the maximum and left. Senpai released the safehouse. Stacey quit the faction and could not re-join it. They spent twenty minutes on the ninth and the eleventh trying to make a new house count as a house at all.
-
-`says not residential`
-
-`maybe i need to build a door here`
-
-`need 1 door 1 hinge`
+It had taken eight days, two deaths, a sanatorium and most of the county's ammunition to reach it and clear it, and when it was done they packed the box truck and the trailer to the maximum and left. Senpai released the safehouse. Stacey quit the faction and found the game had put her straight back into it. They spent twenty minutes across two days discovering that their new house did not register as a residential building and therefore could not be claimed at all, and solved it the way this group solves everything, which is that senpai built a door and hung it.
 
 The place they chose is in Rosewood.
 
-Not near it. In it. The position logs put the new house at roughly (7890, 11527); the safehouse they abandoned on the nineteenth of August, the one with the four fire axes in the bedroom closets and the roof that killed a man, is at (7925, 11545). Forty tiles. After a fortnight of driving to the top of the county — Ekron, Brandenburg, the prison, the sanatorium, the northernmost tile any of them ever stood on — they came back and set up about a minute's walk from the first house in the account. Nobody remarks on it. It is chosen because it is on the way to the military facility.
+Not near it. In it. The position logs put the new house at roughly (7890, 11527). The safehouse they abandoned on the nineteenth of August — the one with the four fire axes in the bedroom closets and the roof that killed a man — is at (7925, 11545). Forty tiles. About a minute's walk.
 
-It has a pond across the road and a well in the garden that Stacey checks and reports on with more pleasure than she has shown for any weapon in the archive.
+After a fortnight of driving to the top of the county, after Ekron and the forward camp and Brandenburg and the prison and the sanatorium and the northernmost tile any of them ever stood on, they came back and set up beside the first house in the account. Nobody remarks on it. It was chosen because it was on the way to the military facility.
 
-`pond across the street and well in backyard`
-
-`ja well says unknown. thats cool`
+What they liked about it was the water. A pond across the road and a well in the back garden that Stacey tested and reported on with more pleasure than she shows for any weapon in either record.
 
 `swettt unlimited water`
 
-`that well water is clean`
-
-`and refreshes a TON each day`
-
-Then Stacey drove back to Irvington. Then she drove back again. Then a third time, for the floodlights, and she announced that one as the last.
-
-`i go get flood lights from other base later. one last trip!`
-
-Between the second and the third she made a note of what she was doing, and the note is the most Stacey object in either record: she had run out of room in her head for the shopping list, so she found paper.
+Then she drove back to Irvington. Then she drove back again. Then a third time, for the floodlights, and announced that one as the last. Somewhere between the second and third run she made a note of what she was carrying, and the note is the most characteristic object in either record: she had run out of room in her head for the list, so she found paper.
 
 `i just grabbed a notepad from the trash and WROTE the other stuff down`
 
 ---
 
-And on the morning of the ninth, while she was driving one of those loads through weather she could not see through, Frank asked a question that nobody in the first record could have asked.
+And on the morning of the ninth, while she was driving one of those loads through weather she could not see through, Frank asked a question nobody in the first record was in a position to ask.
 
-`fog so annoying`
+She had been complaining about the fog. He offered to remove it.
 
 `want me remove it`
 
-`didnt know could`
+She did not know that was possible. He turned it down to low first and they both stood in it and agreed it felt the same, and then he took it out of the county altogether.
 
-`swet did u do`
+The first thing that happens in this account — the first line of the first chapter, twenty-six days earlier — is a woman shouting into fog at nobody, looking for a body in a town she cannot see the end of. The fog is in the third sentence of the record and in almost every bad morning since: the fog on the sixteenth, the fog that stopped the logging, the fog Stacey swore at on nine separate days, the fog that was still arriving on the ninth of September to ruin a supply run.
 
-He did. He turned it down to low first, and they both stood in it and agreed it was the same, and then he took it out of the county altogether.
-
-`can remove or change intensity between low moderate normal, was on normal`
-
-`low fog`
-
-`feels the same`
-
-`gonna remove it`
-
-The first thing that happens in this record — the first line of the first chapter, a month and twenty-six days earlier — is a woman shouting into fog at nobody, looking for a body in a town she cannot see the end of. The fog is in the third sentence of the account and in almost every bad morning since: the fog on the sixteenth, the fog that stopped the logging, the fog Stacey swore at on nine separate days.
-
-On the ninth of September a man with administrator access took it out, because it was annoying, and nobody said anything about it afterwards.
+A man with administrator access removed it, at about ten in the morning, because it was annoying. It took him under two minutes. Nobody said anything about it afterwards, and it never came back.
 
 ---
 
 <!-- CH:29 | Seventeen Floors | Sep 10-12 | frank,stacey,senpai | driving,building,deaths -->
 ## XXIX. Seventeen Floors
 
-The last thing in the county they had not opened was a military research facility, and the reason they went for it is a sentence senpai read somewhere and repeated: that it is the deepest building anywhere in this world, going down seventeen floors, with a cave underneath it.
+The last thing in the county they had not opened was a military research facility, and the reason they wanted it is a sentence senpai read somewhere and repeated: that it is the deepest building in this world, going down seventeen floors, with a cave underneath it.
 
-They could not get to it.
-
-`i still havent figured out how to get to military research facility`
+They could not get to it. There was no road.
 
 `there's no way we're driving up this road`
 
-`tried chopping a path to military, road just keeps going`
-
-`impossible to take vehicle unless we cut down trees`
-
-So Frank cut down the trees. He spent the tenth doing it, alone, with an axe, reporting progress like a man laying rail.
+So Frank cut one. He spent the tenth on it, alone, with an axe, chopping a path through forest and reporting progress like a man laying rail — leaving the bushes standing because they made good speed bumps, and noting that this was the first route he had tried that did not simply stop.
 
 `so far this is the only path that doesn't end`
 
-`i'll continue to chip away at this, see how far we can bring cars`
+Stacey joined him with a second axe, walked ahead of the cutting to see how much was left, found where the paved road started again, and marked it on the chart. By the evening of the eleventh there was a road to the most defended building in Knox County, and three people had made it with hand tools in two days.
 
-`will need to hike, though`
+They packed for it like an expedition, because it was one. Twenty litres of water in a jerry can. Food for days. Two rifles, a carton of ammunition each, pistols. Sledgehammer and welding gear for the doors. Spare engine parts for the inevitable. A dozen books, for happiness. Five half-mask respirators and seven filters, because of what the sanatorium had taught them about the smell. Tents, sleeping bags, a generator — and, after a search of every medical office in the town, whatever beta blockers were left in the county, which was a few half-empty bottles.
 
-Stacey joined him with an axe of her own, walked ahead of the cutting to see how much was left, and marked where the paved road started again.
-
-`found paved road`
-
-`must be close`
-
-`we can def chop through and drive`
-
-`marked where it is`
-
----
-
-They packed for it like an expedition, because it was one.
-
-Twenty litres of water in a jerry can. Food for days. Two m16s, a rifle, pistols, a carton of ammunition for each. Sledgehammer and welding gear for the doors. Spare engine parts for the inevitable. A dozen books, for happiness. Five half-mask respirators and seven filters, because of what the sanatorium had taught them about the smell. Tents, sleeping bags, a generator, and — after a search of every medical office in a town — whatever beta blockers were left in the county.
-
-`cleared medical office. not a single one`
-
-`found a few half empty bottles`
-
-`they dont even last that long. dont remember them being this rare`
-
-They camped at the end of the cleared road on the eleventh, in tents, in loud rain, with the trailer left where it stood. Stacey drew the line at going any further that night.
+They camped at the end of the cut road on the eleventh, in tents, in rain loud enough that Stacey refused to go near the place in the dark.
 
 `0% chance im doing anything near mil base in this loud rain. NO!`
 
-The ninth man spent the evening building. A fence, then a gate, then an airlock behind the gate in case the gate failed, then a watchtower — the carpentry he learned out of Rafa's notebook, deployed on the last night of the record on a patch of forest nobody would ever come back to.
-
-`gonna build airlock to gate just in case they break`
+The ninth man spent that evening building. A fence, then a gate, then an airlock behind the gate in case the gate failed, then a watchtower — the carpentry he had learned out of a dead man's notebook, deployed on the last night of the record on a patch of forest nobody would ever return to.
 
 ---
 
 They went in on the twelfth.
 
-It took a sledgehammer and three reconnections. The desync was severe enough that they lost each other inside the building and had to describe where they were standing.
+It took a sledgehammer and three reconnections. The desync was bad enough that they lost each other inside and had to describe where they were standing. They went down one level, then another. Stacey led, because her flashlight had the fresher batteries and she was conscious of how long they would last.
 
-`am at bottom too but not see stacey`
-
-`swet there he is`
-
-Down one level. Then another. Stacey went ahead because her flashlight was fresher.
-
-`going to keep going before batteries run out`
-
-`at bottom`
-
-The shelving is the one thing in there that impressed her, and it impressed her because it was organised.
-
-`lmao the shelves in here`
-
-`each row is like diff skill or profession`
+The only thing down there that impressed her was the shelving, and it impressed her because it was organised: each row a different skill or profession, which is the one idea in the entire facility that this particular group of people was equipped to admire.
 
 And then, at the bottom of the deepest building in the world, they ran out of building.
 
 `this cant be all of it`
 
-`they wouldnt put this in the middle of nowhere and make it hard to get to`
+She went through it aloud. They would not put this in the middle of nowhere, and make it this hard to reach, and put the dead outside it, and then leave nothing inside. It had taken somebody a long time to build. None of that changed what was in front of her.
 
-`AND put z outside`
-
-`then NOTHING inside`
-
-`this took ages to build for them, surely`
-
-There was nothing down there. There was also, and this bothered senpai more than the empty shelves, nobody down there.
+There was nothing down there. There was also — and this bothered senpai more than the empty shelves — nobody down there.
 
 `where the dang z`
 
-`am still baffled about missing z outside of milbase`
-
-`ja should be more`
-
-`pz wiki says most active area`
-
-Stacey had killed perhaps fifty outside the fence line, in the wrong place, pathing oddly. Inside the most defended structure in Knox County, at the bottom of seventeen floors, there was no one at all.
+Stacey had killed perhaps fifty outside the fence line, in the wrong place, pathing oddly. Inside the most defended structure in Knox County, at the bottom of seventeen floors, there was no one at all. They had marked this building on their chart with a pair of crossed swords, the only mark of its kind in either record, before they had ever seen inside it.
 
 ---
 
@@ -2022,23 +1786,17 @@ She found one thing worth carrying out.
 
 `found a hottiez mag. not all is lost`
 
-And then, at twenty to two in the afternoon on the twelfth of September, after thirty days, four towns, three houses, sixteen deaths and four thousand and sixty-six hours without dying once, Stacey ended the record herself, in one line, and made a rule out of it.
+And then, at twenty to two in the afternoon on the twelfth of September — after thirty days, four towns, six holdings, sixteen deaths and four thousand and sixty-six hours without dying once — Stacey ended the record herself, in a single line, and turned it into a rule.
 
 `swet. going to CALL IT HERE. fun run. finished with a hottiez mag, which will be tradition from now ON!`
 
-`good run`
-
-Frank's verdict on the facility came that evening, and it is six words long.
+Frank's verdict on the facility came that evening and it is six words long.
 
 `ja that milbase shoulda been epic`
 
 ---
 
-The record runs on for another forty minutes after Stacey signs off, and what is in it is the ninth man alone in the bottom of an empty military base, shouting.
-
-`HEY!`
-
-`HEY YOU!`
+The record runs on for forty minutes after she signs off, and what is in it is the ninth man, alone, at the bottom of an empty military base, shouting.
 
 `HEY!`
 
@@ -2046,15 +1804,17 @@ The record runs on for another forty minutes after Stacey signs off, and what is
 
 Six times in four minutes, into seventeen floors of nothing, in a county where the fog had been switched off three days earlier so that he could see all of it.
 
-Then he says he needs to go and eat, and mentions, as an afterthought, what he intends to do with whatever is left.
+The first thing in this account is a woman shouting into fog at nobody, looking for a body she cannot find. The last thing is a man shouting into an empty bunker at nobody, in perfect visibility, having found nothing at all. Between those two lines: thirty days, sixteen dead, a second storey, a forge, a well, a tunnel under a hospital, and a road cut through a forest with an axe to reach a building with nothing in it.
+
+Then he says he needs to go and eat, and mentions what he intends to do with whatever is left.
 
 `will still prb play a bit in rosewood`
 
 `gonna find that poolhouse`
 
-He is already in Rosewood. He has been living forty tiles from the first house for four days. Rosewood is where Dragoș Muresan walked into a field and died without noticing, before the record opened; where Stacey put his corpse down on the fifteenth of August; where Frank joined at 10:26 one morning and was dead by 10:40; where the first Marco lasted sixty seconds in a room in a town everybody had abandoned nine days earlier. They drank it dry and left it and drove four thousand tiles north and cleared a tuberculosis hospital and opened the deepest building in the world, and the last thing anybody in the account proposes to do is stay where they started and go and look at a house with a swimming pool.
+He is already in Rosewood. He has been living forty tiles from the first house for four days. Rosewood is where Dragoș Muresan walked into a field and died without noticing; where Stacey put his corpse down on the fifteenth of August; where Frank joined at 10:26 one morning and was dead by 10:40; where the first Marco Bernal-Casillas lasted sixty seconds in a room in a town everybody had abandoned nine days earlier.
 
-`ja swet`
+They drank it dry and left it, drove four thousand tiles north, cleared a tuberculosis hospital, opened the deepest building in the world and found it empty. And the last thing anybody in this account proposes to do is stay exactly where they started and go and look at a house with a swimming pool.
 
 `brb`
 
